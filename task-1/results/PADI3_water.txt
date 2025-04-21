@@ -1,0 +1,3251 @@
+########################################
+# Program: water
+# Rundate: Mon 21 Apr 2025 03:23:08
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20250420-154159-0371-67277110-p1m.asequence
+#    -bsequence emboss_water-I20250420-154159-0371-67277110-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 17249098-17284233
+# 2: c153117146-153089717
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 40142
+# Identity:   17759/40142 (44.2%)
+# Similarity: 17759/40142 (44.2%)
+# Gaps:       17731/40142 (44.2%)
+# Score: 37391.0
+# 
+#
+#=======================================
+
+17249098-1728      1 AGTGTTGGGGTTGGCGGCCACAGCTAAG------TCCAACACCAGCATGT     44
+                     ||||.||||.||||.|||||     |||      |||.|..||.||||||
+c153117146-15      1 AGTGCTGGGTTTGGTGGCCA-----AAGCCCCCATCCTAGGCCGGCATGT     45
+
+17249098-1728     45 CGCTGCAGAGAATCGTGCGTGTGTCCCTGGAGCATCCCACCAGCGCGGTG     94
+                     |.||||||||.||.||.|||||.||||||||.||.||.||||||||.|||
+c153117146-15     46 CTCTGCAGAGGATTGTACGTGTATCCCTGGAACACCCAACCAGCGCTGTG     95
+
+17249098-1728     95 TGTGTGGCTGGCGTGGAGACCCTCGTGGACATTTATGGGTAAGA------    138
+                     ||||||||.||.||.||||||.||||||||||||||||||||||      
+c153117146-15     96 TGTGTGGCAGGGGTTGAGACCATCGTGGACATTTATGGGTAAGAGTTGGT    145
+
+17249098-1728    139 --------GTCAGAGG--CCTAGTG----GTTTGCAGGCC-------CTT    167
+                             |||.|.||  |||||||    ||.|...||||       ||.
+c153117146-15    146 TCTGGAGGGTCTGGGGTTCCTAGTGTTGAGTCTCTGGGCCTCCCCTGCTA    195
+
+17249098-1728    168 GGTGCTGATGCCCTTGGACCTTCCTCCCTG----CAGGCTGGGC--AGGG    211
+                     ||.|||| |||...||||..|||  |||.|    ||||||||||  ||||
+c153117146-15    196 GGAGCTG-TGCAAATGGATGTTC--CCCAGGGCACAGGCTGGGCCAAGGG    242
+
+17249098-1728    212 CTTCTTCAGGGCCCACTCCCCAGCCTTGGCCTCGGAACAGCAGCCAATC-    260
+                     ...||   |||           |.|||..|||.|.|||..|.|||.|.| 
+c153117146-15    243 TGCCT---GGG-----------GTCTTAACCTTGAAACCTCTGCCCACCG    278
+
+17249098-1728    261 AGGGAAGCTTGGGTCCTCCTCTTGCTCTA---------------------    289
+                     .||||||..||||||     ||||||.||                     
+c153117146-15    279 TGGGAAGTATGGGTC-----CTTGCTGTAGTCAGCCTGGTTCCCAGCAGG    323
+
+17249098-1728    290 ----------------------------CTGAGTTTCCT--------GAA    303
+                                                 ||||| .||||        |||
+c153117146-15    324 GTGTTTGAACCAGGGGATCCAGGCAGGCCTGAG-CTCCTACCATATAGAA    372
+
+17249098-1728    304 GACCTTAG----------CCAGGGAATTTGAAGTTTGGGA---------G    334
+                     |..|||||          .|||||..||||||....||||         |
+c153117146-15    373 GGGCTTAGATGGTTCCCAGCAGGGTGTTTGAACCAGGGGATCCAGGCAGG    422
+
+17249098-1728    335 GCTGAG------CCAGGTAGAAGAGGCTT---------------------    357
+                     .|||||      |||..|||||| |||||                     
+c153117146-15    423 CCTGAGCTCCTACCATATAGAAG-GGCTTAGATGGTTCCCAGCAGGGTGT    471
+
+17249098-1728    358 -------------------CAGTGACTGAGCTCC--------AGACCGGG    380
+                                        ||| |||||||||||        |||   ||
+c153117146-15    472 TTGAACCAGGGGATCCAGGCAG-GACTGAGCTCCTACCATATAGA---GG    517
+
+17249098-1728    381 GGCTTGGAGGGGGCTGGTGCCGCGAAGAGATGGCACTTTTCTATGTCCAA    430
+                     |.|.|.||.||..||||.|  ||.|.|    |||.|.||.||..||..||
+c153117146-15    518 GTCCTAGATGGTTCTGGGG--GCCATG----GGCTCATTACTCGGTTTAA    561
+
+17249098-1728    431 GGGATGCTGCAGGTTGGGCTGAGGA-TCTGTCTGGGGCACACAAGAATAG    479
+                     ||| |.|| ||||...|||||...| |||||||..|||.||||||||.||
+c153117146-15    562 GGG-TCCT-CAGGAGAGGCTGGTCACTCTGTCTATGGCCCACAAGAAAAG    609
+
+17249098-1728    480 GAACAGGCAGATATCC------CCAGCCCCATCCTGAGCCTATGAGCCTA    523
+                     ||  |||.|..|.|||      ||  .||.|||     ||| || ||.||
+c153117146-15    610 GA--AGGGATCTGTCCTCTTGTCC--TCCAATC-----CCT-TG-GCTTA    648
+
+17249098-1728    524 GAAACAGAGCATGAATCATTTTTAAAAA------ATAAGTT--AATACAT    565
+                     |.|||..||...|||||||||.|.||||      ||..|.|  .||||.|
+c153117146-15    649 GGAACCCAGGGAGAATCATTTCTTAAAAGGCCGCATCTGCTCACATACGT    698
+
+17249098-1728    566 AGCACTTACCATGTGCCAGGCACTATTCTAAGAGCT--TCACAAGTCTCT    613
+                     |||.||||  |.||||||..|.||.|.|..||||||  |||||..|||| 
+c153117146-15    699 AGCCCTTA--AGGTGCCAAACTCTGTCCCCAGAGCTGGTCACAGTTCTC-    745
+
+17249098-1728    614 TGAGTTAAGTTTTGAACTTTAATCTTGAATTTAACCCTTACAACAACCCT    663
+                            ||      |||..|.||                   ||||   
+c153117146-15    746 -------AG------ACTCCACTC-------------------CAAC---    760
+
+17249098-1728    664 GTGAGCTAGGCTTATTATTAGCATCATCTCA-----------TCAGACAA    702
+                       |||  ||.|.|...|||..||.|||||||           ||  ||||
+c153117146-15    761 --GAG--AGCCCTGCCATTCACAGCATCTCAGGTGGTGGTGTTC--ACAA    804
+
+17249098-1728    703 ATGAGAAAACCGAGG--CAGAGAGGGCAAGCCATTTGCTCAAGTCACACA    750
+                     | |.|.||...|.||  |||.|||||..|||||||.||.||.||||||||
+c153117146-15    805 A-GTGCAAGTGGTGGCACAGTGAGGGTGAGCCATTAGCCCAGGTCACACA    853
+
+17249098-1728    751 GTTACTAAGTGGCAAAGCCAGGGTTTAAACCCGCTTGTGGTCTTACTCAG    800
+                     ||.||...|.|||.||||...|.|||.|.|||.| |||||.||||||.||
+c153117146-15    854 GTCACCTGGAGGCTAAGCGGAGCTTTGAGCCCAC-TGTGGACTTACTAAG    902
+
+17249098-1728    801 GAGTCTTATGGTTTTAGCTGCT--CTGATACTTGGAAAATAAAGATTTCC    848
+                                       ||||  |||                    |||
+c153117146-15    903 ------------------TGCTTCCTG--------------------TCC    914
+
+17249098-1728    849 AACCTGGTTTCCTCTAGACACTCAATGCCCATGCATTATGCTCCTACTGT    898
+                      |.|||  |||    ||.||||..|..||||.|..||..|.||| ||  .
+c153117146-15    915 -AGCTG--TTC----AGCCACTGGAGCCCCAGGGCTTTGGATCC-AC--G    954
+
+17249098-1728    899 GTGCCAGGTCATGCCTTTGAGGCCCATG----------GTAGAGGGAGG-    937
+                     |||.|.|||||  |||.|| |||   ||          ||   |..||| 
+c153117146-15    955 GTGGCTGGTCA--CCTGTG-GGC---TGTGGCTGCTGCGT---GCCAGGC    995
+
+17249098-1728    938 TAAGGCCTTATCTTCTCTCTCTTAGGAAGAAAAGAG-GGTTAGGGTAGGG    986
+                     |.||.||.||                .||.|.||.| ||||.||||||||
+c153117146-15    996 TGAGCCCATA----------------CAGCACAGGGTGGTTTGGGTAGGG   1029
+
+17249098-1728    987 TTTTAAGAGCTGGGCTCTGGGGACCACCAGGGA-GCTGGCTTCTTAGGCT   1035
+                     .|||           |.|.||       ||.|| |||||.||||||||||
+c153117146-15   1030 GTTT-----------TGTAGG-------AGCGAGGCTGGTTTCTTAGGCT   1061
+
+17249098-1728   1036 TTTGGGGAGAATCCAGGGTC-----CTG-GCTTGGAGG---TAATC--AG   1074
+                     |||     ||.|||..|.||     ||| |||  ||||   .|.||  ||
+c153117146-15   1062 TTT-----GAGTCCCAGCTCTGAGACTGAGCT--GAGGACAGATTCCAAG   1104
+
+17249098-1728   1075 GATACTGGGAGGGGAGGGTGCAGAACTGTGGGACAGCTCTCACCTCTCAA   1124
+                     |||.|||   |||..|||||                   |||||.||||.
+c153117146-15   1105 GATGCTG---GGGTCGGGTG-------------------TCACCCCTCAG   1132
+
+17249098-1728   1125 GTCTCCCAGCCCTCTCCTCAGGCCAGGTTTCTCAACCTCAGCACTGCTGT   1174
+                     ..|||||.||||.||.||..|   |.||..||     |||||||||    
+c153117146-15   1133 ACCTCCCTGCCCCCTTCTTGG---ATGTGGCT-----TCAGCACTG----   1170
+
+17249098-1728   1175 CACGATACC-----TCTTTGTCATGGGG-----GCCA--CCCTGT-GCAC   1211
+                       .||.|||     .|.||||    |||     ||||  |.|||| .|||
+c153117146-15   1171 --GGACACCAACAGCCCTTGT----GGGACTGTGCCATTCACTGTAACAC   1214
+
+17249098-1728   1212 TGTAGGATGGAGAG-CAGCATTCTGGGCCTCTCTTTGCTAGATACC--AG   1258
+                     |||      ||||| ||.|.||   ||.|||...||||..||..||  ||
+c153117146-15   1215 TGT------GAGAGTCATCTTT---GGTCTCCACTTGCCGGAGCCCTTAG   1255
+
+17249098-1728   1259 CAGCACACTCCCGAGTTGTGACAACCAAAA-----ATGTCCCCAGACATT   1303
+                      .||.|.|.||...|.||.|.||.||||||     |||||..|||..| |
+c153117146-15   1256 -TGCTCCCACCTCTGATGGGTCAGCCAAAACTCAGATGTCGTCAGGTA-T   1303
+
+17249098-1728   1304 GCCAAATGTGCCCTGGGGTGGGAAGAAAATAGCCCACCCA----TTGAG-   1348
+                     ||        |||.||||                   |||    ||.|| 
+c153117146-15   1304 GC--------CCCAGGGG-------------------CCAAAGTTTCAGT   1326
+
+17249098-1728   1349 -AACGAGTCTCCAAGACTAAGA---CTCGAAAAATCAGGGCGAACTTAGT   1394
+                      .||.||  ||||..|.|||||   .||  ||||...|||.|||.|.|||
+c153117146-15   1327 ACACAAG--TCCAGAAGTAAGATTTTTC--AAAAGTGGGGTGAAATCAGT   1372
+
+17249098-1728   1395 CGGGAGCAGCGATGGGGT-TGATCCAGGGCATTGGA------TGAGAGGG   1437
+                                 |.|||| |||     ||.| .|||      |  .||||
+c153117146-15   1373 ------------TAGGGTCTGA-----GGTA-CGGACCCTCCT--CAGGG   1402
+
+17249098-1728   1438 GGTGAGGAGCTGGTCATGGGAGGGAACCAAGTCGG----GAGCAGAG--C   1481
+                     .|||||..||.|||||..||||..|||||||||.|    ||.|.|.|  |
+c153117146-15   1403 AGTGAGTTGCCGGTCACAGGAGATAACCAAGTCCGAGATGAACTGTGTAC   1452
+
+17249098-1728   1482 CAGCCCAGGAAATAAATCCTG-----GTATTGGTGG-GTGGGCAG-TA-G   1523
+                     |||..|.||      .|||||     |..||||||| .|||| || || |
+c153117146-15   1453 CAGGACTGG------CTCCTGGCCGAGGGTTGGTGGACTGGG-AGATATG   1495
+
+17249098-1728   1524 GAGGAGGAAGGGGATTCAGTGGTTCTT-GAAGGAAGGGGCAGCCACGGAG   1572
+                     .||     ||||||.||.||.|  ||| .||.|||           |.||
+c153117146-15   1496 CAG-----AGGGGAGTCTGTAG--CTTCCAAAGAA-----------GCAG   1527
+
+17249098-1728   1573 GCTGTGCCAAGGAGGTAATGAGGAAGGAGGGGTATCTGCCACTTGGCACC   1622
+                     ||       ||||      .||||||| |||||...|||..|.||||.||
+c153117146-15   1528 GC-------AGGA------CAGGAAGG-GGGGTGGATGCGGCCTGGCGCC   1563
+
+17249098-1728   1623 ACTGCCTGCCTGCCATGGGGTGACTGGGCTGCGTG-CCATGGG-GTGACT   1670
+                     ||.||||||  .|||          |||||||||| ||||||| ||||||
+c153117146-15   1564 ACAGCCTGC--TCCA----------GGGCTGCGTGCCCATGGGAGTGACT   1601
+
+17249098-1728   1671 CACCTGCCCCTGCTGCCTCGTGCCCGTTGGGCAGATGTGTCTCCGGTTTG   1720
+                     |||  |.|||.|||||||.||||||.||||..||||.||||||.||||||
+c153117146-15   1602 CAC--GGCCCGGCTGCCTTGTGCCCATTGGATAGATATGTCTCTGGTTTG   1649
+
+17249098-1728   1721 ACCTGTCCCAGGAAGCCTGGGCCTGGCTCCTCCCC---------------   1755
+                     |||||| |||||.|| |||||..|.||||||||||               
+c153117146-15   1650 ACCTGT-CCAGGGAG-CTGGGGATAGCTCCTCCCCCTTCTCCTCCTCCCC   1697
+
+17249098-1728   1756 --------------------------------------------------   1755
+                                                                       
+c153117146-15   1698 CTTTCCCCTTCTTCCTCTTCCCCCATTCCCCCTCTTCCTCCCCCTTCTCC   1747
+
+17249098-1728   1756 --------------------------------------------------   1755
+                                                                       
+c153117146-15   1748 TCCTCCCCCTTCCCCTCCTCCTCCTTCTCCCCTTTCCTCCCTCCTCCCCC   1797
+
+17249098-1728   1756 ----------------------------------------------CGCA   1759
+                                                                   |.||
+c153117146-15   1798 TTCTCCTTCTCCTCCTCCTCTTCCTCCAGCTCCTCCTCCTGATCCTCTCA   1847
+
+17249098-1728   1760 GAGCTTCCTTAGAGGATAGAGGATGGATTGGGGCAATAAGAGATAAAGGC   1809
+                     |||.|.||||.||||.|.||||||||..||||    |..|||..||  ||
+c153117146-15   1848 GAGGTGCCTTCGAGGGTGGAGGATGGGCTGGG----TGGGAGGCAA--GC   1891
+
+17249098-1728   1810 CATAGCTTCCTG-----GAGTCACCTGAGCCACACTGGAGGTTTGC--AG   1852
+                     .||.|.||...|     ||||.||..|.||||...|||.||||..|  ||
+c153117146-15   1892 AATTGGTTGGGGGTAATGAGTGACTAGGGCCATGGTGGGGGTTCACCAAG   1941
+
+17249098-1728   1853 AGAA---GGCCATCGGTGGGACAGCCACAGGGTGGGGGATGGAAGCTCTG   1899
+                     ||||   ||     |.||||.|||.|| .|.||||.||..||  |.|.||
+c153117146-15   1942 AGAACTGGG-----GATGGGGCAGTCA-TGAGTGGTGGCAGG--GTTTTG   1983
+
+17249098-1728   1900 ATACCTTCAAAT-GAGGGATTCTTGGGC-----CCTGG-TGGCCAAACCC   1942
+                     .||.|||   || ||.|||    ||..|     ||.|| |||||||.|||
+c153117146-15   1984 GTATCTT---ATAGAAGGA----TGTTCACACACCAGGATGGCCAATCCC   2026
+
+17249098-1728   1943 CCCAGGGGTGGG-AGTGGAGAGCTCCTAGTTCGTTCATTCACATATTCTT   1991
+                     ||      |||| |.|||||.|        ..|||.|||||||||..|.|
+c153117146-15   2027 CC------TGGGAAATGGAGTG--------GGGTTTATTCACATACCCAT   2062
+
+17249098-1728   1992 CAAGTATTTCTTTTGGGTCTAGTGTGTG--TACCAT--------TCAG-A   2030
+                     ||.|...||||||..|...||||||.||  .|||.|        |||| |
+c153117146-15   2063 CATGGGCTTCTTTGAGCATTAGTGTATGGCCACCCTGGGGACTCTCAGAA   2112
+
+17249098-1728   2031 GCCTTGAAGGATGAGCACAGGCT--CTGGGGACACATACAGGGGAGAACA   2078
+                     |  |.||||..||..|     ||  |||||||         |||||..||
+c153117146-15   2113 G--TAGAAGACTGTTC-----CTACCTGGGGA---------GGGAGTTCA   2146
+
+17249098-1728   2079 AGCAGCTCCTCCTCTCTGAG-AAGCCAGCAGAGGCTGGAC----------   2117
+                     .||.||| .|||      || .||.|.||||| |.|||.|          
+c153117146-15   2147 GGCGGCT-GTCC------AGTGAGGCTGCAGA-GATGGCCTGTGTCTTGG   2188
+
+17249098-1728   2118 -----AACCTT--CTTACAAGGGTG----------CCA---CAGAAAGGA   2147
+                          |.||||  |||..|.||.||          |||   ||.||    
+c153117146-15   2189 TTGTGAGCCTTGCCTTTAATGGCTGAGCCATCTCTCCAGCCCACAA----   2234
+
+17249098-1728   2148 CTCCTTTCTG------GGAA--GGGGAGCAGGACT----------GAGTT   2179
+                           ||||      ||||  ||||||||.||||          |||||
+c153117146-15   2235 ------TCTGTGTCATGGAAGGGGGGAGCAAGACTGGACATCTTAGAGTT   2278
+
+17249098-1728   2180 AGTTCTGAGGTCCCTCCCGGCTTGGAG--GTGCCATG----ATGTAACAA   2223
+                      |||||        |||     |||||  |.|.||||    |||      
+c153117146-15   2279 -GTTCT--------TCC-----TGGAGCCGAGTCATGGCCTATG------   2308
+
+17249098-1728   2224 TCCTGGGTCCTCAGCCTGCGGGCCAACAAGAGAAAGGGCAGTAGGTGTTG   2273
+                                 |.||||                 |.||||.||| ||..
+c153117146-15   2309 ------------AACCTG-----------------GAGCAGCAGG-GTGA   2328
+
+17249098-1728   2274 TGGCTCAGTCCTGGCTCTGCAACTTCCCAGCTCTCTGACCGTGGGAAACT   2323
+                     .|||||||.||||.|||||...|||||..|||..||.|.|.||||||.|.
+c153117146-15   2329 CGGCTCAGCCCTGACTCTGGCCCTTCCGGGCTGCCTCATCTTGGGAAGCG   2378
+
+17249098-1728   2324 CCTT----------TAACTTCTCTGAGTCTCTGTTTCCTCACCTGTTGCC   2363
+                     |.||          |..|||||.||||          |||          
+c153117146-15   2379 CTTTCCCCATGGACTCTCTTCTTTGAG----------CTC----------   2408
+
+17249098-1728   2364 TGGGGATGATAATAATATCAGCAATGGCACTGAATGCCACTCCCCAGCAG   2413
+                                 ||.||     ||||       ||||.|||...||.|||
+c153117146-15   2409 ------------TACTA-----AATG-------ATGCGACTGAGCACCAG   2434
+
+17249098-1728   2414 ---------TGCCTG--------TAAGCGCTTTCCATATGTTAACTA-AT   2445
+                              .|||||        ||||         |||.|||.|.| ||
+c153117146-15   2435 GCTCTTGGTGGCCTGTGTCGTCCTAAG---------TATTTTACCCAGAT   2475
+
+17249098-1728   2446 TCTC-----------ACAAAATTCTCAAGTGGGCA--CTGTCATCATCGT   2482
+                     .|.|           ||      |..|||.|||.|  |||||.|||   .
+c153117146-15   2476 ACCCGAGCTTACCGTAC------CGGAAGAGGGTAGGCTGTCCTCA---C   2516
+
+17249098-1728   2483 CATTTTATAGATAAGAAAACAAAGGCACAGAGAGGTTAAACAACTTGTCC   2532
+                     |||.|.||||.|       |||.|   ||||||||.|||..|||.|    
+c153117146-15   2517 CATCTCATAGGT-------CAATG---CAGAGAGGCTAATTAACCT----   2552
+
+17249098-1728   2533 AAGGTCACATGGCCAGT-----GAGTGGCA-GAGCCAGGATGTAACCCAG   2576
+                       ||||||.|.||||||     |||.|||| |||.|.|..||.|   |.|
+c153117146-15   2553 --GGTCACGTAGCCAGTTGGTAGAGAGGCATGAGGCTGTCTGAA---CTG   2597
+
+17249098-1728   2577 TTTGG-CCTTACTTCAAAG-------GGCAGTTAGGGGCATTGAATGAGA   2618
+                     ||||| .|||.||||.|.|       ||.|| .||||         ||||
+c153117146-15   2598 TTTGGTTCTTTCTTCGAGGAGACCCTGGGAG-GAGGG---------GAGA   2637
+
+17249098-1728   2619 TTGTGTGTGCAAAGCATGTAACTAATACTGATTTGTGGTGA---------   2659
+                     ..|.||         |||||  .|||||.||   |.|..||         
+c153117146-15   2638 GAGGGT---------ATGTA--GAATACGGA---GGGCAGAGCCAAGGCC   2673
+
+17249098-1728   2660 -------------ACATTCAGTTATGTTAACTGTCACCAT---TATCAT-   2692
+                                  ||||||.||.|||..|...||||||.|   |||||| 
+c153117146-15   2674 GACAATGCACAGGACATTCTGTCATGGGATTGGTCACCGTCGGTATCATT   2723
+
+17249098-1728   2693 -CATCATCAGTTTAAGGCTTTGTCCTGGGCCTGTGGACAGCCTCAAGCAT   2741
+                      |||.||   ||||.||||.||.||...|.|||.||||||.|||.||..|
+c153117146-15   2724 CCATTAT---TTTATGGCTCTGCCCCAAGTCTGGGGACAGTCTCGAGTGT   2770
+
+17249098-1728   2742 CCCCAAA-CCTGCCATATGCAGGATGTCTGGGGAACAGT---CTCTGGAC   2787
+                     .|||||| ||||||||               |||.||||   || .||||
+c153117146-15   2771 TCCCAAACCCTGCCAT---------------GGAGCAGTTGGCT-AGGAC   2804
+
+17249098-1728   2788 CGTATTGGGAGAAGGAGTTGA-----GAAAAGA--GAAATTTACATCTGA   2830
+                     |     .|||||.|||| .||     |.|||||  ||...||        
+c153117146-15   2805 C-----AGGAGATGGAG-GGATGGGGGGAAAGAAGGACCGTT--------   2840
+
+17249098-1728   2831 CTCATGGCTGAGTCAGGGCAGTCTTCCTGGAGGAGGGGCACCAATCAGAC   2880
+                     |.||.|||||||.|                             |||||  
+c153117146-15   2841 CACAGGGCTGAGGC-----------------------------ATCAG--   2859
+
+17249098-1728   2881 CCTTGAAGGATGAGGACAAGCAAGTCTGTTGGGCCTCTCTATCTGTGGCA   2930
+                     |||||||||..||||  |||..|||   ||||                  
+c153117146-15   2860 CCTTGAAGGCAGAGG--AAGATAGT---TTGG------------------   2886
+
+17249098-1728   2931 GTGGATTCAACTTTATCTTCTTGCCTTTCCATGAATTGG--AGATGACCC   2978
+                          ||||         |||||     ..|.|||  ||  ||.|    |
+c153117146-15   2887 -----TTCA---------TCTTG-----GGAAGAA--GGAAAGTT----C   2911
+
+17249098-1728   2979 AGGCATGGTATGGGGGCTTTTC------------------TTTCTTGAGC   3010
+                     .||.|.|||..|.||||||..|                  ||      ||
+c153117146-15   2912 TGGAAGGGTTAGTGGGCTTACCCGGGGCCGCAGTCGCAGGTT------GC   2955
+
+17249098-1728   3011 AGTGAGTCTTAGGATGGGGAAAGGGAAGGAAGGGTACCCTGGTGCACTGA   3060
+                     ||||||.|  ||||.||...|..|.|||.||      |||       |.|
+c153117146-15   2956 AGTGAGAC--AGGAAGGCAGACTGAAAGCAA------CCT-------TCA   2990
+
+17249098-1728   3061 GCCATGCACT------GGG-----CGTCT-GGTGGCTGATTAACTCCTCC   3098
+                     |.|||.|.||      |.|     |.||| ||||.|||         |||
+c153117146-15   2991 GACATTCTCTTCACACGTGACTCACTTCTAGGTGTCTG---------TCC   3031
+
+17249098-1728   3099 CTGCAACTGGAGG----CAGGCTCAGCGG----------GATG-GTGGTC   3133
+                     |     |||| ||    |||||.||||.|          |||| |||.|.
+c153117146-15   3032 C-----CTGG-GGCTGCCAGGCCCAGCTGTCATCTTTACGATGTGTGATG   3075
+
+17249098-1728   3134 TGACAAGTGCTATCCCACAGGGCTAT-AGGGCTTGAACCCAGATCCCATC   3182
+                     ||.||.|                ||| ||.| |.|||..||| ||||  |
+c153117146-15   3076 TGTCATG----------------TATGAGAG-TGGAAAGCAG-TCCC--C   3105
+
+17249098-1728   3183 AAGTTCCACAGCCCAGGTGGTTTGCTT----GGTTCCACACAGCTCT--T   3226
+                     |.|     |.|.||.||||| |.||||    ||.| |||.||.|.||  |
+c153117146-15   3106 AGG-----CTGGCCCGGTGG-TGGCTTCTGGGGCT-CACCCATCCCTTCT   3148
+
+17249098-1728   3227 TCTCA--AGG----CTCAGGCAT---------CAGCACAAACCTTAGCAC   3261
+                     |||.|  |||    ||.||||.|         .||.|     |||||| |
+c153117146-15   3149 TCTGAGTAGGGAAACTGAGGCCTGGTGGGTGAAAGGA-----CTTAGC-C   3192
+
+17249098-1728   3262 AAAGTCTTGGTGCAGGAAGAAAGCT--GCTTTCTTTTCTTCTTCTTTTTT   3309
+                     |       |||.|||.||...||||  |                      
+c153117146-15   3193 A-------GGTTCAGAAACTGAGCTAAG----------------------   3213
+
+17249098-1728   3310 TTTTTTTTTTGTTGAAGACAGG------GTCTCACTCTGTTGCCCAGGCT   3353
+                               .|.||||.||||      |.|.||..|   .|||||   |
+c153117146-15   3214 ----------ATAGAAGCCAGGCCTTGAGACCCAAAC---AGCCCA---T   3247
+
+17249098-1728   3354 GGAATACAGTGGTGCAATCTTGGCTTACTGCAGCCTGGACC----TCCCC   3399
+                     |..|||   |||||            ||.|      |||||    ||||.
+c153117146-15   3248 GACATA---TGGTG------------ACGG------GGACCTGGTTCCCA   3276
+
+17249098-1728   3400 AGGATCAAGCTATCCTCCCGCCTCAGCCTCCC-GAGTAGCTG--GGA--C   3444
+                     |||                         |||| |||  ||||  |||  |
+c153117146-15   3277 AGG-------------------------TCCCTGAG--GCTGGTGGAAGC   3299
+
+17249098-1728   3445 TACAGGCGTGCACCACCATCCCCGACTAAGTTTTGCATGTTTTGTAGAGA   3494
+                     | ||||   ||.|||                           ||||.|  
+c153117146-15   3300 T-CAGG---GCTCCA---------------------------TGTATA--   3316
+
+17249098-1728   3495 TGGGGTT----TTGCCATGTTGCCCGGGCTGGTCTTGA-ACTCCTG--GG   3537
+                          ||    |||.|||          ||||    || ||.||.|  |.
+c153117146-15   3317 -----TTCAGGTTGACAT----------CTGG----GAGACCCCAGAAGA   3347
+
+17249098-1728   3538 CTCAAG--TGATCTGCCTGCCTGAGCCTCCCAAAGTGTTGGGATTACAGG   3585
+                     .|||.|  ||.||||||||.|||       ||    ||.|||    ||| 
+c153117146-15   3348 GTCAGGTCTGGTCTGCCTGGCTG-------CA----GTGGGG----CAG-   3381
+
+17249098-1728   3586 TGAGAGCCACCGTGTCTGGCCCAGTTTCAT--TCTTAATGGGCAAAATCA   3633
+                        .||.|||.|.|  |||||     .|||  |||           .|||
+c153117146-15   3382 ---TAGTCACAGGG--TGGCC-----ACATGCTCT-----------CTCA   3410
+
+17249098-1728   3634 A--AATCCCAGGATGACCTCTGGTGGGGAGGGCCATCCTCAGGGCCTCTG   3681
+                     |  .|.|||||  |.||||    ||    |.||.|.||.|||...||   
+c153117146-15   3411 AGCCAGCCCAG--TCACCT----TG----GAGCAAGCCCCAGAAGCT---   3447
+
+17249098-1728   3682 TCA-TTGG----CCCAGTGGTAAGA---ACAGACTGGACCCATTCCCAC-   3722
+                     .|| ||||    |||||    ||||   .|||.|..|||..|..||||| 
+c153117146-15   3448 ACACTTGGGAAACCCAG----AAGATGGGCAGCCATGACGGAAACCCACC   3493
+
+17249098-1728   3723 ----TGGGCTTTCCCATAACA------TGTGGAGATGCTTCC---TGGAG   3759
+                         .||.||.|.||  ||||      ||||.||  ||||||   .||||
+c153117146-15   3494 AGGGAGGTCTCTACC--AACAGGAAGCTGTGTAG--GCTTCCCCAGGGAG   3539
+
+17249098-1728   3760 TCTGTTGGGTTGTGGCT---GCTCATGTGGCT--------------GAGG   3792
+                     .||.||         ||   |.|||.|||.||              .|| 
+c153117146-15   3540 GCTTTT---------CTCTAGGTCAGGTGTCTCTTGCAAACACAACTAG-   3579
+
+17249098-1728   3793 GGCCCGCGAAGCTGGTCACCTT------TGGGATTCATCACAGGTGGGCT   3836
+                        ||..|||| ||| ||||.|      ||     |||          ||
+c153117146-15   3580 ---CCATGAAG-TGG-CACCCTCCTCCCTG-----CAT----------CT   3609
+
+17249098-1728   3837 TGGAGAGCAGTCCCCAGGCTGGTTCAGTGAGACATCTCTGGGGTCTTACA   3886
+                     |.||| |||             ||.|| |||| |.|.|| ||||||  .|
+c153117146-15   3610 TTGAG-GCA-------------TTTAG-GAGA-ACCGCT-GGGTCT--GA   3640
+
+17249098-1728   3887 CGC-CACTTCATTTT--------TTAG-TTGGGGAAACTGAGGCCTGGAG   3926
+                     .|| ||.||.||..|        |||| .||.|.|     ||||..||||
+c153117146-15   3641 GGCTCAGTTAATAATAGGCTCCCTTAGCATGTGCA-----AGGCTGGGAG   3685
+
+17249098-1728   3927 TGTGAAATGACTTGCTCAGGGTTACATAGTGAGTTAGGGACAGAGCT-AA   3975
+                     ||.|.||.|.||      |.|.|.|.||||         ||.|   | ||
+c153117146-15   3686 TGGGGAAGGGCT------GTGATTCCTAGT---------ACCG---TAAA   3717
+
+17249098-1728   3976 AACTAGAAA--CTAGGTCTTCCAATTCAAACGAAGGATCTCTGACTATTG   4023
+                     |||.|||.|  || ||.||...|.|         |||.|||.|.||.|.|
+c153117146-15   3718 AACCAGATACGCT-GGCCTGTGACT---------GGAACTCGGCCTGTAG   3757
+
+17249098-1728   4024 GTGA-AGAAG-AAACTGAGTCACAGAGGTGCTG-----------------   4054
+                     |.|| ||||| |||..||.|   |||.||.|.|                 
+c153117146-15   3758 GAGACAGAAGCAAAAGGATT---AGAAGTTCAGGGTCATCCTTGGCTACA   3804
+
+17249098-1728   4055 -----------AGACTCGCCTGG---ATTGGAGGTCCT----GGTGGGGC   4086
+                                ||.||.||||||   |.|.|||..|||    ||.||||.
+c153117146-15   3805 TAAAAAATTCAAGGCTAGCCTGGGCTACTTGAGACCCTGGGGGGGGGGGA   3854
+
+17249098-1728   4087 TTGTGGCGCCTCTGTGCTGGCAGACTTGGCTCTAAGGGCCCCAGAGCTCC   4136
+                     |||                  |||.||     |||     |||.||   .
+c153117146-15   3855 TTG------------------AGATTT-----TAA-----CCAAAG---A   3873
+
+17249098-1728   4137 AGGTGTTCTCAGATGCACGGCTGTGTAAGCCCTGCAGTCAGAAGG---TC   4183
+                     |||      .|.|.|.|.|  ||||   |||          ||||   ||
+c153117146-15   3874 AGG------AAAAAGAAAG--TGTG---GCC----------AAGGCTATC   3902
+
+17249098-1728   4184 CTGGAAGGGTCAGGTCC-CATCT--------GCATGGCTGCAGAGGGGCC   4224
+                              |||..||| .||||        ||||||||  ||.||.|.|
+c153117146-15   3903 ---------TCATCTCCAAATCTCAGGTGGGGCATGGCT--AGGGGTGTC   3941
+
+17249098-1728   4225 CAGCGCACACAGCAGCCTAGAGG----GCAGCTGAGTCTGT-TCTCTAAG   4269
+                     ..|              |||.||    ||| ||.|.||.|| |.|.|.||
+c153117146-15   3942 TTG--------------TAGTGGTAAAGCA-CTTACTCAGTGTATTTGAG   3976
+
+17249098-1728   4270 ACACCTCGAAGAG-GGGGCAACCTTGACCTGAGCGGGTGCACAGCTCTCG   4318
+                     | |.||      | |.|.|||    .|||  |||...|.|||| |.|.|.
+c153117146-15   3977 A-ATCT------GTGTGTCAA----AACC--AGCACATACACA-CACACA   4012
+
+17249098-1728   4319 CAC---CTCAGAATGAC-CTCAAGTA-ACAGCACATGGAAAAGACAGAAG   4363
+                     |||   |.||.|...|| |.||.||| ||| ||||   .|.|.|||.|  
+c153117146-15   4013 CACACACACACACACACACACACGTACACA-CACA---CACACACACA--   4056
+
+17249098-1728   4364 GCAGGGAGCCCATCACTAAGGTATCCCGGGCAGGTGTCTCCTAAGAGAC-   4412
+                      ||.|.| |.|| |||                           |.|.|| 
+c153117146-15   4057 -CACGTA-CACA-CAC---------------------------ACACACA   4076
+
+17249098-1728   4413 --CACACCTGGCAATGAGCCATGAAGCTCCTCTTTTCTCCAGCTCAGAGG   4460
+                       |||||         |..||                  || |.||.|  
+c153117146-15   4077 CACACAC---------ACACA------------------CA-CACACA--   4096
+
+17249098-1728   4461 TTCTCAACCCTGGAAGTGTGTTTCAATCACCTGGGGATCCATAAAAAAAT   4510
+                       |.||                 ||..|||      ||||||        
+c153117146-15   4097 --CACA-----------------CACACAC------ATCCAT--------   4113
+
+17249098-1728   4511 TGATGCCCAGGCCCCACCTTGGGAAACCTGATTCAACTCATCTGTGAAAG   4560
+                        ||         ||.||||||...|||.|   ||..||..||..||||
+c153117146-15   4114 ---TG---------CAGCTTGGGTCTCCTCA---AAAACAAATGAAAAAG   4148
+
+17249098-1728   4561 GC---CCCAGCACCCTAGGTTTTCAGGATCCGCTGGGGATGA--ATGTGC   4605
+                     ||   ||||||.|..|||   ||.||        |||..|||  || |||
+c153117146-15   4149 GCTGGCCCAGCTCATTAG---TTGAG--------GGGTTTGAACAT-TGC   4186
+
+17249098-1728   4606 -AGCTGGGGCTAAGAACCGCTGCCCTCACTGGGAAG-------ACAAACA   4647
+                      ||.||||||                    ||||.|       ..|||.|
+c153117146-15   4187 TAGTTGGGGC--------------------GGGAGGGGGTGGTGGAAATA   4216
+
+17249098-1728   4648 ACTCATGTCACCCCTTTCTCTGCAGAGGCTGCCTAATGGAGCCAGGACTC   4697
+                     .|||.||.|||||.|         || |.||||..||||.|||..|    
+c153117146-15   4217 GCTCCTGGCACCCAT---------GA-GATGCCCTATGGTGCCTTG----   4252
+
+17249098-1728   4698 CAAGTTTTGGTCCTA---GT-------TCTGTGGTCACTCACTATGTCAT   4737
+                       |||||.|||||||   ||       ||||||        ||||     
+c153117146-15   4253 --AGTTTGGGTCCTACGTGTCTCCAAGTCTGTG--------CTAT-----   4287
+
+17249098-1728   4738 CTTGAGCAACTTTCTACTCAACCCTGGGCCTCAGTTTCCCCATATG--GA   4785
+                           |.|||...|.|||..||||||||||||||||||   || |  ||
+c153117146-15   4288 ------CCACTGGATCCTCTTCCCTGGGCCTCAGTTTCC---TA-GAAGA   4327
+
+17249098-1728   4786 C-CCTGAAGGGGTTGGCATAGAA-----CAGTGGGTTTCAATTTCCACTC   4829
+                     | ||.||||.||...||||||||     |.|||              || 
+c153117146-15   4328 CACCAGAAGAGGCGAGCATAGAAGGAGCCTGTG--------------CT-   4362
+
+17249098-1728   4830 ATGGAGGCCTCTGAGTCCCCTCCCTGATTTGACAAA-----GCAGCTTCC   4874
+                        ||||||||.|||.||||        |.|||.||     .|||||.| 
+c153117146-15   4363 ---GAGGCCTCAGAGCCCCC--------TGGACCAACAGGGCCAGCTCC-   4400
+
+17249098-1728   4875 ATTCTGTCAAC--ATCGGATTTTGTTTGATGCGAGAGCTCTGACCTGCCT   4922
+                       ||||.|.||  || |||....|.|.||||.|||..|||          
+c153117146-15   4401 --TCTGACCACCGAT-GGAAGGGGCTGGATGAGAGGTCTC----------   4437
+
+17249098-1728   4923 GTGCAGAGAGCTGGGCCCTTGGGGGGATTGGTGCATTTCTGCTCTTTTAA   4972
+                           |||||                      ||   ||| |||||   
+c153117146-15   4438 ------AGAGC----------------------CA---CTG-TCTTT---   4452
+
+17249098-1728   4973 ATACGGGGGATTTGGAAA---AAGGGTATACGGGGCTGCCACTTTCCAG-   5018
+                            |||    ||||   .||.|| ||     |..|||||.|||.| 
+c153117146-15   4453 -------GGA----GAAATGTCAGTGT-TA-----CCACCACTGTCCCGG   4485
+
+17249098-1728   5019 -------------TGGTGGGGTGGGGCAGGGCCAC-CCAGATTACAGTGG   5054
+                                  .||||||.||.|        || .||||      |||
+c153117146-15   4486 GCCAGAGCAGGGTAGGTGGGATGTG--------ACGTCAGA------TGG   4521
+
+17249098-1728   5055 GACCATGA-TTTCCTGAACCTGATTCTATTGATGAGGCTGGCAGCGTCGG   5103
+                     |.||| || |||||.||.|.|..|||                  |||..|
+c153117146-15   4522 GCCCA-GAGTTTCCCGAGCTTAGTTC------------------CGTGAG   4552
+
+17249098-1728   5104 CGGATCTGGGATCCTCGCTGACTGGGGAGGGGCAGC---------TGGAA   5144
+                     |..|.|||||..|||             |||||  |         ||.||
+c153117146-15   4553 CCAAGCTGGGCACCT-------------GGGGC--CTTTGTTCATTGAAA   4587
+
+17249098-1728   5145 CTGCCACCCAGAAACCCAGCTGC----CTGGGTCTTGGTCTCCTCTGCCC   5190
+                     |||||.|.|  |||.||.| |||    .|||    ||||   .|||..||
+c153117146-15   4588 CTGCCTCTC--AAAGCCTG-TGCGATGATGG----TGGT---TTCTATCC   4627
+
+17249098-1728   5191 CCACATCCCAGCTCGGTGGAGACCTCGTTGGTCATCTTGTCAACCTTTCG   5240
+                     .||||..|||||.|.|.||.||                            
+c153117146-15   4628 TCACAAGCCAGCACTGAGGGGA----------------------------   4649
+
+17249098-1728   5241 GTGTTCAGCCATGGGGAACTTTCCCATCAGTTTCTCAGCTCCTAAAATGT   5290
+                              ||||                        |||.|||     |
+c153117146-15   4650 ---------CATG------------------------GCTGCTA-----T   4661
+
+17249098-1728   5291 CTGATTTTGTT----CTCCCAGAAGTCCAGGCCCT---GAGTCCA----T   5329
+                     ||.|||.||||    ||.||||||        |||   ||||.||    |
+c153117146-15   4662 CTTATTCTGTTTCAACTACCAGAA--------CCTCTAGAGTGCACAACT   4703
+
+17249098-1728   5330 GAAG--GGAGAA--GATGGGTTT------GGGTTTGCAGGCGAGTGGGGA   5369
+                     |.||  ||||||  ||  ||..|      ||.|||||..|.|||||.|||
+c153117146-15   4704 GTAGCTGGAGAAAGGA--GGCATCAGGCCGGCTTTGCCCGGGAGTGAGGA   4751
+
+17249098-1728   5370 CAG--AGCTGGCCATG-----AGTCCTGGC--TCTGTCACTT-GCTA--G   5407
+                     .||  ||  |||.|.|     ||.|| |||  | ||.||.|| ||||  |
+c153117146-15   4752 TAGGAAG--GGCTAAGCCCCAAGACC-GGCAGT-TGCCAGTTAGCTACCG   4797
+
+17249098-1728   5408 CTGTGTGACTTTGGGCAAATCA--CCTGCCGTCTCCAAGGCTCAGTATTC   5455
+                     ||   |||||||||.|||.|||  ||||         ||.|||||| |||
+c153117146-15   4798 CT---TGACTTTGGACAAGTCACCCCTG---------AGCCTCAGT-TTC   4834
+
+17249098-1728   5456 TCATCTGTAAAGTGGG--GATAAT-AGCACACAAGTTATGTGGCTGTGGG   5502
+                     .|     |.|||||.|  ||||.| .||.||    |.|||     .||||
+c153117146-15   4835 CC-----TGAAGTGAGACGATAGTGGGCGCA----TCATG-----CTGGG   4870
+
+17249098-1728   5503 GGATACCTTCCTCACCAATGCCCCGTCTTCCTCCTCACCATTGAAGGGGG   5552
+                     |...|.||||.|     .||||                            
+c153117146-15   4871 GTGCAGCTTCAT-----TTGCC----------------------------   4887
+
+17249098-1728   5553 TGATACACGAGGGGGATGGGCTCACACTGAGTCAACTCTACACGGGCTGG   5602
+                      ||.||                  |.|.|.||||  |||.|||||  |||
+c153117146-15   4888 -GAAAC------------------CGCAGTGTCA--TCTTCACGG--TGG   4914
+
+17249098-1728   5603 --AGGGAC-CAGGCTCCAGCATTTTTTTTTTTTTTTTTGAGATGGAGTTT   5649
+                       |||||| .||||.|                     |||||..|||..|
+c153117146-15   4915 GCAGGGACAAAGGCAC---------------------TGAGAGAGAGAGT   4943
+
+17249098-1728   5650 TGCTCTTGTTG------CCCAGGCTGGAGTGCAATGGGGCTATCTTGGCT   5693
+                     ||     |.||      ||||      |||.||    ||     |.|.||
+c153117146-15   4944 TG-----GCTGACAGGTCCCA------AGTCCA----GG-----TAGTCT   4973
+
+17249098-1728   5694 CACTGCAA--CCTCC----GCCTCCCAG-----------GTTCAAGCAAT   5726
+                     |||..|||  |.|||    | |||||||           |..|.||||.|
+c153117146-15   4974 CACCCCAAGTCATCCTTGTG-CTCCCAGCACGGGACTCAGGGCCAGCATT   5022
+
+17249098-1728   5727 TCCCTGCCTCAGCCTCCCT----------------------AGTAGCCGG   5754
+                     |      ||||||..||||                      .||||||  
+c153117146-15   5023 T------CTCAGCAGCCCTTTTGCCATAAGACTAAGGCATCGGTAGCC--   5064
+
+17249098-1728   5755 GATT--ACAGGC---ATATGCCA-------------CCAC--GCCCGGCT   5784
+                      |||  |.||||   || .||||             ||||  ||||.|..
+c153117146-15   5065 -ATTGAAAAGGCTCAAT-GGCCAGGCCCCTGCAGCGCCACTGGCCCTGGG   5112
+
+17249098-1728   5785 AGTTTTGT-----ATTTT------------------TAGTGGAGACGTGG   5811
+                     ||.||.||     |..||                  ||  |||.|..|||
+c153117146-15   5113 AGCTTAGTCCACAAGGTTCCAGAGACTGACAACCCATA--GGATAAATGG   5160
+
+17249098-1728   5812 TTTCTCCATGTTGGTCAGGCTGGTCTCGAACTCCTGACC-------TCAG   5854
+                     ..|.|||| ||...|||      ||.|.|  ||.|.|||       .|| 
+c153117146-15   5161 ACTGTCCA-GTATATCA------TCACCA--TCATCACCACCACCACCA-   5200
+
+17249098-1728   5855 GTGATCCACCCTCCTCGGCCTC----CCAAAGTGCTGGGATTATAGGCGT   5900
+                          |||||.||.||..|.||    |||                     
+c153117146-15   5201 -----CCACCATCATCACCATCATCACCA---------------------   5224
+
+17249098-1728   5901 GAGCCACTGCGCCTGGCCCACCAGGCTCCAGCAT-TTCTAAGACAACCTA   5949
+                        ||||  |.||....||||||    |||.||| .||    ||.|||..
+c153117146-15   5225 ---CCAC--CACCACCACCACCA----CCACCATCATC----ACCACCAC   5261
+
+17249098-1728   5950 CTCTAA-------GCCGT---------GATTCTCA--GATGTCAG----C   5977
+                     |.||.|       ||.||         |||.|.||  ||..||||    |
+c153117146-15   5262 CACTTATTTGTGGGCAGTGTGTAACAGGATGCACATGGAGATCAGAGGAC   5311
+
+17249098-1728   5978 AAATATCAGAA------------TGGCTTAAAA-----------TGCGGT   6004
+                     ||.|.||||.|            |..|||..||           ||.||.
+c153117146-15   5312 AACTTTCAGGAGTCAGTTCCCCCTCTCTTTTAACCCTGTAGCCCTGGGGA   5361
+
+17249098-1728   6005 TCCAAGGCCCCACCTGGAGCA--CTTCTAAGAATCTGCATTTTCAATAAG   6052
+                     ||.||   ||||.|| ||.||  .||...||||..|||||||.|      
+c153117146-15   5362 TCAAA---CCCAGCT-GATCAACGTTGGCAGAAAGTGCATTTAC------   5401
+
+17249098-1728   6053 GTGGGTCTGAGGTTGGCTACTTTTAGGGAGGC----CAACTGTTCCTGTT   6098
+                                        |||.|   |||||    ||.|.|..||||  
+c153117146-15   5402 -------------------CTTCT---GAGGCGTCTCACCAGCCCCTG--   5427
+
+17249098-1728   6099 TGTCTGGGACCTTGCAGGTTTTAGCAC-AGCAAATTCTGTATCC--AGGA   6145
+                              |||   ||||||||||.| || |.||||.||.|||  |..|
+c153117146-15   5428 ---------CCT---AGGTTTTAGCTCTAG-ATATTCAGTGTCCCAAAAA   5464
+
+17249098-1728   6146 ACA--GCCTTAGTCCCAGCAAACTGATGCTGTTGGCCACCCTACCACATT   6193
+                     |||  .|||..|||||         .||..|||||               
+c153117146-15   5465 ACATCCCCTGGGTCCC---------GTGACGTTGG---------------   5490
+
+17249098-1728   6194 TTACCCCCAACTCACCATCTTAG-------GCTG---GCTGTGCCAGAGG   6233
+                                   .||||||||       ||||   |||||.|      
+c153117146-15   5491 --------------TCATCTTAGCGCGTCCGCTGCCTGCTGTAC------   5520
+
+17249098-1728   6234 AGCAGTTGAGTTCTCCGGCTGGCTTGGGGGGTGTGGGGCTGGGAGAGCCC   6283
+                                .|||..|||..| .|||.|||.|||              
+c153117146-15   5521 -----------ACTCAAGCTATC-AGGGAGGTCTGG--------------   5544
+
+17249098-1728   6284 TGGACAGGCCTGTGCATGGAAGCCTCAGCGGCGAGGGTCCAAGGCCCTGA   6333
+                      ||||               |||||||||                   .|
+c153117146-15   5545 -GGAC---------------AGCCTCAGC-------------------CA   5559
+
+17249098-1728   6334 GCCCAGGA--CTGGACCAGAAGCACTGCCTAGAAAGCCCAGAAGCCAGCA   6381
+                     |||.||||  .|||...|||      |||      |.|.||||||.||..
+c153117146-15   5560 GCCTAGGAGCGTGGCGGAGA------GCC------GTCTAGAAGCTAGGG   5597
+
+17249098-1728   6382 TGTGACAGCTCAGCCATGCTGGCAGCTCGAGGTGGCCTGG---AGAGGAA   6428
+                     ||||  .|.|..||...||||.||| ||..||||||||||   | |||||
+c153117146-15   5598 TGTG--GGGTTTGCTTCGCTGTCAG-TCATGGTGGCCTGGCTTA-AGGAA   5643
+
+17249098-1728   6429 GGACT-TTGTCCAGGTGAGGCTCCAGG-------TACTTCCCCTGTTCTC   6470
+                      .|.| |||...|||.|||| |..|||       .||||||         
+c153117146-15   5644 -CAGTGTTGCAAAGGAGAGG-TTTAGGGGCTTGTAACTTCC---------   5682
+
+17249098-1728   6471 TAGGAAATGGGAA------GCTAGATCC-----TCCCGTACCTGATGCAG   6509
+                      ||||||||||.|      ||.|..|||     |||.|     ||.||||
+c153117146-15   5683 -AGGAAATGGGGATAGGGTGCCAATTCCTAAATTCCAG-----GAAGCAG   5726
+
+17249098-1728   6510 -----------------GTTCTC-CTCCCAG---CAGCTGCCCCTCTCAT   6538
+                                      |||||| ||.||||   |||      .||||.|
+c153117146-15   5727 GGATCTACTGTCTTCCAGTTCTCTCTTCCAGATCCAG------TTCTCTT   5770
+
+17249098-1728   6539 TC------------------TCCTAACACACAGCTTTCATGAC--AGGCA   6568
+                     ||                  ||.|||||||||||||.|||| |  .||||
+c153117146-15   5771 TCCAATGGCCACCTTGGCCATCTTAACACACAGCTTACATG-CTGGGGCA   5819
+
+17249098-1728   6569 TGAGCACTGGACTGGAAGTCAGCAGCCCTACCTTCTAGTCACTTATCTTC   6618
+                     |..||.|||| .|||..|||.|.||.|           ||||    |||.
+c153117146-15   5820 TCGGCCCTGG-GTGGCGGTCTGGAGTC-----------TCAC----CTTT   5853
+
+17249098-1728   6619 TGG--GCCTCAGTTTCCCCATCAGTGAAATGAGGGCATGACTTTTGCTCA   6666
+                     |||  |||||||||||||||.|||      ||      |||         
+c153117146-15   5854 TGGCTGCCTCAGTTTCCCCAGCAG------GA------GAC---------   5882
+
+17249098-1728   6667 TCCTGAGTGCTTTACCCACACTGGTTCCTTTCATCTTCTCCTCATCCCCA   6716
+                                |.||.|||.||  .|||||.||.||.|.|  |||.||..
+c153117146-15   5883 -----------TAACACACCCT--CTCCTTCCAACTCCAC--CATGCCAG   5917
+
+17249098-1728   6717 CCAGATAGATGTCGATGCTGC--GGCTGAGGGAGGCAGTCACTCG-CTCA   6763
+                     |..||||||        ||||  |||| ||||||||..|..||.| |||.
+c153117146-15   5918 CTGGATAGA--------CTGCCAGGCT-AGGGAGGCTCTGGCTGGCCTCC   5958
+
+17249098-1728   6764 AAGTCACACACCTAATGAGTGGTGGGACTGGGATTTGAACCCAG--TTGT   6811
+                     |.||          .||||||||||| ||||||.||||||||||  || .
+c153117146-15   5959 AGGT----------GTGAGTGGTGGG-CTGGGACTTGAACCCAGGCTT-C   5996
+
+17249098-1728   6812 CTGGCCCCAGGGACCACAGG---CTCAAGTACCTTGCCACGGCTCCATCA   6858
+                     |||.|..|||.||.|.||||   .||||..|||.|||||||.|.||    
+c153117146-15   5997 CTGACTGCAGAGAACCCAGGTTTGTCAATCACCCTGCCACGCCACC----   6042
+
+17249098-1728   6859 TGTTGCCCCTCCTGATCAAGAACCAGCGCTGGCT--CCCCATTACATAGG   6906
+                     |.|..||||.||    |||||.|.|..|||||||  |.||.|  ||.|||
+c153117146-15   6043 TCTCTCCCCACC----CAAGAGCTATTGCTGGCTTCCTCCGT--CACAGG   6086
+
+17249098-1728   6907 GATGAAATGAAAACAAGCTCATTATAGC---CTGAGTCTAAACTAGACCT   6953
+                     |||      ||.|||.|   |||..|||   |..||||||...|.||.||
+c153117146-15   6087 GAT------AAGACAGG---ATTCAAGCCATCAAAGTCTAGCATTGAACT   6127
+
+17249098-1728   6954 CTTAAGGTTCCACGGTGAAAACACCTTCCCCTCACTTGTGTCTCCTCTTG   7003
+                     |..|.||.||||...|||||.| |.||..|||||     |.|.|.|||  
+c153117146-15   6128 CCCAGGGCTCCAGCATGAAAGC-CGTTTTCCTCA-----GACGCATCT--   6169
+
+17249098-1728   7004 GTGCCTTCCCTGGGGAACCTGCCCCAGCCACCCAGCCCA-----------   7042
+                                             |||||.||| |||||           
+c153117146-15   6170 ------------------------CAGCCGCCC-GCCCAGGCTGCTGTCA   6194
+
+17249098-1728   7043 ---CTGTCT-CATCCTGCCTCCAGACCCGTTTCCTGCACCCTCATTTACT   7088
+                        |||||| |||.| ||||.|||        ||||||||.|.|||..|.
+c153117146-15   6195 GAGCTGTCTCCATGC-GCCTGCAG--------CCTGCACCATAATTCTCC   6235
+
+17249098-1728   7089 TTAATAACTCCTTCCCTGTCCTGGGCCAATG-GTGTTGCAAGCCTTTCCT   7137
+                     ||||||.|.||||||||||.||.|.|  |.| |||||.|||||.|.||.|
+c153117146-15   6236 TTAATAGCACCTTCCCTGTGCTAGTC--AGGAGTGTTCCAAGCTTCTCAT   6283
+
+17249098-1728   7138 GTCTATTATCACACTTGAGTTTCATGATTGCCCATGAGGTTGGCCAAGTA   7187
+                     |.||||.|.||||||.|||..||.||.|| ||||.||||.|||||||||.
+c153117146-15   6284 GGCTATAAACACACTCGAGCCTCCTGGTT-CCCAAGAGGCTGGCCAAGTG   6332
+
+17249098-1728   7188 GGTGTCATTATCCCACTTTAAGGTGAGGTTAATGGGCCCAGAGAGACT--   7235
+                     .|||||||||||||||                             |||  
+c153117146-15   6333 TGTGTCATTATCCCAC-----------------------------ACTCA   6353
+
+17249098-1728   7236 AAGTGATTTAGTCAAGCTCAGCTGGCCGATGTGTGACCCAGCCTGGTCTA   7285
+                     |.||||||||||||||.|||.|||||.||.|||.||||| ||||    |.
+c153117146-15   6354 AGGTGATTTAGTCAAGGTCACCTGGCAGAAGTGGGACCC-GCCT----TG   6398
+
+17249098-1728   7286 AAACCTAATTCTTGACT-CTGGTCCCAGCACCACCTGAGCCCTCGGCTTG   7334
+                     |.|.|   |.|..|||| |||..||||||    |||||..||.|.|    
+c153117146-15   6399 ATAGC---TGCCCGACTGCTGACCCCAGC----CCTGACTCCACTG----   6437
+
+17249098-1728   7335 CAGCCC----CTCCCTTCCCCAACCTCAGATGTAGCTTGTTCACCTGT--   7378
+                      |.|||    |||   |.||||..||..|..||||.|     .||.||  
+c153117146-15   6438 -AACCCTGGACTC---TGCCCAGGCTGTGGGGTAGAT-----CCCAGTGA   6478
+
+17249098-1728   7379 --GCTA--AGCCCTTGTTCAGACCGTGGTCCTGGGGACCCTCCTGGGCAG   7424
+                       ||||  | ||.||||       |||.|         |.||||||.|||
+c153117146-15   6479 CAGCTACCA-CCTTTGT-------GTGTT---------CTTCCTGGTCAG   6511
+
+17249098-1728   7425 GGGTGCTTCAGTCTTCA------CTGGGGATCCCCCAGC-ATCTCACACA   7467
+                     |       |.||||.||      ||.|||| |.|||||| |.||.|||..
+c153117146-15   6512 G-------CTGTCTCCAGCAACCCTAGGGA-CTCCCAGCAAACTGACAGG   6553
+
+17249098-1728   7468 GAG-CCT-GGCACATGGAGAG-GCAGGGGCGCTGGGCTGAAACACCCTAC   7514
+                     |.| ||| ||     |.|||| .||||||.||.|.| |||          
+c153117146-15   6554 GTGACCTAGG-----GAAGAGCCCAGGGGAGCCGAG-TGA----------   6587
+
+17249098-1728   7515 ACCCAGGGGC--TGGAGCCTGGGGACTGAGTGGGGTTTTCATACCAGAAG   7562
+                        |.|||||  ..|||||...||||           ||||.|||||.|.
+c153117146-15   6588 ---CTGGGGCCTCAGAGCCAAAGGAC-----------TTCACACCAGGAA   6623
+
+17249098-1728   7563 GACCATCAAGGGCGCTCAG-CCCTTGCC------CATGGACACTGGAGGC   7605
+                     || ..||||        || ||||||||      ..|||.|||.|||   
+c153117146-15   6624 GA-TGTCAA--------AGCCCCTTGCCTTTCGTGGTGGTCACAGGA---   6661
+
+17249098-1728   7606 CCAAGGAACAGCTTTGGGGTTGAGGGAGTTCC----ATAAAAAGTGTACA   7651
+                      ||.||||.|||||.|.|||.||       ||    |||.|||       
+c153117146-15   6662 -CAGGGAAAAGCTTGGCGGTGGA-------CCTATTATAGAAA-------   6696
+
+17249098-1728   7652 GGCTTCAGCCAGGCGCGGTGGCTCGCGCCTGTAATCCCAGCTGGGAGGCT   7701
+                         ||.|.||||   |||                      ||||     
+c153117146-15   6697 ----TCTGACAGG---GGT----------------------TGGG-----   6712
+
+17249098-1728   7702 GAGGCAGGCGGATCACTTGAGGTCAGGAGTTCAAGACCAGTCTGGCCAAT   7751
+                                   |.||.||.||||                        
+c153117146-15   6713 --------------AATTTAGCTCAG------------------------   6724
+
+17249098-1728   7752 ATGGTGAAACCCTGTTTCTACTGAAAATACAAAAATTAGCCGGACACGGT   7801
+                      ||||..|.|.|| |..|||  |.|||..|||         ||.|     
+c153117146-15   6725 -TGGTAGAGCGCT-TGCCTA--GCAAACGCAA---------GGCC-----   6756
+
+17249098-1728   7802 GGTGGGCTGTGTT--GT-CCCAGCTGCTTGGGAGGCTGAGGCATGAGAAT   7848
+                           |||.|||  || |||||||                         
+c153117146-15   6757 ------CTGGGTTCGGTCCCCAGCT-------------------------   6775
+
+17249098-1728   7849 TGCTTGAACCCGGGAGGTGGAGGTTGCAGTGAGCCAAGATTGCACCACTG   7898
+                              |||                                      
+c153117146-15   6776 ---------CCG--------------------------------------   6778
+
+17249098-1728   7899 CACTCCAGCCTGGGCGACAGAGCAAGACTCTGTCTCAAAAAAAAAAAAAA   7948
+                                                         ||||||||||||||
+c153117146-15   6779 ------------------------------------AAAAAAAAAAAAAA   6792
+
+17249098-1728   7949 AAAAAAAAAAA----AAAGGCTTCCTTGGGAGATGGAAGGCGAGTGCCTC   7994
+                     |||||||.|||    |...|||||||            |||.|.||    
+c153117146-15   6793 AAAAAAAGAAATCTGACCAGCTTCCT------------GGCTACTG----   6826
+
+17249098-1728   7995 AGGAGCGTGGCTGAGGGTGTTCCCGAGGG-TATGAGAGGCTGCTCTTCCT   8043
+                                               ||| ||.|||||  .||.||||  
+c153117146-15   6827 --------------------------GGGCTAAGAGAG--AGCACTTC--   6846
+
+17249098-1728   8044 ACCTGGGTTTGTCTTCCTGTGTCTCTTTCCGACTCCCTGTCTCTGACTCT   8093
+                                                                       
+c153117146-15   6847 --------------------------------------------------   6846
+
+17249098-1728   8094 CCATCTCGCTGGGTCTCTCCAAG--------TCTCTCTGTCCCT--ATCT   8133
+                        ||||.|||||.|   |||||        || ||||||..||  |.||
+c153117146-15   6847 ---TCTCCCTGGGGC---CCAAGAGAGCACTTC-CTCTGTGGCTTAAGCT   6889
+
+17249098-1728   8134 CTC-TGTCTCTGTGTCTTCATGCCTCTCTCCCTGGTTCTGCCAT--TTC-   8179
+                     .|| ||.|    |||||       |.|||.|||  |||.||.||  ||| 
+c153117146-15   6890 TTCGTGCC----TGTCT-------TATCTTCCT--TTCGGCTATCCTTCT   6926
+
+17249098-1728   8180 -CCCTGTGGGGGGCTGCCCAGGGCCAAACAGGCCAGAGGGCTCCACCAGC   8228
+                      ||||                                    |||.|||..
+c153117146-15   6927 TCCCT------------------------------------TCCTCCATT   6940
+
+17249098-1728   8229 CCTGGAAATTACAGGCTTTGGGAGTAGGGTTGCCAGATAAAATAAAAGAT   8278
+                     |||                                               
+c153117146-15   6941 CCT-----------------------------------------------   6943
+
+17249098-1728   8279 GCCTAGTTAAAATTGAATTTCAGGTAAATAATTAATAATTTTTTTAGTAT   8328
+                                                                       
+c153117146-15   6944 --------------------------------------------------   6943
+
+17249098-1728   8329 AAGTGTATCCCAAATACTTCACGGGAGTACCAAACAATGATTGACTGTTC   8378
+                                   |.|||                     |||.||||  
+c153117146-15   6944 --------------TCCTT---------------------TTGTCTGT--   6956
+
+17249098-1728   8379 ACTTGAAATTCAAGTCCAACTGAGCTTTCTGTATTTTTATTTGCTAAGTC   8428
+                                              .||||||.|||              
+c153117146-15   6957 -------------------------CTTCTGTCTTT--------------   6967
+
+17249098-1728   8429 TGGCAGCCCTGCTTAGGAGGAGAAACAGGTGTGTCTGTCCCTCCCAACTG   8478
+                            |||                       ||||||.||||      
+c153117146-15   6968 -------CCT-----------------------TCTGTCTCTCC------   6981
+
+17249098-1728   8479 GTGAGGACACCTGACAGGGGCCCAGACACCAGAGTGGGACCTGCCTGATG   8528
+                                                                       
+c153117146-15   6982 --------------------------------------------------   6981
+
+17249098-1728   8529 GAGAGAAGCTTGGGCTTGGTTTATTTCCCTTTTCATAAAAAAGCTGCTTT   8578
+                                     |..|||..||||.|||||.|        |.||||
+c153117146-15   6982 ----------------TTCTTTCCTTCCTTTTTCCT--------TCCTTT   7007
+
+17249098-1728   8579 GAGATGTAAGAGAATCATGTTGGTGGAAGAGTGAAGAGGTTGTTT--TGG   8626
+                                                           .||.|||  |  
+c153117146-15   7008 --------------------------------------CTTCTTTCCT--   7017
+
+17249098-1728   8627 GGGAGGTCTGCCTTACTCTGAGGGAAGATGGGAAGCGGGGGGAGTGGCCA   8676
+                           |||.||||.|||                             || 
+c153117146-15   7018 ------TCTTCCTTTCTC-----------------------------CC-   7031
+
+17249098-1728   8677 GCTGTGGAAATTTGGGGTAGTCCCCTACGTATCCTGTGCCTCAGTTTCCC   8726
+                                         ||||       ||| .|.||||..||.|  
+c153117146-15   7032 --------------------TCCC-------TCC-CTTCCTCCCTTCC--   7051
+
+17249098-1728   8727 CATGTGTAAACAGGAGTAATTATCTCATCCTGGGGCTGCAGTGAGGATCA   8776
+                                           |.||.||||    ||             
+c153117146-15   7052 ----------------------TTTCTTCCT----CT-------------   7062
+
+17249098-1728   8777 GATGAGCTAATGTACAAAAAGGCTTAGGCAGGCCTGCCGTGATAAGAGTG   8826
+                           ||..|.|         |||      .|||.|             
+c153117146-15   7063 ------CTTCTTT---------CTT------TCCTTC-------------   7078
+
+17249098-1728   8827 CAGAGGCTGGGGGCTTTTTATGTTATGGTATTGTTGTTATTATTACTCCT   8876
+                                  ||||.|||               ||.||.||  ||||
+c153117146-15   7079 -------------CTTTCTAT---------------TTCTTCTT--TCCT   7098
+
+17249098-1728   8877 GGGGAGGTGGTGGGCAAGAGTGTGGACTGAGGAGCCACATGGCTGGGTTT   8926
+                                                                       
+c153117146-15   7099 --------------------------------------------------   7098
+
+17249098-1728   8927 GGATCCCAGCCCGGCCACAGACCTTGGGCAAGTTACTTAACCTCGGCTTT   8976
+                        |||  .|||.|||                 |.|||    ||  ||||
+c153117146-15   7099 ---TCC--TCCCTGCC-----------------TCCTT----TC--CTTT   7120
+
+17249098-1728   8977 CTCATCTGTATAATGGGAGACAATAATAGATAGTGCCTCCCTTCTAGGGT   9026
+                     ||                            |..|.|||.|||||      
+c153117146-15   7121 CT----------------------------TCCTTCCTTCCTTC------   7136
+
+17249098-1728   9027 TATTGAGAGGATTGCATGATGGGCTGGCACACAGCATGAGCTCAGTAAGT   9076
+                                                                       
+c153117146-15   7137 --------------------------------------------------   7136
+
+17249098-1728   9077 GTCAGTCACTGTTATCCCCCAGGGGCATGCATGCCGCTGCCTCCAGGAGG   9126
+                                                         ||.|||||      
+c153117146-15   7137 ------------------------------------CTTCCTCC------   7144
+
+17249098-1728   9127 CCCTCCAACTCGCAGTGGCCTCTCCCTACATGGGTTCCCACTGAGCTGTG   9176
+                                          ||.|||.|.|                   
+c153117146-15   7145 ---------------------CTTCCTTCCT-------------------   7154
+
+17249098-1728   9177 ATCCTGTGGCCTTGAGCCCCATCTGGCTGCCCTGGACAATGTTGGTCCTC   9226
+                      |||||            ||||.||       |.|    ||||       
+c153117146-15   7155 -TCCTG------------CCATTTG-------TTG----TGTT-------   7173
+
+17249098-1728   9227 AGCTCCCCAGCGGGATCAACAGTGGGGAGAGCAGTGGGTGGATCTGCCCG   9276
+                                                                       
+c153117146-15   7174 --------------------------------------------------   7173
+
+17249098-1728   9277 CCAGGCAGTACCTGAGTGCACAGTGGGCACCCCACAGTCAAAGGATGCAT   9326
+                                 |||      ||          ||||             
+c153117146-15   7174 ------------TGA------AG----------ACAG-------------   7182
+
+17249098-1728   9327 AGTCTGGTTTCCAAGGAGGAACCCCAGGCTAGGTGGAATGAGGGAAATGC   9376
+                     |||||                   ||  |||.||.|              
+c153117146-15   7183 AGTCT-------------------CA--CTATGTAG--------------   7197
+
+17249098-1728   9377 AATCTCAGGGCCAGATAACATCACAGATACTTTAAACCTGCAATTAATTT   9426
+                                                                       
+c153117146-15   7198 --------------------------------------------------   7197
+
+17249098-1728   9427 CTGGTTGTTTGACCAAATCCGGCCAAGTTTCCCGGGTGACACTGCAGAGC   9476
+                                                              ||  |.|||
+c153117146-15   7198 -----------------------------------------CT--ATAGC   7204
+
+17249098-1728   9477 TGTGGAACAGCATGGGCTTGGAGTCAGACCTGTTGCACATCTGGCTCTGC   9526
+                     |||                         ||||                  
+c153117146-15   7205 TGT-------------------------CCTG------------------   7211
+
+17249098-1728   9527 CATGTGATGCAACCTCAGGCTTGTCACGAGGCCTCCTTGAGCCTCAGTTG   9576
+                               ||.|||                                  
+c153117146-15   7212 ----------AAACTC----------------------------------   7217
+
+17249098-1728   9577 CTAATATGCCAAATGGGGATGATATTGCTCACCTTACAGCTTGTAAGAGT   9626
+                         ||||                          ||.| ||.|||     
+c153117146-15   7218 ----TATG--------------------------TAGA-CTCGTA-----   7231
+
+17249098-1728   9627 GGAGGGAGCTGCGTGCGCCAGGTGCCTGGCATGCAGCGGGCACTCAACCA   9676
+                         ||||.|       |||    ||||                      
+c153117146-15   7232 ----GGAGAT-------CCA----CCTG----------------------   7244
+
+17249098-1728   9677 GATTGAATTCCCTTCCCAGGGAAGAATTCAAGGATATCTTCCCACCCACT   9726
+                             ||.||                       .||||||       
+c153117146-15   7245 --------TCTCT-----------------------GCTTCCC-------   7256
+
+17249098-1728   9727 AAGGAGACATGTGATGGGATCTGGGGTGAGAATTGCTCTTTTTAAAGCTC   9776
+                     |||.|               |||      |||         ||||||   
+c153117146-15   7257 AAGTA---------------CTG------GAA---------TTAAAG---   7273
+
+17249098-1728   9777 TCAGAACTGTAAGGGGCTCCACCCACCAATGGCTGGTGTTCACTGAGCTC   9826
+                             |||.|          |||||            ||        
+c153117146-15   7274 --------GTATG----------CACCA------------CA--------   7285
+
+17249098-1728   9827 TTCGTGCCCAGACCTGCACTGGGGATTTATCGAGCACATGGCTGGCTTCT   9876
+                        |||||||| |||                      |||.|||.|||.|
+c153117146-15   7286 ---GTGCCCAG-CCT----------------------ATGTCTGCCTTTT   7309
+
+17249098-1728   9877 GACTTCCGAAGAGCTC-----GCCAT--TCTGGTGAGTGGTAAAGAAACT   9919
+                       |||||    |.|||     |.|.|  |||||||.|||           
+c153117146-15   7310 --CTTCC----ACCTCTCTGAGTCTTTCTCTGGTGTGTG-----------   7342
+
+17249098-1728   9920 CACAAGGGAAATGTTAATGAACACAGGGGCTTAGAACATCAGACTGTGTG   9969
+                                      ||                         ||||||
+c153117146-15   7343 -----------------TG-------------------------TGTGTG   7350
+
+17249098-1728   9970 TATGTTTTTTTGT-TTTGTTTTGAAACAGGGTCTTGCTCTGTC------G  10012
+                     |.|||.|.|.||| |.|||.|| .|.|||          ||.|      |
+c153117146-15   7351 TGTGTGTGTGTGTGTGTGTGTT-CACCAG----------TGCCAAATGAG   7389
+
+17249098-1728  10013 CCCAGGCTGGAG-TG---CAGTGGTGCAATCTTGGCTCACTGCAACCTCT  10058
+                     ||  ||.|||.| ||   ||.|||   ||||||.|  ||||         
+c153117146-15   7390 CC--GGATGGTGATGGGACATTGG---AATCTTAG--CACT---------   7423
+
+17249098-1728  10059 GCCTCCTGGGTTCAAGCGATTCTCCTGCCTCAGCCTCCCCAGTAGCTGGG  10108
+                                                               |||.||  
+c153117146-15   7424 ------------------------------------------TAGGTG--   7429
+
+17249098-1728  10109 ATTACAG---GCATATGCTACCACGCCTGGCTATTTTCTTGTATTTTTAG  10155
+                      |.|.||   ||||                                    
+c153117146-15   7430 -TGAGAGTGCGCAT------------------------------------   7442
+
+17249098-1728  10156 TAGAGACAGGGTTTCACCATGTTGGCCAGGCTCGACCTCAAGTGATCCGC  10205
+                             ||||||                                    
+c153117146-15   7443 --------GGGTTT------------------------------------   7448
+
+17249098-1728  10206 CCGCCTCGGCTTCCCAAAGTGCCTGACCTCAAGTGATCCATCCGCCTCGG  10255
+                            ||.|      ||||||.||||||                 ||.
+c153117146-15   7449 -------GGGT------AGTGCCCGACCTC-----------------CGT   7468
+
+17249098-1728  10256 CTTCCCAAAGTGCTGGGATTAAAGGAGTGAGTCACCACGCCCGGCCGACT  10305
+                     .||||||                                           
+c153117146-15   7469 TTTCCCA-------------------------------------------   7475
+
+17249098-1728  10306 GTGTATATGTTTGTGTGGGGTCCAGGCTTGACTCGCAGGAGCTTACTGTG  10355
+                                                           ||||||.|.|||
+c153117146-15   7476 --------------------------------------GAGCTTGCCGTG   7487
+
+17249098-1728  10356 AGGATCTGAGGGGACTGGG-TGGCCAAGGAAAGCTTCCTGGAGGA-AGC-  10402
+                     ||   |||      ||||| |.|.||.||||.|.||.|||||||| ||| 
+c153117146-15   7488 AG---CTG------CTGGGATAGTCAGGGAAGGGTTTCTGGAGGAGAGCT   7528
+
+17249098-1728  10403 -AGGGCTTGAGCCAAAGCTCAAACATCTGAGCAAAATATATCTCCTTCGG  10451
+                      ..||||||      ||||||....||||||       ||..|||.||  
+c153117146-15   7529 TGCGGCTTG------AGCTCACGTGTCTGAG-------TAAGTCCCTC--   7563
+
+17249098-1728  10452 CACCGACCATGGCTCTCTG--CCCTG-----CCCAGGTCAGTGCCTGAGG  10494
+                           .|||.|||| |||  |||||     |.||||||.||.|||||||
+c153117146-15   7564 ------ACATTGCTC-CTGTTCCCTGCTCTTCTCAGGTCGGTTCCTGAGG   7606
+
+17249098-1728  10495 GCACAGAAATGTTTGAGGTCTATGGGACGCCTGGCGTGGACATCTACATC  10544
+                     |||||||.||||||||||||||||||||.||.||.||||||||||||.|.
+c153117146-15   7607 GCACAGACATGTTTGAGGTCTATGGGACACCGGGAGTGGACATCTACGTG   7656
+
+17249098-1728  10545 TCTCCCAACATGGAGAGGGGCCGGGAGCGTGCAGACACCAGGCGGTGGCG  10594
+                     |||||||.||||||||||..|||.|||||.||.|||||||||||||||.|
+c153117146-15   7657 TCTCCCAGCATGGAGAGGAACCGAGAGCGAGCTGACACCAGGCGGTGGTG   7706
+
+17249098-1728  10595 CTTTGAC--GCGACTTTGGAGATCATCGTGGTCATGAACTCCCCCAGCAA  10642
+                     |||..||  |.|.|  |||||||||||||||||||||||||.||.|||||
+c153117146-15   7707 CTTCAACAAGGGGC--TGGAGATCATCGTGGTCATGAACTCTCCTAGCAA   7754
+
+17249098-1728  10643 TGACCTCAACGACAGCCATGTGAGCTGGTCCCTGGTGGGGTGGGGAGAGG  10692
+                     |||||||||||||||.||.|||||.|...|||.|                
+c153117146-15   7755 TGACCTCAACGACAGTCACGTGAGTTCACCCCAG----------------   7788
+
+17249098-1728  10693 TTTCGAGGGAGGCAGCTGTCTAGCTCTAGGAGGGCCCAACATTCTCTTTC  10742
+                                      |||..|||        .||||      ||||.|
+c153117146-15   7789 -----------------GTCCTGCT--------TCCCA------TCTTCC   7807
+
+17249098-1728  10743 TCCAG--AGCGCA----------GGGCAACACAGTGGGTAAGTGCCTGGC  10780
+                     |||||  ||| ||          |||.||||              ||..|
+c153117146-15   7808 TCCAGAAAGC-CATACCTCCATGGGGGAACA--------------CTCAC   7842
+
+17249098-1728  10781 CTTGGAGCCATACTGCTGATTTTGAATCCCAGCTCTGCAAGTTACAGACA  10830
+                     |...|.||||.|||..||..|.||||.||||..|||.|||.||||||   
+c153117146-15   7843 CCGAGGGCCAGACTATTGGGTGTGAACCCCAATTCTCCAACTTACAG---   7889
+
+17249098-1728  10831 CATACCATGTGTCCTTGGAAAGCCT-TATCATCCCCTTGGGGCCTCTGTC  10879
+                               || |||||     || ||| .|||   |..|.||||.||.
+c153117146-15   7890 ----------GT-CTTGG-----CTGTAT-GTCC---TCAGACCTCGGTG   7919
+
+17249098-1728  10880 TG-CCATCTGTAAAATGGGATAATCATAACCCCTGTC----TCCTATCAT  10924
+                     || |.|||||.|..|||||.|.||      |||.|||    |||.|...|
+c153117146-15   7920 TGTCAATCTGAAGGATGGGGTCAT------CCCAGTCCTCTTCCCAGGGT   7963
+
+17249098-1728  10925 TGCTGTGGAGTGCCATAGGAGCC--AGTGTTGCTCCTTCTCTTGCTTCCC  10972
+                     .|.||.|||       .|||.||  ||||     ||||||.||       
+c153117146-15   7964 GGATGGGGA-------TGGACCCTGAGTG-----CCTTCTTTT-------   7994
+
+17249098-1728  10973 AAGACC----CCCTGGAG--AAGGAGTTGTCCCAGTTCTGCTGAGTTGGG  11016
+                      .||||    |||..|||  ||||||||..|..|||.||||||..|||||
+c153117146-15   7995 -TGACCAGCTCCCGTGAGGAAAGGAGTTAGCATAGTCCTGCTGTATTGGG   8043
+
+17249098-1728  11017 TCTCAGTTTCCCCACATGT---AGGCTGAGGG-TTG---ACTAGGGGATC  11059
+                     .|||.||||  ||||||.|   |||  .|||| |||   ||.|  ||.||
+c153117146-15   8044 CCTCGGTTT--CCACATCTGCAAGG--AAGGGCTTGGGTACAA--GGTTC   8087
+
+17249098-1728  11060 TCTGCCACTTTGAATGAAAGAGAGAAAGCAGGGACAGGGGAGGGACACCG  11109
+                     | |||..||.|||.||.|.|||||  ||||||||| ||.||||||.||..
+c153117146-15   8088 T-TGCTGCTCTGAGTGGAGGAGAG--AGCAGGGAC-GGAGAGGGAAACTA   8133
+
+17249098-1728  11110 GTGCCTGGGA----AGACCCCCTTCCTAGGTGACAGCATTTCCCCAAGGC  11155
+                     ....||||||    |.|||.||.|..|.|||   ..||.|||||      
+c153117146-15   8134 ACATCTGGGAGCTGATACCTCCCTGATGGGT---CTCACTTCCC------   8174
+
+17249098-1728  11156 GCTTTGCTGTCCGTAATCCACTCTCTTCCTGACCCTATTTGCAGGGTAGG  11205
+                              |||  .|.||||.|||||||||.|||.||||..|.|.||||
+c153117146-15   8175 ---------TCC--TACCCACCCTCTTCCTGTCCCCATTTAAAAGCTAGG   8213
+
+17249098-1728  11206 GGACATTTAACACATGGGAGAAATGGGTGGCCTTTAA---GCTTGGCACA  11252
+                     .||.||||||..||    |||.||.||||||||||.|   |.||    |.
+c153117146-15   8214 AGAGATTTAAAGCA----AGACATAGGTGGCCTTTGAATGGTTT----CT   8255
+
+17249098-1728  11253 GGTGATGTTTGCTTCGAGGGCTGATAGGGACCAGGACTTG----GAGTGT  11298
+                     |||....||..|||..||.||||||.|||||||||||.||    ||    
+c153117146-15   8256 GGTAGCATTCCCTTGAAGAGCTGATGGGGACCAGGACCTGTCACGA----   8301
+
+17249098-1728  11299 GGGAG------TAGTGGGATCCACTCCATGTCAGGAG-CGATG-TTTCAG  11340
+                     ||.||      ||||   |||.|            || |.||| |||..|
+c153117146-15   8302 GGAAGATATTCTAGT---ATCAA------------AGACAATGTTTTGGG   8336
+
+17249098-1728  11341 AAACTGGCCCTTTAAGGAGCACTGACCACGTGCCAGGTACTGGGCAGCCA  11390
+                     .||||.||||||||||.|||||||||||.|     |||  ||||      
+c153117146-15   8337 GAACTAGCCCTTTAAGAAGCACTGACCAGG-----GGT--TGGG------   8373
+
+17249098-1728  11391 TGACCTCATCCAGCCCTCACAGCAGCCCAGAGAGGTGGGGGACTGATGCC  11440
+                           .||..|||.|              ||.|||.|.|..||  ||||
+c153117146-15   8374 ------GATTTAGCTC--------------AGTGGTAGAGCGCT--TGCC   8401
+
+17249098-1728  11441 CATTTCGCAGATGGGGCAACTGAGGTTCAGAGTAACTGTCCCGGGACCGC  11490
+                     .|             ||||                             ||
+c153117146-15   8402 TA-------------GCAA-----------------------------GC   8409
+
+17249098-1728  11491 ACACTAATGGTCAGGAGAGCTAGAATTCAGTGCAGACCCCTGGGGGCAGT  11540
+                     |||                              ||.||||.||       
+c153117146-15   8410 ACA------------------------------AGGCCCCGGG-------   8422
+
+17249098-1728  11541 CTCCCTCCATCACCCCCACCTCTGTTCC-CAGCCATGCATCCATGAGGCA  11589
+                                         |.||.||| ||||      ||  |||    
+c153117146-15   8423 --------------------TATGGTCCTCAGC------TC--TGA----   8440
+
+17249098-1728  11590 CTTGGGGCAGGACCCAATGAACCCATTTAATAGGCAAGAAAA-CTAAGAA  11638
+                                    ||  ||       ||.||..||||||| ..|||||
+c153117146-15   8441 ---------------AA--AA-------AAAAGAAAAGAAAAGAAAAGAA   8466
+
+17249098-1728  11639 GGAGAAGGGGTGGCTTTCCTGAAGTCACATGA-----TCTAGCGAGCGGC  11683
+                       |||||                  ||| |||     |.||     ||.|
+c153117146-15   8467 --AGAAG------------------CAC-TGACCACTTTTA-----CGCC   8490
+
+17249098-1728  11684 AGAGCTGGTGAGAGTCAGGACAGAGTCCCAGGGGTAGTGCAAGAGGACTG  11733
+                         ||||..||              ||||  ..||.|        |.||
+c153117146-15   8491 ----CTGGGTAG--------------CCCA--TCTATT--------ATTG   8512
+
+17249098-1728  11734 GCCAG---------CCTGTGAGGGGCCCCACCTTGGTGCCGGTTGAAGTG  11774
+                     | |||         ||||||.|||||.||                ||||.
+c153117146-15   8513 G-CAGACCCCCTCCCCTGTGTGGGGCACC----------------AAGTA   8545
+
+17249098-1728  11775 GCGATGGTGT--GGGTA---CCCCCACCTTGAATTCCTTGGCCATGATGG  11819
+                     .|     |||  ||| |   |.||||              ||||      
+c153117146-15   8546 AC-----TGTCAGGG-AGCTCACCCA--------------GCCA------   8569
+
+17249098-1728  11820 CTGGTGGGATGGAGGAAGTTCAGAGTCTCTCCCAC---------TCT--T  11858
+                                 |||||   ||||.|   |||.||         |||  |
+c153117146-15   8570 ------------AGGAA---CAGAAT---TCCTACACATCAGGATCTGAT   8601
+
+17249098-1728  11859 TCCCTCACCCGCCATATACCC------------CTGCTCCCTATC-----  11891
+                     .|||.|||||       ||||            |..|||||| ||     
+c153117146-15   8602 CCCCCCACCC-------ACCCACTCATTCCTTTCATCTCCCT-TCTGAAT   8643
+
+17249098-1728  11892 CTGCCTT-TGGCCAG-----GAT---CCCAGTAATTGTATGTTTGAGGCA  11932
+                     |||.||| ||.||.|     |||   |||    ||||     ||.||  |
+c153117146-15   8644 CTGGCTTCTGTCCTGAGCTCGATAAACCC----ATTG-----TTCAG--A   8682
+
+17249098-1728  11933 AGCATCACTGCTGGTGATTGACACATGGAGG-TCAGTAATTGCAGGATTT  11981
+                     ||.|               ||.||  .|||| |.||.|     |||||||
+c153117146-15   8683 AGAA---------------GAAAC--TGAGGCTGAGAA-----AGGATTT   8710
+
+17249098-1728  11982 AGGGGCTCCCAGGACTACAGAGGTGAGTGGCCCCTGCAAGATCCTCCCCT  12031
+                     ||..|.|||..|||  ||||                              
+c153117146-15   8711 AGCCGGTCCACGGA--ACAG------------------------------   8728
+
+17249098-1728  12032 CTGGCTGAGATTCGGACATGAGAAGCAGAGAGTTGAGACACCCATGTCAG  12081
+                                            |.||.|||              |||||
+c153117146-15   8729 -----------------------ATCAAAGA--------------GTCAG   8741
+
+17249098-1728  12082 -GAGGGAATACCCCAAGGGGAGGGTCATGCTTTAAAGGGAACTTGGATGC  12130
+                      ||                            |||||              
+c153117146-15   8742 TGA----------------------------TTAAA--------------   8749
+
+17249098-1728  12131 CTTGGATTCATCTGCCTCCAACTAAATATCATCCA----CGCCATCTTCA  12176
+                            .||.|| ||.||||||     ||  |||    .||||.||.||
+c153117146-15   8750 -------CCACCT-CCACCAACT-----TC--CCAATGTTGCCACCTCCA   8784
+
+17249098-1728  12177 TCCTCACCCTGTAACAGTTCTTGAGTGCTCGCTG-----TGGGCCGGGC-  12220
+                     ||||| |||..|||           ||.|.||||     ||.||.|||| 
+c153117146-15   8785 TCCTC-CCCCATAA-----------TGGTGGCTGGGAGCTGAGCTGGGCC   8822
+
+17249098-1728  12221 -ACCGAGCTGCATGTGCCCCATACATGACTC-----CTTT----CATCTT  12260
+                      ||  |||.|  ||..||||  ||||| |||     ||||    ||.|||
+c153117146-15   8823 AAC--AGCAG--TGAACCCC--ACATG-CTCTGCTTCTTTAACCCACCTT   8865
+
+17249098-1728  12261 CACAGCCTCTAATTAGTCCTAAGGGGTAGGAACTATTATTATCC-CCACT  12309
+                           ||.|||....|||||..||||||.|||.|||||||||| |||||
+c153117146-15   8866 ------CTGTAACACATCCTACAGGGTAGCAACCATTATTATCCGCCACT   8909
+
+17249098-1728  12310 TTACAGTTGAGGAAATTGAGGCCCAGAGAAGATCAGTAACTTTTCCTGGG  12359
+                     |||..|||||.|.||||||||||||||||||.|||| |||.|.||...||
+c153117146-15   8910 TTATGGTTGAAGGAATTGAGGCCCAGAGAAGGTCAG-AACCTGTCTCAGG   8958
+
+17249098-1728  12360 ATA------TTCAAAAGTGGGGGATTCAGAATCTGGGCCCA----GGCCA  12399
+                     |||      .|||.|.|||.|||       |||||||.|||    ||||.
+c153117146-15   8959 ATAGCTACGATCACAGGTGTGGG-------ATCTGGGACCAAGCCGGCCG   9001
+
+17249098-1728  12400 T----CTGAC-CTCAGAGCCCTGCATTTAACCAGCCCCCACCCCACAAGA  12444
+                     |    ||.|| ..|||.||.||.| |.|.|||||           ..||.
+c153117146-15   9002 TGGGGCTCACAGGCAGTGCGCTTC-TGTGACCAG-----------TGAGT   9039
+
+17249098-1728  12445 TGCCACCT-------GCCCACTGATAACAGTAGCTAGTATTTCTTGGGCA  12487
+                     .||.|.||       |||.|.||    |||.|        .|||||||  
+c153117146-15   9040 GGCAAACTCAGGACAGCCAAATG----CAGGA--------CTCTTGGG--   9075
+
+17249098-1728  12488 CTTCCTATGGGCTCAGTCTTTTACATGTATTGTTTCCAAGCTGCATTACA  12537
+                     .||||               ||||                |||||..|  
+c153117146-15   9076 TTTCC---------------TTAC----------------CTGCAAAA--   9092
+
+17249098-1728  12538 AGCCTCTGAGGTAGAGACCTATAGAGGTAGA-----GGCCTTTTCCCA-T  12581
+                           ||.||..|||       |||| .||     ||.||    ||| |
+c153117146-15   9093 ------TGGGGGTGAG-------GAGG-GGAGTGCGGGTCT----CCAGT   9124
+
+17249098-1728  12582 TTTG--CAGAGGAGAAAACTGAGGTGGCTCAGGTAGGTGAGAGG-CCTTG  12628
+                     |.||  ||||  ||.|||..|||||.||||||..||| .|.||| |||||
+c153117146-15   9125 TCTGATCAGA--AGGAAATCGAGGTAGCTCAGACAGG-CACAGGACCTTG   9171
+
+17249098-1728  12629 GCCAAGGTCATAGAGTACCCAGA-GGTGCCGGGCTCAAGCCCGGGCCTGT  12677
+                     ||.|||              ||| |.||.|   ||||||.||.||....|
+c153117146-15   9172 GCTAAG--------------AGATGTTGAC---CTCAAGTCCAGGTAGTT   9204
+
+17249098-1728  12678 CTGAGTCCCACA-GACAAGAATGTTGGCTTGGAGAGTGTCCCCAAACCCT  12726
+                     .||.||     | |||.||||        |..|||   ||||||     |
+c153117146-15   9205 GTGGGT-----AGGACTAGAA--------TCCAGA---TCCCCA-----T   9233
+
+17249098-1728  12727 --GCCCAGCCCAAACCCTTTATTTTACAAATGGCAAAACTGAGACCCAAA  12774
+                       |.|.||                .|||||||||         |||||  
+c153117146-15   9234 GGGTCTAG----------------GACAAATGGC---------ACCCA--   9256
+
+17249098-1728  12775 GGGGAGCAAGAGCTTGTCAAAAATCACAGA-GT----AGGTTATTGGAGG  12819
+                                 |||          |.||| ||    ||| |||    ||
+c153117146-15   9257 ------------CTT----------ATAGATGTGCCCAGG-TAT----GG   9279
+
+17249098-1728  12820 GACT--GGGACCCAAGTCTCTTGAGAAGCTCTCACAAATA-------GCT  12860
+                     ||.|  |.|||||        |||||||||        ||       |||
+c153117146-15   9280 GAATAAGTGACCC--------TGAGAAGCT--------TAAAGGGGCGCT   9313
+
+17249098-1728  12861 CCCATTTTACAGATATGCCAACCAAGACACAGAAAAATAAATGGCACAGA  12910
+                                              ||||||           ||.|||||
+c153117146-15   9314 -------------------------GACACA-----------GGGACAGA   9327
+
+17249098-1728  12911 GGAGGTTAAAGAAAGA--GCAAGGTTCCTTGGGCCCCCTCCCCTCCTTAC  12958
+                     ||..|.|       ||  ||.|||||||..|||           |||..|
+c153117146-15   9328 GGTTGCT-------GACTGCCAGGTTCCACGGG-----------CCTGTC   9359
+
+17249098-1728  12959 CAGAT----CCCCGAGAGCTATCTTTTGGGGCGGGAGCTCTTGGCTTCTG  13004
+                     ||.||    |.|.|||   |||||                          
+c153117146-15   9360 CACATGTGACACTGAG---TATCT--------------------------   9380
+
+17249098-1728  13005 CTGGTATTACTCTGCGCCCAACTCTCCACAGGTTCAGATTTCCTACCACT  13054
+                              |||||              ||||||||.||..|.|||||||
+c153117146-15   9381 ---------CTCTG--------------CAGGTTCAAATAGCTTACCACT   9407
+
+17249098-1728  13055 CCAGCCATGAGCCTCTGCCCCTGGCCTATGCGGTGCTCTACCTCACCTGT  13104
+                     ||||.||.||||.|.||||||||||||||||.||.|||||||||||||||
+c153117146-15   9408 CCAGTCACGAGCATTTGCCCCTGGCCTATGCAGTACTCTACCTCACCTGT   9457
+
+17249098-1728  13105 GTTGGTAAGTTGG----GGGCCATGTTGATGGTGTGGCCAAGGGCACATT  13150
+                     ||.|||||| |||    ||||     |||.|||.||||||.|        
+c153117146-15   9458 GTGGGTAAG-TGGAGCAGGGC-----TGAGGGTATGGCCAGG--------   9493
+
+17249098-1728  13151 TGAAAAATTCAAGCAGTACAAAAGAGTATACGTTGAAAATTAAACCTCCT  13200
+                                                                       
+c153117146-15   9494 --------------------------------------------------   9493
+
+17249098-1728  13201 TCCCTCCAACTCAAGACTTCTAGTTCCCCAAACCCAGCATTTTTCTAGAG  13250
+                                   ||.|.||.|                        |||
+c153117146-15   9494 --------------GAGTCCTGG------------------------GAG   9505
+
+17249098-1728  13251 ATACGCTGTGCTTATATATGAAAGCACATACATACCTGTATATCCCCCCT  13300
+                        .||||      .|.|||||             |||.|          
+c153117146-15   9506 ---GGCTG------GAGATGAA-------------CTGAA----------   9523
+
+17249098-1728  13301 CTTTTGTAAGCAAATTGAAGCATACTATAGACATGGAACTGGACCTTGCT  13350
+                      |||||||   |||  ||||||                            
+c153117146-15   9524 -TTTTGTA---AAA--GAAGCA----------------------------   9539
+
+17249098-1728  13351 TTTGCCAGCTTAAAGTTTTTCTGCTAAGCCTCCACAAATGGATACATAAA  13400
+                                                                       
+c153117146-15   9540 --------------------------------------------------   9539
+
+17249098-1728  13401 CTCCGTGCAAGATGGCTCAGATGTT-GGAGCTATCAGACAGGGCATGCAA  13449
+                                           ||| ||||||        ||||||||||
+c153117146-15   9540 ----------------------GTTGGGAGCT--------GGGCATGCAA   9559
+
+17249098-1728  13450 AGTAATAGTGATTAATATGTTAAGGGTTCTAGTGGAAAAGGTAGACAATA  13499
+                                                                       
+c153117146-15   9560 --------------------------------------------------   9559
+
+17249098-1728  13500 TGTATGAACAGATGGGGAATTTCAACAGAGAAGAAAATCAATAAGAAAGA  13549
+                                         |||.||||                      
+c153117146-15   9560 --------------------TTCCACAG----------------------   9567
+
+17249098-1728  13550 GTCAAATGGAAATGCTAGAC-ATAAAAACCATAGTAATAAGAGATTTTAA  13598
+                                    ||||| ||      |.|..||              
+c153117146-15   9568 ---------------TAGACTAT------CCTCCTA--------------   9582
+
+17249098-1728  13599 AAATGCTTTTG-AAGGTTTCAC----CAGTAGACTTGACACAGCTGAGGA  13643
+                         ||||||| ||||.|.|||    ||..|.||    ||||        
+c153117146-15   9583 ----GCTTTTGCAAGGATACACACCACACCACAC----CACA--------   9616
+
+17249098-1728  13644 AAGAATCAGTGAACTTGAAGATAAGTGAATAAAAGTTACCCAAACTGAAA  13693
+                                                            |||.||..|.|
+c153117146-15   9617 ---------------------------------------CCACACACACA   9627
+
+17249098-1728  13694 CCCAAAGAGAAAAAAGAATAAAACAAACAAATGAAAAAACATA-ACAGAT  13742
+                     |.||.|             .|.|||.|||.|...|.|.|||.| ||||| 
+c153117146-15   9628 CACACA-------------CACACACACACACACACACACACACACAGA-   9663
+
+17249098-1728  13743 CTAAGAGCTCTGTGACAGTATCAAACAGTCTAAATTCAATGAAATTCCTA  13792
+                                          ||..|||.|                   |
+c153117146-15   9664 ---------------------CACGCAGAC-------------------A   9673
+
+17249098-1728  13793 TAGAAATTCCAACGTGGCTTTTTTGTTTGTTTGTTTGTTTGTTTTAAGGA  13842
+                     .|.|||  ||||                                      
+c153117146-15   9674 CACAAA--CCAA--------------------------------------   9683
+
+17249098-1728  13843 GTTTTGCTCTTGTTGCCCAGGCTGGAGTGCAATGGCACAATCTCAGCTCA  13892
+                                                        ||||  |.||    |
+c153117146-15   9684 -----------------------------------CACA--CACA----A   9692
+
+17249098-1728  13893 CCGCAACCTCCGCCTCCTGGGTTCAAACGATTCTCCTACCTCAGCCTCCT  13942
+                     .|.|||||.||.||.||               ||||.|.||         
+c153117146-15   9693 GCACAACCCCCTCCCCC---------------CTCCAAACT---------   9718
+
+17249098-1728  13943 GAGTAGCTGCAATTACAGACACATGCCTCCACGCCCAGCTACTTTTGTAT  13992
+                                 |||.|.|.|                   ||.|||.|.|
+c153117146-15   9719 ------------TTAAAAAAA-------------------ACGTTTTTCT   9737
+
+17249098-1728  13993 TTTTAGTAGAGACAGGGTTTCTCCATGTT-GGCCAGGCTGG---TCTTGA  14038
+                     ||.||||         .|||     |.|| ||   .|||||   .|  ||
+c153117146-15   9738 TTCTAGT---------CTTT-----TTTTCGG---AGCTGGGGACC--GA   9768
+
+17249098-1728  14039 ACTCCTGACCTCAGATGATCTGC-CTGCCTCGGCATCCCAAAGTGCTGGG  14087
+                     ||.|..|.|||         ||| ||..||.|||      |||.|||   
+c153117146-15   9769 ACCCAGGGCCT---------TGCGCTTGCTAGGC------AAGCGCT---   9800
+
+17249098-1728  14088 ATTACAGGCATGAGCCACTGTGCC-CAGCCCCAACATGGCTTTTTAATAT  14136
+                      .||          ||||||.||| .|.|||||||               
+c153117146-15   9801 -CTA----------CCACTGAGCCAAATCCCCAAC---------------   9824
+
+17249098-1728  14137 AACTTTACAGAGCTGATCCTAAAA------TTTGTA--TGGAAAAGCAAA  14178
+                                     .|||||||      |||.||  |||||||     
+c153117146-15   9825 ----------------CCCTAAAAAAAAAGTTTTTAATTGGAAAA-----   9853
+
+17249098-1728  14179 GGTCAAGAATAGCTAAGACAATTTTGATGAAGAATAAGGTTGAGGGATTC  14228
+                         |||||..||    |||.|        ||||.|              
+c153117146-15   9854 ----AAGAAGTGC----ACATT--------AGAAAA--------------   9873
+
+17249098-1728  14229 ACAATTCCAAATATCAAGACTTTTTTTTCAAGCTATAGTACTTGAGGCAT  14278
+                                               ||||||| ||        |||.||
+c153117146-15   9874 --------------------------TTCAAGC-AT--------AGGGAT   9888
+
+17249098-1728  14279 TGTGAAA----TTGGTATAGAGCAATAGAGCAAATAGAGAACCCATAGAC  14324
+                       |||||    |.||                     ||||          
+c153117146-15   9889 --TGAAAGGCCTGGG---------------------GAGA----------   9905
+
+17249098-1728  14325 AGACCCATGCTTGTGTGGTTATCATGTGGCAATAAATGAACTTGGAGCCC  14374
+                                    ||||                               
+c153117146-15   9906 ---------------TGGT-------------------------------   9909
+
+17249098-1728  14375 TACCTCACACCATACTCAAAAATAAACTTCAAGTCAGTTAAAAATCTTAA  14424
+                                                      |||||           |
+c153117146-15   9910 ---------------------------------TCAGT-----------A   9915
+
+17249098-1728  14425 GGTGAAAATCAAAATTGTAAAGCTTTTAGAAAAGAATATCTTTGTACCCT  14474
+                     |||                                               
+c153117146-15   9916 GGT-----------------------------------------------   9918
+
+17249098-1728  14475 CAAAATAGTAAAGATTTTCTTTAACAAGGCAAAACAAAAGTGCAAAGACC  14524
+                                                         ||.||||       
+c153117146-15   9919 ------------------------------------AAGGTGC-------   9925
+
+17249098-1728  14525 ATAAGGGGAAAGATTGCTAAATTAGACTGTATTAAAATTAAAAATTTATA  14574
+                                  ||||||                               
+c153117146-15   9926 -------------TTGCTA-------------------------------   9931
+
+17249098-1728  14575 TGCAACAGACAACAAGTAAAAAGTCAAACTGTGAACTAGGAGAAGAAATC  14624
+                               ||||||                      .||||.||    
+c153117146-15   9932 ----------AACAAG----------------------CGAGAGGA----   9945
+
+17249098-1728  14625 TGCAATGCATACGGCTGACTTGGTGCATATAGAATATGAAGAACTCCAAT  14674
+                                  .||||.||.|                           
+c153117146-15   9946 -------------CCTGAGTTCG---------------------------   9955
+
+17249098-1728  14675 CAATAAGAAAAGGACAAAAATAATAGAAATGGGCAAAAACATGAATAAAC  14724
+                                                                       
+c153117146-15   9956 --------------------------------------------------   9955
+
+17249098-1728  14725 AATTCACAGAAGAGAAAGTCCCAGTGATCAAAACCCAAATTAAAAGA---  14771
+                     |||.|.|||        .|||||  |||||.|.|          |||   
+c153117146-15   9956 AATCCCCAG--------CTCCCA--GATCAGACC----------AGAGCG   9985
+
+17249098-1728  14772 ----------TGCCTA-AATGAGCATTGCCAAGGTTGT--GGAGCTGGGA  14808
+                               |||||| ||       |.|||.||.|||  |||    |||
+c153117146-15   9986 TGGTAGCCTGTGCCTATAA-------TCCCAGGGCTGTAAGGA----GGA  10024
+
+17249098-1728  14809 AACTCCTTACAAAGGAGTGGGTG-----GGAGT-TTGCTTTGGCTCACAC  14852
+                     |.|         |||||     |     ||||| |||||..|        
+c153117146-15  10025 AGC---------AGGAG-----GACCCTGGAGTCTTGCTGGG--------  10052
+
+17249098-1728  14853 ACTTGAGAAGCAATTAGCAAAGAAGTTGAAAATGCTTTATCTGTAGGAGG  14902
+                       |||..|.||   ||||..||                            
+c153117146-15  10053 --TTGCCAGGC---TAGCTGAG----------------------------  10069
+
+17249098-1728  14903 CATTTTTTAGAAGCAGAACTTCTAG-GTTATAGAGAATCTATATTT----  14947
+                       |.|||.||...||||  ||| || |    |||||.||      |    
+c153117146-15  10070 --TCTTTGAGCTCCAGA--TTC-AGCG----AGAGACTC------TGCCG  10104
+
+17249098-1728  14948 TTTAACTTGATAGATATTGCCAAACTGCTCTCCAAAAACACTGTATCAGT  14997
+                     ||.||.|||| ||     |||                             
+c153117146-15  10105 TTAAAGTTGA-AG-----GCC-----------------------------  10119
+
+17249098-1728  14998 ATACATGT-CTGCCA-ACTGCATATATGCTTTGCCAACACT---------  15036
+                       |||||| .||.|| || |||..||..|    |||.||||         
+c153117146-15  10120 --ACATGTGGTGGCACAC-GCACTTAACC----CCACCACTGGGAGGCAG  10162
+
+17249098-1728  15037 --GCATTAGCAACTTT-----TTCCCTTTTTGCCAATCAGTTGGCATTGC  15079
+                       |||..||.|.||.|     ||||    ..||||..|||          
+c153117146-15  10163 AGGCAGGAGGACCTCTGTGAGTTCC----AGGCCAGCCAG----------  10198
+
+17249098-1728  15080 ACTGTGGTTTTACTTTGCCTTTCTTTAGTTAGGAGTGAGGTTGGGCATTC  15129
+                          ||.|.||                    |||.|||         .|
+c153117146-15  10199 -----GGCTATA--------------------GAGGGAG---------AC  10214
+
+17249098-1728  15130 CCCATCTGCAGCCCAAATACATACACACATGATCATTGGAAAATAACATA  15179
+                     ||..|||      ||||         |||          |||||.||   
+c153117146-15  10215 CCTGTCT------CAAA---------ACA----------AAAATCAC---  10236
+
+17249098-1728  15180 GACAGAAAAGTACATAAAGCTTTATTTTACATACATATGTGCATAAAGCA  15229
+                                                                       
+c153117146-15  10237 --------------------------------------------------  10236
+
+17249098-1728  15230 TATGTACACACACACACACACACACACAC-----ACA-CACACGAATAAT  15273
+                         |||||.|||.||           ||     ||| ||.|.|||||||
+c153117146-15  10237 ----TACACGCACCCA-----------ACTGTGTACATCAAATGAATAAT  10271
+
+17249098-1728  15274 TACAAAGCAAATCAAAGAATAGCTCAGAAAATAAACCCAAGAGTAGCCCA  15323
+                     ||||||      |||        .|||.|||.|   ||  ||||   ||.
+c153117146-15  10272 TACAAA------CAA--------GCAGCAAACA---CC--GAGT---CCG  10299
+
+17249098-1728  15324 AGAAATGAAACACTACCAGAACCCCAAAGTCCCCCTCAATGTCCGTCTCT  15373
+                     .||..|                     ||.||.||.||          ||
+c153117146-15  10300 GGATGT---------------------AGGCCACCACA----------CT  10318
+
+17249098-1728  15374 GATCATAACTCCCTCCTTCTCCTACAGGTAACCACTATCTTGTGATAAGT  15423
+                     ||                              ||||              
+c153117146-15  10319 GA------------------------------CACT--------------  10324
+
+17249098-1728  15424 ATTTTCTTGCTTCTCCTCATGGTTTTATCTCTTGAACGCAATACCCAAAT  15473
+                               .||||..|.|||.|||                  ||    
+c153117146-15  10325 ----------GTCTCGCCCTGGGTTT------------------CC----  10342
+
+17249098-1728  15474 AACATGGTCTCATTTTATCATCTGATTTT--CTGTGGATGCAGTCATATC  15521
+                                  ||||       ||.||  ||||||.|  .||||.| |
+c153117146-15  10343 -------------TTTA-------ATGTTCCCTGTGGCT--TGTCACA-C  10369
+
+17249098-1728  15522 ATGTA------TGT----TCTTTTGCGTTGGGCGTCTTTTGCCCTATGCT  15561
+                     |||||      |||    |||     ||||||    ||||        ||
+c153117146-15  10370 ATGTAGCCAAGTGTGGAGTCT-----GTTGGG----TTTT--------CT  10402
+
+17249098-1728  15562 ATGTTTGTGAGATTTATCCACTTGTTGCATGGTGGTTGAGTATCTTTTCA  15611
+                     .||   ||.|||   ||||.||.|.|.|.||          .||||||| 
+c153117146-15  10403 GTG---GTTAGA---ATCCCCTCGGTACCTG----------CTCTTTTC-  10435
+
+17249098-1728  15612 CATGTTTAAAAATCATTTCAGGCCACGCGTGGTGGCTCATGCTTGTAATC  15661
+                                                .|||||     ||..|.||||  
+c153117146-15  10436 ---------------------------TGTGGT-----ATATTGGTAA--  10451
+
+17249098-1728  15662 CCAGCACTTTGGGAGGCTGGGGTGGGTGGATCACTTGAGCCCAGTAGTTC  15711
+                                 ||..||                                
+c153117146-15  10452 ------------GATTCT--------------------------------  10457
+
+17249098-1728  15712 AAGACCAGCCTAGGCAACATGGTGAAATCCTGCCTCTATGAAAGATACAA  15761
+                        |||                   |.|||||.|            ||| 
+c153117146-15  10458 ---ACC-------------------ATTCCTGTC------------ACA-  10472
+
+17249098-1728  15762 AAATTAGTTGGGCATGGTGGCATGCACCAGTAGTCCCAGCCTCAGGAGGC  15811
+                                  |||||                         |||.||.
+c153117146-15  10473 -------------ATGGT-------------------------AGGTGGA  10484
+
+17249098-1728  15812 TGAAGTGGGAGGATTACTTGAGCCCAGGAGGCAGAGGTTGCAGTGAGCCA  15861
+                     |.||||                                            
+c153117146-15  10485 TAAAGT--------------------------------------------  10490
+
+17249098-1728  15862 TGATCATGCCACTGCACTCCAGCCTGGGCGACAGAGACCCTGTCTTGTCT  15911
+                                                            ||||| |||||
+c153117146-15  10491 ---------------------------------------CTGTC-TGTCT  10500
+
+17249098-1728  15912 CAAAAAAAAAAAAAAATCCTATCTAATGTATTCTTTCTTCTCTCCCTCCC  15961
+                                                          .|||.||      
+c153117146-15  10501 -------------------------------------GTCTGTC------  10507
+
+17249098-1728  15962 TGCCCCTCACTGCTTCTTCTTTAAGAACTAAGAAGACTGCTTTTTTTTCA  16011
+                                       ||||||||||||         |...||||..|
+c153117146-15  10508 ------------------CTTTAAGAACTA---------CCCATTTTATA  10530
+
+17249098-1728  16012 G--------AGCAGAAAGATTGATTCTGACCTCCTGAATGCTCCATTTGC  16053
+                     |        |||          |||||.|      ||           ||
+c153117146-15  10531 GGCCGGGCCAGC----------ATTCTAA------GA-----------GC  10553
+
+17249098-1728  16054 ATTATGAAATCTCACCCAGTGTCTAGGGCTAAATGTTAAGAAGGTGGGAT  16103
+                     ..||||            ||.||.||.|..|||.|.|.||.||.||||.|
+c153117146-15  10554 CCTATG------------GTTTCCAGCGAGAAAGGCTGAGCAGCTGGGCT  10591
+
+17249098-1728  16104 GGGGGTGGGATTTGGGGACTGCGAGTAG-CTCAGAAAGGA----CACACA  16148
+                                    ||.|.|.|||||| |.| .||.|||    |.|.||
+c153117146-15  10592 ---------------GGTCAGAGAGTAGACGC-CAAGGGAGCGTCTCCCA  10625
+
+17249098-1728  16149 GCCAG------GAGGCGGCAGAACCTGGGTTTGTGTTCACATCTG-----  16187
+                     |.|.|      ||||.|||.||.||      ..|.|||||| |||     
+c153117146-15  10626 GGCTGTACGGCGAGGTGGCCGAGCC------CATCTTCACA-CTGTGTCC  10668
+
+17249098-1728  16188 -TTTGACACCAAAGTCCAGGCTTGCTACCCCATTCC----AAGGAGATGA  16232
+                      |.||||||||||.||||.|||.|||.|    ||||    .|||||.|||
+c153117146-15  10669 TTCTGACACCAAAATCCAAGCTCGCTGC----TTCCTCCTGAGGAGCTGA  10714
+
+17249098-1728  16233 G------------GCAGCTTTATATAGACA-AGAATGTTCCTGGAGACCT  16269
+                     |            |.|||.|..|.|.||.| |||.|||.|||.|..||||
+c153117146-15  10715 GAGCATCCCCCATGGAGCATCCTGTCGATAGAGACTGTCCCTAGTCACCT  10764
+
+17249098-1728  16270 GGGCTCAGTTCAGGGCATGCCTGGG------ACTGCAAGGGCTGCAGGGA  16313
+                     ||     ||||||.||.|| |||.|      .|.||||.||||...|||.
+c153117146-15  10765 GG-----GTTCAGCGCCTG-CTGTGTCCCATGCAGCAAAGGCTTTGGGGC  10808
+
+17249098-1728  16314 TGCAGATAGGAAGTG------GTCAGGGA-AGTCTCCCTAGAGGGGGCAG  16356
+                     |     |.||||.||      .|||.||| || ||.||| |..|||||||
+c153117146-15  10809 T-----TTGGAACTGATAGCCATCAAGGAGAG-CTTCCT-GCAGGGGCAG  10851
+
+17249098-1728  16357 CATTTGTCCTGGGCC---TTTGCTGTGACCCTGCTTCTTGCCTC------  16397
+                     |.||     |||.||   ||||||..||||||.|      ||||      
+c153117146-15  10852 CCTT-----TGGTCCATTTTTGCTTGGACCCTCC------CCTCCACCAA  10890
+
+17249098-1728  16398 -----------------AGGCCTCTTTCCCCAGCC-CAGA--GGG----T  16423
+                                      ||.||| |.||||..||| .|||  |||    |
+c153117146-15  10891 AAAGAAAAAAAAAAAAAAGACCT-TCTCCCTTGCCTGAGAATGGGAGACT  10939
+
+17249098-1728  16424 GCAGATGCCCTCACCTCTTGGATGGTGTCTCCTTAGAAATGACTTGCCTT  16473
+                     .||| .|||||.|||||  ||  ||||                       
+c153117146-15  10940 CCAG-GGCCCTAACCTC--GG--GGTG-----------------------  10961
+
+17249098-1728  16474 TGCTCAGCCCCAGACAAGCCCTGAGATCAAGGCCTG----CCCTGGGC--  16517
+                      ||.|||   |.||      |||||.|.||    ||    ||.|||.|  
+c153117146-15  10962 -GCCCAG---CTGA------CTGAGGTGAA----TGTTACCCATGGTCTG  10997
+
+17249098-1728  16518 TCCTGGGAACCTTGTAGTGACTTACCCT-CTGCCTCCTCTTGCAGACATC  16566
+                     ||.||||.||       |.||||  .|| |||||||| |...||||||||
+c153117146-15  10998 TCATGGGGAC-------TCACTT--GCTGCTGCCTCC-CCAACAGACATC  11037
+
+17249098-1728  16567 TCTCTGGATTGCGACCTGAACTGTGAGGGAAGGCAGGACAGGAACTTTGT  16616
+                     .|.|||||.||.|||.|||||||||..|...||||||||||||.|||.||
+c153117146-15  11038 ACCCTGGACTGTGACATGAACTGTGCTGACCGGCAGGACAGGAGCTTCGT  11087
+
+17249098-1728  16617 AGACAAGGTAAGCATCTCTGCCTGGGCCCAGGAAGCAGGAGTGCAGTTGG  16666
+                     .||.|||||                    |||.||||||.||| ||.|  
+c153117146-15  11088 GGATAAGGT--------------------AGGCAGCAGGTGTG-AGCT--  11114
+
+17249098-1728  16667 AGCTTG--CTCTAGGTTGGGTTAAGAAGGATGAGGCCATTACAGA-TATC  16713
+                       ||||  |||.|||      |.|||.||...||||||||| ||| |.||
+c153117146-15  11115 --CTTGTCCTCCAGG------TCAGAGGGGCAAGGCCATTA-AGATTGTC  11155
+
+17249098-1728  16714 CCCCTGCCTCCCAGCTGATGCCGAGACCAAGG--GCCAAAAACAGAAACC  16761
+                     |.|||.||||||||.||||| ||||..||.||  ||||.|   ||..|||
+c153117146-15  11156 CTCCTTCCTCCCAGTTGATG-CGAGGTCAGGGTAGCCAGA---AGGGACC  11201
+
+17249098-1728  16762 AGGCATGGCTGGGGATCTTCTTTCACCAGGAGAAAAATCATCGCCAGGAA  16811
+                     ||||||||||||||              ||      .|||||       |
+c153117146-15  11202 AGGCATGGCTGGGG--------------GG------GTCATC-------A  11224
+
+17249098-1728  16812 TTATCAGGCATGG---------AGGTACCCAGCCCTGAGCTAGGCCTTGG  16852
+                     |.|.||.||||||         .|||.||||||||||.|||| .||||||
+c153117146-15  11225 TCAGCAAGCATGGTCACAACATGGGTTCCCAGCCCTGGGCTA-TCCTTGG  11273
+
+17249098-1728  16853 TTTGTG-GGATCAAGACCTTCTGGACTCATAAACTAGGTCAGGAGTGGGC  16901
+                     ||..|| |||..|||   ||||.|..|.|||||||||||||.|.||.|..
+c153117146-15  11274 TTGATGAGGAGAAAG---TTCTAGGTTTATAAACTAGGTCAAGGGTTGTG  11320
+
+17249098-1728  16902 AAACTTT--------------------------------TTCCGTG----  16915
+                     |||||||                                ||.| ||    
+c153117146-15  11321 AAACTTTAAATATACAGACAGACAGACAGACAGATCCACTTAC-TGGATC  11369
+
+17249098-1728  16916 --------AAA-------------AGTCACATAGCAAGTA----------  16934
+                             |||             || |||.|||.|||.|          
+c153117146-15  11370 ATGGCGGCAAATGCCTTTAATCCCAG-CACTTAGGAAGCAGAGGCAGGTG  11418
+
+17249098-1728  16935 ----------TTTTAGGC--------TTTGTGG-----------------  16949
+                               |||.||||        |.|.|||                 
+c153117146-15  11419 GATCTCTGAGTTTGAGGCCAGCCTGGTCTATGGAGGGAGTTCCAAGACAG  11468
+
+17249098-1728  16950 -------GACATATG---------GTCTCAATT-----------------  16966
+                            .||||| |         ||||.||.|                 
+c153117146-15  11469 CCAAGGATACATA-GAGAAACCCTGTCTTAAATAGATAGATAGATAGATA  11517
+
+17249098-1728  16967 ----------------------------------------CTGCCA----  16972
+                                                             .|||||    
+c153117146-15  11518 GATAGATAGATAGATAGATAGATAGATAGATAGATAGTAAATGCCAGATT  11567
+
+17249098-1728  16973 -------CTATAG----TGTGA--------------AAGCAGCCACAGTT  16997
+                            .|.|||    |||||              |||||||  ||.||
+c153117146-15  11568 GTAAGTGTTTTAGGCCTTGTGACCTATATTTCATTGAAGCAGC--CAATT  11615
+
+17249098-1728  16998 AATACAGAAATGGATGGATGTGACTGTGTGCTAATAAAACTTTATTTATA  17047
+                     .|..||||||..|||.| ||.|||  |||.||.|||||||||||||.|||
+c153117146-15  11616 GAAGCAGAAACTGATCG-TGAGAC--TGTTCTGATAAAACTTTATTGATA  11662
+
+17249098-1728  17048 CAAACAGGCAGT-AGGCCAGATTTGGCCCACAGTTCAT-AATGTGCTGAT  17095
+                     .|.||||||||| ||  ||||||||.|.|||||.|.|| ||||||     
+c153117146-15  11663 AACACAGGCAGTGAG--CAGATTTGTCTCACAGGTAATCAATGTG-----  11705
+
+17249098-1728  17096 CCTGACCTAGGCG-----------AG-AAGAGAA----ACCAAATATGAA  17129
+                             |||||           || |||||.|    |||..|.|.||.
+c153117146-15  11706 --------AGGCGCACATCTGGGCAGAAAGAGCAGCCCACCGTACAAGAC  11747
+
+17249098-1728  17130 ACTGTTGAAGAACT-------------------TGGGACTGAATTATGTT  17160
+                     ||..||    ||||                   ||||.||||        
+c153117146-15  11748 ACCATT----AACTGTCTTCCACGCAGTCTTGGTGGGGCTGA--------  11785
+
+17249098-1728  17161 GGAACTTGGTGCCCTGGGAGTTAAGAGGAGAAGGTCGAGGTGGGCTGGGT  17210
+                              |||..||.|.|||.|.|.||||   .|.|||| |.||||  
+c153117146-15  11786 ---------TGCATTGTGGGTTTAAAAGAGA---CCAAGGT-GACTGG--  11820
+
+17249098-1728  17211 GGGTGAGGAAGG----CTTCCTGGAGGGACGTACCCTTGAGCTGAGCTCT  17256
+                         .|||||||    |||||||||.|||...|||   ||||||.|.|..
+c153117146-15  11821 ----AAGGAAGGAGGACTTCCTGGAAGGAATGACC---GAGCTGTGTTGG  11863
+
+17249098-1728  17257 GAAGGGGTGCAGGAGGGAGGACG-TTCCAGGTGCAGGGAATGGCAGGAGC  17305
+                     ||| |||||..|||.|||||  | ||||          |.||||.|||  
+c153117146-15  11864 GAA-GGGTGAGGGATGGAGG--GATTCC----------ATTGGCTGGA--  11898
+
+17249098-1728  17306 AAAACCAAGGA---GGGTTTAATGGAGGAATGAGCACAGAGTGAGGCGTG  17352
+                          .|||||   |||    ..||.||.||       |||.||||    
+c153117146-15  11899 -----AAAGGACTTGGG----CAGGCGGGAT-------GAGGGAGG----  11928
+
+17249098-1728  17353 TGGTCCTATAATCAGGTTGCCTATTGAGAAAGAGGATGTTGG-CTGA-AG  17400
+                                      .|||.|   |||||||||.|..||| |.|| ||
+c153117146-15  11929 -----------------AGCCAA---AGAAAGAGGGTCATGGCCAGAGAG  11958
+
+17249098-1728  17401 GCCCATCACAGATAGCCATGAAAGACAGCTCTGTGCTTTGGACTGGATGG  17450
+                     ||.|.||.|||..||||||.|.||.||||..||||.||||||||.|||||
+c153117146-15  11959 GCACCTCCCAGCCAGCCATAACAGCCAGCCTTGTGGTTTGGACTTGATGG  12008
+
+17249098-1728  17451 TGTGGGCAACAGAGAGCCATTGCCATTGACATGTC-TTGAGAAGGAGGTG  17499
+                     |||..|                 |.||||..||.| ||.|        ||
+c153117146-15  12009 TGTAAG-----------------CTTTGAGGTGCCGTTAA--------TG  12033
+
+17249098-1728  17500 CTTC-GAGAACGTGGA--CCTAGCCTCACAGGGTTG-GGTGGTTAC--AG  17543
+                     .||| |.||..|||||  |||  |||    |||.|| ||||...||  ||
+c153117146-15  12034 TTTCAGTGATGGTGGATTCCT--CCT----GGGATGTGGTGAAGACTGAG  12077
+
+17249098-1728  17544 GCCAGGCTCGGGTTCCTGG--GTAGGGAGGCACA-----------GGTCT  17580
+                     |  |||||.|     |.||  |||..|||.||.|           |||||
+c153117146-15  12078 G--AGGCTGG-----CAGGAAGTACTGAGTCAGAGGCTTGCCCTGGGTCT  12120
+
+17249098-1728  17581 CATCT-GAGCCCTCATCACTGGCTATGTTTTGTCATTGGCAGCGGCAGTG  17629
+                       .|| |||||||..|.|| .|||.|.||||.|||.||.|||.|||||||
+c153117146-15  12121 --GCTGGAGCCCTGTTGAC-AGCTGTATTTTCTCACTGACAGAGGCAGTG  12167
+
+17249098-1728  17630 GGTCTGGGGGCCCAGTGGGTATGGCGGCATCTTGCTGGTGAACTGTGACC  17679
+                     |.|.|||||.||...||||||.||.|.|||||||||||||||||||||.|
+c153117146-15  12168 GATGTGGGGACCTGATGGGTACGGAGCCATCTTGCTGGTGAACTGTGATC  12217
+
+17249098-1728  17680 GTGATGA--TCCGAGCTGTGATGTCCAGGACAATTGTGACCAGCACGTGC  17727
+                     |.||.||  ||  ||||.|||||.|||.||.||.||||||||....||||
+c153117146-15  12218 GGGACGAGGTC--AGCTCTGATGCCCAAGATAACTGTGACCAATGTGTGC  12265
+
+17249098-1728  17728 ACTGCCTGCAAGGTGAG---GCCGGGGCAGCCTGAGTCCCTGGGTGTCCA  17774
+                     .||||||||||||||||   ||.|||.||||| .||||..|||||..|||
+c153117146-15  12266 GCTGCCTGCAAGGTGAGTGTGCTGGGACAGCC-CAGTCTTTGGGTACCCA  12314
+
+17249098-1728  17775 GGGTCACTGCTCAGTTACCCCATGGGAGTTCCAACCCACAGGCGAGACTC  17824
+                     .||||.||.|||||||||||||..|||||.|||||||.|||..|.|.|..
+c153117146-15  12315 AGGTCCCTCCTCAGTTACCCCACAGGAGTCCCAACCCCCAGCTGGGGCAT  12364
+
+17249098-1728  17825 TGA-----GGCCAGAGTCCAG-GGGAGAGCGCCAGCCTCCAGACACACCT  17868
+                     |||     ||||||.|   || ||.||||        |..|        |
+c153117146-15  12365 TGAAGTGGGGCCAGGG---AGAGGTAGAG--------TTTA--------T  12395
+
+17249098-1728  17869 C----GATGCTCCTCAAAACCCATCTCAGGCTGGCAGCTGCCCCTCCCTA  17914
+                     |    |||  ||||||.||||||.|||.|||||||.||||||.||||..|
+c153117146-15  12396 CATGGGAT--TCCTCAGAACCCAGCTCCGGCTGGCGGCTGCCTCTCCACA  12443
+
+17249098-1728  17915 GTGTCTCTAGGGCC-AGTGAGCACTCACATGCCAGGGCAGAAGCTCTGGA  17963
+                     ||   .||.||.|| |||| |.|||  |.|.||          .||||  
+c153117146-15  12444 GT---CCTTGGTCCTAGTG-GTACT--CTTTCC----------TTCTG--  12475
+
+17249098-1728  17964 AATGAGCCACCTCGCCATTCTCTTCCTCCAGGGGAG-CAGAGGATGCTAG  18012
+                        |.|.|||| |...|||||||||||.|.||.||| .|||||.||||||
+c153117146-15  12476 ---GGGTCACC-CAGAATTCTCTTCCTGCTGGAGAGAAAGAGGCTGCTAG  12521
+
+17249098-1728  18013 CATTATTTGAGCACCTACTGTGTGCCAGGCCTTTTCCCCA-AATTCTCAT  18061
+                     ..||.||||||.|||||||||||||.|||||.||.|||.| ||.|.|| |
+c153117146-15  12522 TGTTGTTTGAGGACCTACTGTGTGCAAGGCCCTTCCCCGAGAACTTTC-T  12570
+
+17249098-1728  18062 TGAATCATCCAAGTGGGACAATATCATCACCCCAATTTAGAGATGAGGAT  18111
+                     |.|||||||||||.|||..|.|.|..||||||||.||||||||       
+c153117146-15  12571 TTAATCATCCAAGGGGGCGAGTGTTGTCACCCCAGTTTAGAGA-------  12613
+
+17249098-1728  18112 GCTGAGACTCAGAAGCCAGGAGACTCCC------TGAAGACTGTGTCTGA  18155
+                       .||||||||.|.|.|||||||.|.||      ||.|.|..|.||||| 
+c153117146-15  12614 --GGAGACTCACAGGTCAGGAGAGTTCCCCAAATTGCACATCGAGTCTG-  12660
+
+17249098-1728  18156 TCTGGGGCCTCCCCTCTCAACCCCAAATCTGGGCCTCCTCCTTCAGCACC  18205
+                       ||||       ||...|||||||||              ||||| |||
+c153117146-15  12661 --TGGG-------CTGCAAACCCCAAA--------------TTCAG-ACC  12686
+
+17249098-1728  18206 TCTGGCCTACATTTCTGTGACTCCCCCAC---CTCTTGCTAAGTCCATCT  18252
+                                         ||.||||||   .|||  ||||   |.|.|
+c153117146-15  12687 --------------------CTTCCCCACTGGATCT--CTAA---CTTGT  12711
+
+17249098-1728  18253 GTCCTGAATTCCAGCCCCATGGAGAATGAGCTGCAATATTCCAGGGTATG  18302
+                     || .|||  .||||.||             |||| |||         |||
+c153117146-15  12712 GT-TTGA--GCCAGTCC-------------CTGC-ATA---------ATG  12735
+
+17249098-1728  18303 CTAGGTGCTGTCCACGGGAGATGCCCACGGTTGCCTTCTGAAGTGGGCA-  18351
+                     ||          |||   |||.||||.|   |.||||||.|||||.|.| 
+c153117146-15  12736 CT----------CAC---AGAAGCCCCC---TTCCTTCTAAAGTGAGAAT  12769
+
+17249098-1728  18352 CCATTGGACATGGGGATGCTGGGGCTCCAGAAGGGAGGG----GCTTGTC  18397
+                     ||..||||.|||                 |||||  |||    |||||.|
+c153117146-15  12770 CCCCTGGAAATG-----------------GAAGG--GGGCATAGCTTGCC  12800
+
+17249098-1728  18398 CAGGGTCACAGGGAGTGATGCTGGGATGGAGGCCAGAACCCTTACCTGCA  18447
+                     ||                                             ||.
+c153117146-15  12801 CA---------------------------------------------GCG  12805
+
+17249098-1728  18448 CGACGCCCACATGGCCTTACCCTCCTTGCTTCTCT-------GGAGCACC  18490
+                     .||.|||||..|||             ||||||||       |||..|||
+c153117146-15  12806 AGATGCCCAGGTGG-------------GCTTCTCTGGGATGAGGATTACC  12842
+
+17249098-1728  18491 TGTTGTGTGTC-----AGACACCAGCTGGCTA-TGCCACA---CTTCATG  18531
+                     ||...||   |     ||||||..||.||.|| ||.||||   .|.||.|
+c153117146-15  12843 TGGGCTG---CAAAGAAGACACAGGCAGGGTAGTGTCACATGTATACACG  12889
+
+17249098-1728  18532 TTTCTCTGGGCAATTGAGGAAACATGAGTCCAGGAGAGCATAGATGTCTT  18581
+                     |..|.|||     |||       .|.|..||||..||.|.||| |||||.
+c153117146-15  12890 TGACACTG-----TTG-------TTCACACCAGTGGATCCTAG-TGTCTC  12926
+
+17249098-1728  18582 CATGGTTTGTTCTTGATGGCTTCCAGGGTTTTCACAAAGCTAGGGCTGGG  18631
+                     ||||                                 ||||..|||||||
+c153117146-15  12927 CATG---------------------------------AGCTGAGGCTGGG  12943
+
+17249098-1728  18632 ------AGACCCAGGTCTTGATACCCACTGACCTGGGGAGGGAGCTGGGC  18675
+                           ||.|||..|.|..|||   ||.||.|||           ||.|.
+c153117146-15  12944 CTCCTCAGCCCCCAGCCCCGAT---CAGTGCCCT-----------TGCGG  12979
+
+17249098-1728  18676 AGCAGAGGAAGGGGCCAGGGGCCAGGACTCCCTTGAGTCACT-ACCA--C  18722
+                     |.|||                          ||   ||||.| |.||  |
+c153117146-15  12980 AACAG--------------------------CT---GTCAATCAACAGCC  13000
+
+17249098-1728  18723 TCTGTCTGGCTTCACAGACCTGGAAGACATGTCTGTCATGGTCCTGCGGA  18772
+                     .|||||||.||||.||||.||||||||||||||.|||||||||||.||||
+c153117146-15  13001 CCTGTCTGCCTTCGCAGATCTGGAAGACATGTCCGTCATGGTCCTACGGA  13050
+
+17249098-1728  18773 CGCAGGGCCCTGCAGCCCTCTTTGATGACCACAAACTTGTCCTCCATACC  18822
+                     |.||||||||.|.|.|.||||||||.|||||||..|||.|||||||.|||
+c153117146-15  13051 CCCAGGGCCCCGAATCTCTCTTTGACGACCACAGGCTTATCCTCCACACC  13100
+
+17249098-1728  18823 TCCAGCTATGATGCCAAACGGGCACAGGTCTTCCACATCTGCGGTGAGTT  18872
+                     |||||||.||||||..|.|||||||.||||||||||.||||.||||||| 
+c153117146-15  13101 TCCAGCTGTGATGCGGAGCGGGCACGGGTCTTCCACGTCTGTGGTGAGT-  13149
+
+17249098-1728  18873 TGTGCCACTGCCCCTTGCC-ATCTGTGCCCTGTTGCCAGGTTGCCTACCA  18921
+                                 .|||||| |.|.|.||               ||.||||
+c153117146-15  13150 ------------GCTTGCCGAGCAGCGC---------------CCAACCA  13172
+
+17249098-1728  18922 GGGAACCTCCTGTTCCTGCCTTGGGCCATGGGCAG--GTCCTGCTTACA-  18968
+                     ||| |||||.|.|.|||.|||   ||...||||||  ||.|..||  || 
+c153117146-15  13173 GGG-ACCTCTTCTGCCTCCCT---GCTGCGGGCAGATGTGCATCT--CAG  13216
+
+17249098-1728  18969 CTCCGG----GA-GATGCCCTGGTGGGTGGCGGGTCGCAGTA--AGAACA  19011
+                     ||||||    || |||.||||.|                |||  |||.||
+c153117146-15  13217 CTCCGGATCCGAGGATACCCTTG----------------GTATCAGAGCA  13250
+
+17249098-1728  19012 GTCAGA------AGTGGGG-----GCTT-------TGGAACTG---ATGA  19040
+                     ||..||      ||.||||     ||.|       ||..|.||   |||.
+c153117146-15  13251 GTTGGAGATGGGAGAGGGGTGCGTGCATGTGTGCATGCGAGTGTGCATGG  13300
+
+17249098-1728  19041 ACTGGTGCCCCCAGCACAACACCTGGCCTGAG--GTCATT---TTATTTG  19085
+                     |.||..|..|||||||||     |.|.||.||  ||||||   ||.|.||
+c153117146-15  13301 AGTGTGGGGCCCAGCACA-----TAGTCTCAGGTGTCATTGTCTTGTCTG  13345
+
+17249098-1728  19086 ATGAATGA---CCTTTTCAAATACATTTTAAGCATGTGTAGAAATTCTTA  19132
+                     | ||..||   |||...||..|...|||.||| |||.||     ||||  
+c153117146-15  13346 A-GACGGAGTCCCTCACCAGCTGTTTTTCAAG-ATGAGT-----TTCT--  13386
+
+17249098-1728  19133 TCAAAAATTTCAAACATACACAAAAAGCAGTGCTGTGAATCCCCATGTGC  19182
+                                                     |||.|    |||   ||.
+c153117146-15  13387 --------------------------------CTGCG----CCC---TGG  13397
+
+17249098-1728  19183 CTGTC-----ACTC-------AGA-----------TTAAACAATTATCAC  19209
+                     |||||     ||||       |||           |..|||     ||||
+c153117146-15  13398 CTGTCCTGGAACTCTCTTGGTAGACCAGGCTGGCCTCGAAC-----TCAC  13442
+
+17249098-1728  19210 --TGTTTTGTCTGTCTC----GCTGAAGTTTTG----TAAAACC---AAC  19246
+                       .|.|.||.|||.|||    .||.||||.|||    ||.|..|   .||
+c153117146-15  13443 AGAGATCTGCCTGCCTCTGCTTCTCAAGTGTTGGGATTAGAGGCGTGTAC  13492
+
+17249098-1728  19247 CCCAAACACCATAGATTTCACCCAATTAATTCAGTTTGTATTCCCCCCAA  19296
+                     ||      ||||       |||||..|..||||             ||| 
+c153117146-15  13493 CC------CCAT-------ACCCAGCTCCTTCA-------------CCA-  13515
+
+17249098-1728  19297 ATATAGATGGCTGTTGTTTTACATAGTCTGCCAAAATCACAAGAAATACA  19346
+                              |||    |||||                .||||||      
+c153117146-15  13516 ---------GCT----TTTTA----------------AACAAGA------  13530
+
+17249098-1728  19347 AGTAAAAATCTAAATGCCTT-TGAGAAACTAAAAATGTATACAAGTAATA  19395
+                                      ||| ||                           
+c153117146-15  13531 -----------------CTTCTG---------------------------  13536
+
+17249098-1728  19396 AGATGCTTTTTTTTTTTTTTTTTTTTTTTTTTTGAGACAGAGTCTCGCTC  19445
+                                                      ||.||||| ||||    
+c153117146-15  13537 ---------------------------------GACACAGA-TCTC----  13548
+
+17249098-1728  19446 TGTTGCTCAGGCTGGAGTACAGTGGCGTGACCTCGGGTCACTGC-AACCT  19494
+                                  |||      ||||   .|||||      ||| .||||
+c153117146-15  13549 -------------GGA------TGGC---CCCTCG------TGCTTACCT  13570
+
+17249098-1728  19495 CCACCTCCTGGGTTCTGGCGATTCTCCTGCCTCAGCC-------TCCCAA  19537
+                                 .||..|| |.|.|..||.||.||||       |||| .
+c153117146-15  13571 ------------ATCAAGC-ACTTTATTGACTGAGCCATCATCATCCC-T  13606
+
+17249098-1728  19538 GTAGCTG--TGACTGCAGGCATGTGCCACCACA-CCCAGCTA----ATTT  19580
+                     |||||||  .||.||  |||.||| ||||..|| |||.||.|    ||||
+c153117146-15  13607 GTAGCTGGTAGAATG--GGCTTGT-CCACTCCATCCCTGCAACGGGATTT  13653
+
+17249098-1728  19581 TTTGTATTTTTAGT--------AGAGACAGGG--TTTCATTGT--CTTAG  19618
+                     .||.|.||.||..|        ..||||||||  ||||..|||  |||.|
+c153117146-15  13654 CTTTTTTTCTTTCTCCCTGCCCCCAGACAGGGGTTTTCTGTGTAACTTTG  13703
+
+17249098-1728  19619 -----------CCAGGATGGTCTCAATCTCCTGACCT-TGTGATCTGCCC  19656
+                                |||||.|||.||        |||.|| .|.||||..|..
+c153117146-15  13704 GCGCCTGTAGACCAGGCTGGCCT--------TGAACTCAGGGATCCACTT  13745
+
+17249098-1728  19657 GCCTCGGCCTCCCAAAGTGCTGGGATTATAGG-CGTG----AGCCACCGT  19701
+                     |||||.||.|||  |||||||||||||| ||| ||||    ||       
+c153117146-15  13746 GCCTCTGCTTCC--AAGTGCTGGGATTA-AGGACGTGTTGAAG-------  13785
+
+17249098-1728  19702 GCCTGGCCGCTTATTTTTTAAATAATCAGACAATATGGAAGTATAGAAAA  19751
+                        ||| .||||.|||                     |||    ||.|||
+c153117146-15  13786 ---TGG-GGCTTCTTT---------------------GAA----AGGAAA  13806
+
+17249098-1728  19752 TGAAACCTGAGAGTTCTCTACCCGTCTCTAAATCTGACTTTTTTTTTTTT  19801
+                     ||.|.|     |||||...||||    |.||    |||            
+c153117146-15  13807 TGGATC-----AGTTCAGGACCC----CCAA----GAC------------  13831
+
+17249098-1728  19802 TTTTTGAGTCAAGGTCTTGCTCTGTTGCCCGGGCTGGAGTGCAGTGGCAT  19851
+                                                                    ||.
+c153117146-15  13832 -----------------------------------------------CAA  13834
+
+17249098-1728  19852 GATCTCAGCTCACTGCAGCCTCCACCTTTCAGGCTCAAGCAATCCTTCCA  19901
+                     |.|||||||.||.|                |||    ||  ||  ||   
+c153117146-15  13835 GTTCTCAGCACAAT----------------AGG----AG--AT--TT---  13857
+
+17249098-1728  19902 CCTTAGCCTCACG----AGTAG-CTGGGACTACAGGCATGTACCACCACA  19946
+                      |||.||||||.|    ||.|| |.||||.||         |..|.||.|
+c153117146-15  13858 -CTTTGCCTCAGGGGACAGAAGTCAGGGAATA---------AGAAACAAA  13897
+
+17249098-1728  19947 CCC-----------------------TGCTAATTTTTTTTTTTTTGTAAA  19973
+                     |.|                       .|||||             |..||
+c153117146-15  13898 CACAGAAGGTAGAGGGTGAGGAAGAAGGCTAA-------------GGGAA  13934
+
+17249098-1728  19974 ----GACAGGGTTTCACCATGCTGCCCAGGCTGGTCGTGAACTCC-TGGG  20018
+                         |||||||||     |.|       ||.||.|.||   |.|| .|||
+c153117146-15  13935 CAGGGACAGGGTT-----AAG-------GGGTGTTTGT---CCCCGAGGG  13969
+
+17249098-1728  20019 CTCAAGCAATCCACCCGCTTTGGCCTCTCAAAGTACTAGGATTATAGGCG  20068
+                     ...|||.|.|            ||||||       ||||| |.|.|||.|
+c153117146-15  13970 AAAAAGAACT------------GCCTCT-------CTAGG-TGACAGGTG  13999
+
+17249098-1728  20069 TGAGACGCC-----GCACCTGGCCTGAATCTGATTGT-------------  20100
+                     |    ||||     |||..|||  ||     |.||||             
+c153117146-15  14000 T----CGCCCATAAGCAAATGG--TG-----GTTTGTAATAGTACAAAGG  14038
+
+17249098-1728  20101 ----CAC-TGTTAACGAGTTGGGATGTGTGCTTCCCAACTTTATTCTACA  20145
+                         ||| |||||  ||.|.||   ||||          ||.|||.||.|
+c153117146-15  14039 AAACCACATGTTA--GAATGGG---GTGT----------TTAATTTTAAA  14073
+
+17249098-1728  20146 TGTTCTCCAGCGT--------GTGT---CCATATGCTGCT-TTCCAACCG  20183
+                     ||      .||||        |.||   |||.|.|..||| ||      |
+c153117146-15  14074 TG------GGCGTATCAATTAGGGTTAACCAGAGGGAGCTCTT------G  14111
+
+17249098-1728  20184 GCTTCT----TTCA----TTAAGT-AATAATCCCACACACCTTTTCTGGT  20224
+                     |||.||    ||||    ||.||| .||        ..||||    ||||
+c153117146-15  14112 GCTGCTGGAGTTCAAGACTTCAGTGGAT--------GGACCT----TGGT  14149
+
+17249098-1728  20225 ATTTATTGAGCTCTACTTCATTCTTTTCCACTGCTGTATAATATTCCTAA  20274
+                     ||         ||..|.|||               |.|.||     ..||
+c153117146-15  14150 AT---------TCGGCCTCA---------------GGAGAA-----GGAA  14170
+
+17249098-1728  20275 G------CAT------AGAGGTGCTG-----TGACTTACACAGTTCTCTG  20307
+                     |      |||      ||||.||.||     ||.|||         |..|
+c153117146-15  14171 GTGGCCACATTAGGGAAGAGATGTTGGTGGCTGGCTT---------TAAG  14211
+
+17249098-1728  20308 AACATCATAGTGGTTTGCAGTGTTTTGATTTTATAACAATGC--AGGTTG  20355
+                     ||             ||.|||.|||.|.|||  ||.|||.||  |||   
+c153117146-15  14212 AA-------------TGTAGTCTTTGGCTTT--TAGCAAGGCAGAGG---  14243
+
+17249098-1728  20356 CTTGAGGTCAGGGGCTTTGTTCAAGTCCAGAACCGTGC-CCCATGGGTG-  20403
+                        ||||  ||||         |||.||.|      || ||||||..|| 
+c153117146-15  14244 ---GAGG--AGGG---------AAGGCCTG------GCTCCCATGCTTGC  14273
+
+17249098-1728  20404 --CACTGTAGTTG--CACAGTAAAT--ATTTGATGAATTAATGAATATCG  20447
+                       |||.|  |.||  ||.|||...|  |||      .|||||||||.|  
+c153117146-15  14274 CACACAG--GCTGGCCAGAGTCCCTTCATT------CTTAATGAATTT--  14313
+
+17249098-1728  20448 AGCACTCTTGTACAGAAATATTATGTGACTTTGTACCTATTATTGTTT--  20495
+                      .|||||                                  ||.||||  
+c153117146-15  14314 -TCACTC----------------------------------ATAGTTTTC  14328
+
+17249098-1728  20496 ---GTTTGTTGTTGTTGTTTTGTTTTTTGTTGGTTTTGGTTTTTTTTGAG  20542
+                        ||||||        ||.|.||||.||                     
+c153117146-15  14329 CAGGTTTGT--------TTCTATTTTATG---------------------  14349
+
+17249098-1728  20543 ATGGATTCTCGCTCCATGCCCAGGCTGGAGTGCAGTGGTGTGATCTTGGC  20592
+                                 |.||||   ||   ||.|||    |||||         
+c153117146-15  14350 ------------TGCATG---AG---GGTGTG----GGTGT---------  14368
+
+17249098-1728  20593 TCACTGCAACCTCCGCCT---CCTGGGTTCAAGCAATCCTCCTGCCTAAG  20639
+                         ||||     ||..|   ||.|.|||||.|                 
+c153117146-15  14369 ----TGCA-----CGTGTGTGCCGGTGTTCAGG-----------------  14392
+
+17249098-1728  20640 CCTCCTGAGTAGCTGGGATTATAGGTGTGCACCACCACCGCCCG-GCTAA  20688
+                           |||  ||..|||      |.|.|||.||...||||..| |||| 
+c153117146-15  14393 ------GAG--GCCAGGA------GAGAGCATCATATCCGCTGGAGCTA-  14427
+
+17249098-1728  20689 TTTTTGTATTTTTAGTAGAGACAG--GGTTTCACTATGTTAGCCAGGCTG  20736
+                          |.|||            ||  |||       |||.|||       
+c153117146-15  14428 -----GAATT------------AGGTGGT-------TGTGAGC-------  14446
+
+17249098-1728  20737 GTCTTGAACTCCTAACTT-----CAGGTGATCC----------ACCGC-C  20770
+                             ||.|.|||.|     .|||.|| ||          |.||| |
+c153117146-15  14447 --------CTTCCAACATGGGCATAGGGGA-CCGAGAACAGCAAGCGCTC  14487
+
+17249098-1728  20771 TTCGGTCT------CCCAAAGTG-CTGTGATTACAGACATGAGCCACCGT  20813
+                     ||.|.|||      ||.|||.|| ||.|               |||.|| 
+c153117146-15  14488 TTAGCTCTTGGTTGCCAAAACTGCCTCT---------------CCAGCG-  14521
+
+17249098-1728  20814 GCCCAGCCTGTAGATGTATTTTTGTAGGAAAGATACCTAGCAGTGGAATT  20863
+                       ||.|.|||.|    ||||.||||||  |||     .||||       |
+c153117146-15  14522 --CCTGTCTGCA----TATTCTTGTAG--AAG-----CAGCA-------T  14551
+
+17249098-1728  20864 GCTGGGCTTGGGGTAAACATTACTTTGTTGGATGCTGCCAAATTGTGCTC  20913
+                     |.||||| |.|||.|||||||||.||||                      
+c153117146-15  14552 GATGGGC-TAGGGCAAACATTACCTTGT----------------------  14578
+
+17249098-1728  20914 CAAAAAGGTATGAGCGCCAGTCTTAGAAAGGAAGACCCTTTCCCCCAGCC  20963
+                                        .||||||.|||| ||..|||.|||||  .||
+c153117146-15  14579 -------------------CTCTTAGGAAGG-AGTGCCTGTCCCC--ACC  14606
+
+17249098-1728  20964 GTGGCCCCCACTGTGTATTACCTGTCCTCTCCTTTGC-------CAGTGG  21006
+                     .|   ||||||.|      ||.|||.| ||.||||||       |  |||
+c153117146-15  14607 AT---CCCCACAG------ACATGTGC-CTTCTTTGCTTCTTGGC--TGG  14644
+
+17249098-1728  21007 AGGT--GAAAGGAGGGAGTTG-TTGGAGGACTTG-----GAATTTTTGGT  21048
+                     .|||  ||.||||.||.|.|| ||    |.||||     |       |||
+c153117146-15  14645 GGGTCGGAGAGGAAGGGGATGCTT----GCCTTGCCCCTG-------GGT  14683
+
+17249098-1728  21049 GAGGCTGCAGACCTCTTCCTGTGTCCCTCATACTCATGCTCCCTGGGCCC  21098
+                     ||||.|||..|.||| |||||...||.|||.|      .||.||||    
+c153117146-15  14684 GAGGATGCTCAACTC-TCCTGACCCCTTCACA------GTCTCTGG----  14722
+
+17249098-1728  21099 ACAGGGAGTCACAGCCACCCCG---TCCCTCCCCTTCC---AGGTCCTGA  21142
+                      ||   |||||..|     |||   ||.||||.|||||   |||.||.||
+c153117146-15  14723 -CA---AGTCATGG-----CCGTGATCACTCCTCTTCCCCTAGGCCCCGA  14763
+
+17249098-1728  21143 GGATGTGTGTGAGGCCTATAGGCATGTGCTGGGCCAAGATAAGGTGTCCT  21192
+                     ||||...||.||.|||||||||..|||.|||||||..||...|.||||||
+c153117146-15  14764 GGATTCCTGCGAAGCCTATAGGTGTGTTCTGGGCCCGGACCGGATGTCCT  14813
+
+17249098-1728  21193 ATGAGGTACCCCGCTTGCATGGGGATGAGGAGCGCTTCTTCGTGGAAGGC  21242
+                     ||||||||||||||.||.|.||..|||||||||||||||.||||||.|||
+c153117146-15  14814 ATGAGGTACCCCGCCTGAAGGGCTATGAGGAGCGCTTCTACGTGGAGGGC  14863
+
+17249098-1728  21243 CTGTCCTTCCCTGATGCCGGCTTCACAGGACTCATCTCCTTCCATGTCAC  21292
+                     ||.||||||||||||||.||||||.||||..||.|||||||||||.||||
+c153117146-15  14864 CTCTCCTTCCCTGATGCAGGCTTCCCAGGGATCCTCTCCTTCCATATCAC  14913
+
+17249098-1728  21293 TCTGCTGGACGACTCCAACGAGGTAGGGACAGAGGGGGTTCAAGAGGAGC  21342
+                     .||||||||.||||||||.||||||          .||||          
+c153117146-15  14914 CCTGCTGGATGACTCCAATGAGGTA----------AGGTT----------  14943
+
+17249098-1728  21343 TCCACTCGGGACCAGCCTGGGCAACATGGTGAAACCCCATCTCTACAAAA  21392
+                              |.||||.|      |.|.|||||.||              |
+c153117146-15  14944 ---------GGCCAGGC------AGAGGGTGACAC--------------A  14964
+
+17249098-1728  21393 AAAAAAAAA-------ATAGCGAGGTATAGTGGTGTACACCT-ATAGTCC  21434
+                     ||..|.|.|       ||.||.||..|||..||      ||| |.|.|||
+c153117146-15  14965 AATGACAGATGTGGGCATGGCTAGAGATAAGGG------CCTCACACTCC  15008
+
+17249098-1728  21435 CAGTTACTTGGGAGGCTGAGGTGGGAGGATCACC-----TG----AACCC  21475
+                     ||..|      ||..||  .||||  |.|||.||     ||    ||.||
+c153117146-15  15009 CACAT------GACCCT--AGTGG--GCATCTCCATCCTTGAGAAAAGCC  15048
+
+17249098-1728  21476 CAGGGAGGTTGAGGTTGCAGTGAGCCATGATC-------ACCCCACTG--  21516
+                     .|||||..||    ||   .||||.||.|.||       |||   |||  
+c153117146-15  15049 AAGGGACCTT----TT---CTGAGACAGGGTCGTTTGTAACC---CTGGT  15088
+
+17249098-1728  21517 -----------CACTCCACAGCCTGGGCAACAAAGTAAGAC---------  21546
+                                |||||||         .|||.|||.|.|||         
+c153117146-15  15089 TGGTCTTATCTCACTCCA---------TAACCAAGGATGACTTTGAACTC  15129
+
+17249098-1728  21547 --------CCTGTCTCCA------------AAAAATAATAA---------  21567
+                             |||.|||.||            .|..||.||||         
+c153117146-15  15130 CTAACCCTCCTATCTGCACCTTTTGACTGTTAGGATTATAAGGCTGCCAT  15179
+
+17249098-1728  21568 --TAATAAAGGGCAGTGGGGA---------GGAC---TCCATTCCT-GGT  21602
+                       |.||..||.|  |||||||         ||||   ||.|.|.|| ||.
+c153117146-15  15180 TTTTATGCAGTG--GTGGGGATTGAACCTGGGACTTTTCGAATGCTAGGC  15227
+
+17249098-1728  21603 AAG---TCTACCAG--GCACCACTGGTGTGAA-----AGACCCCAGAC--  21640
+                     |||   ||||||||  |.||.|||       |     |.|.||||.||  
+c153117146-15  15228 AAGCACTCTACCAGATGTACTACT-------ACATCCACAGCCCAAACCA  15270
+
+17249098-1728  21641 ------------TTCTT---------------------------------  21645
+                                 |||||                                 
+c153117146-15  15271 GGGTATTTCTTTTTCTTTTTTTTTCTCTCTCTCTCTCTCTTTTTTCGGAG  15320
+
+17249098-1728  21646 -----GACCACCCCTCTGGTTCATTTCCATCTTGC-AGAGAAGCAAG---  21686
+                          |||||..||...||  |.||.|  .||||| ||    |||||   
+c153117146-15  15321 CTGGGGACCAAACCCAGGG--CCTTGC--GCTTGCTAG----GCAAGCGC  15362
+
+17249098-1728  21687 ---------------------------------GGGT-TTTCTTATGGAC  21702
+                                                      |||| |||||||..|||
+c153117146-15  15363 TCTACCACTGAGCTAAATTCCCAACCCCTACCAGGGTATTTCTTAAAGAC  15412
+
+17249098-1728  21703 C----ACAGTGGTGGAATCAGAG-----------TCCCCCCAGGCCTCTG  21737
+                     |    |.|| |||    ||||||           |||..|||  ||.|||
+c153117146-15  15413 CCTAGAGAG-GGT----TCAGAGATCCAGAACTCTCCTGCCA--CCACTG  15455
+
+17249098-1728  21738 GACTCC----AAGTCCAGTGCTCTTTCTCCCCTGGTCTGCCCCTGC--AG  21781
+                     ||||||    .|||||||..||||||.|  |.||||||  .|||||  ||
+c153117146-15  15456 GACTCCTCCTGAGTCCAGCACTCTTTAT--CTTGGTCT--TCCTGCAAAG  15501
+
+17249098-1728  21782 GATTTCTCGGCATCCCCTATCTTCACTGACACTGTGGTGTTCCGAGTGGC  21831
+                     ||.|.|||.|...||||.||||||||.|||||.|||||||||||||||||
+c153117146-15  15502 GACTACTCCGAGACCCCGATCTTCACGGACACAGTGGTGTTCCGAGTGGC  15551
+
+17249098-1728  21832 ACCCTGGATCATGACGCCCAGCACTCTGCCACCCCTAGAGGTGTATGTGT  21881
+                     ||||||||||||||||||||||||.|||||||||||.||||||||.||||
+c153117146-15  15552 ACCCTGGATCATGACGCCCAGCACCCTGCCACCCCTGGAGGTGTACGTGT  15601
+
+17249098-1728  21882 GCCGGTGAGTCTTGGGGCAGTGGGTGG-----TCCCTCTGG--------C  21918
+                     |||.||.||||         |||||||     |.|||.|.|        |
+c153117146-15  15602 GCCAGTAAGTC---------TGGGTGGAGCTCTACCTTTAGAGTCACTTC  15642
+
+17249098-1728  21919 C---CCCAGGCCCCGGCTCCATCCTGAGCCCC----TCTTCCCTGGGCTT  21961
+                     |   ||..|.|||.||||     |||||.|||    ||.||||.|     
+c153117146-15  15643 CATTCCTGGACCCTGGCT-----CTGAGTCCCTCCGTCCTCCCCG-----  15682
+
+17249098-1728  21962 GTC---CGTAGTGTGAGGAACAACACGTGTTTTGTGGATGCGGTGGCAGA  22008
+                     |||   |..||.||||||||.|||||.||.||||||||.||.||||..||
+c153117146-15  15683 GTCACTCACAGGGTGAGGAATAACACCTGCTTTGTGGAAGCTGTGGAGGA  15732
+
+17249098-1728  22009 GCTGGCCAGGAAGGCCGGCTGCAAGCTGACCATCTGCCCACAGGCCGAGA  22058
+                     |||||||||||||||.||||||||.||.||||||||.||.|||||.||||
+c153117146-15  15733 GCTGGCCAGGAAGGCAGGCTGCAAACTCACCATCTGTCCTCAGGCAGAGA  15782
+
+17249098-1728  22059 ACCGCAACGACCGCTGGATCCAGGTAACCA-CAGCCACTGGGCAGGGCCC  22107
+                     |||||||.|||||.|||||||||||||||| |||||.||           
+c153117146-15  15783 ACCGCAATGACCGATGGATCCAGGTAACCAGCAGCCCCT-----------  15821
+
+17249098-1728  22108 AGCAAGGACGCCATCCTGGAGAGAGAGGCCTTCATTTGGGGGCCACCGAG  22157
+                       |..|||..|||.||||.|   |||                        
+c153117146-15  15822 --CTGGGATACCACCCTGCA---AGA------------------------  15842
+
+17249098-1728  22158 AAACATCCAGGAGGACCTGGGTGCTCCCCAGGGAACTTGCTGCC-GTTTC  22206
+                     |||.|.|||||||           |||||.||||      |.|| ||.||
+c153117146-15  15843 AAATACCCAGGAG-----------TCCCCGGGGA------TCCCTGTCTC  15875
+
+17249098-1728  22207 TAATGTGAGACCTAGAGGCTTCTCTCCAGAACCTTCTGGAGACCCACGCT  22256
+                           .||||..||||.||||..|||| ||..||||       ||.|| 
+c153117146-15  15876 ------CAGACTCAGAGTCTTCATTCCA-AAGTTTCT-------CAAGC-  15910
+
+17249098-1728  22257 GATCCTGGATTCAACACCCATTCACCCACCGGATCTGGGCTAGGCACTAG  22306
+                                                              |||||..|.
+c153117146-15  15911 -----------------------------------------AGGCAGGAC  15919
+
+17249098-1728  22307 GCTAGGCCCACAGGGGTG----GCACAGGTGTGAGACACACACTCCCTGC  22352
+                     |||          |||||    |||.|     .||.|||||..||||.||
+c153117146-15  15920 GCT----------GGGTGAGACGCAAA-----AAGCCACACGTTCCCAGC  15954
+
+17249098-1728  22353 CCTCAACAGCTGAGACCAGTGGTTCTCATCAAGAGGCGATGTGTCCC-CA  22401
+                     ...||.||||.|||          ||    |||||||..|.|||||| ||
+c153117146-15  15955 ATGCAGCAGCCGAG----------CT----AAGAGGCAGTTTGTCCCACA  15990
+
+17249098-1728  22402 GGA-GACGTTTTGCAGTATCTGCAGACAGTGCGCAGGACAAGCCCCCACA  22450
+                     .|| ||..||..|.||.|||||.|||.|.|..|...|.||          
+c153117146-15  15991 AGAGGATATTAAGTAGCATCTGGAGATATTATGGTTGTCA----------  16030
+
+17249098-1728  22451 ATAACATATCATCCAGTCCCACGCCTCAGTAGTGTCGAGGCTGAGAAACC  22500
+                              |||...||     |.|.||.||||||      ||..|||.|
+c153117146-15  16031 ---------CATAGGGT-----GACCCAATAGTGT------TGCTAAATC  16060
+
+17249098-1728  22501 TTGATGTGCAG----AATGATTG--CTACA---AAAATACCTACTCCTAC  22541
+                     ||      |||    ||.|.|.|  |||||   ||.| ||||...||.||
+c153117146-15  16061 TT------CAGTACCAAGGTTAGACCTACAGGGAACA-ACCTGGCCCAAC  16103
+
+17249098-1728  22542 -TATCTAGTGTGTAGC-TGGGGCA----------AC-ATGGTGAAACCCT  22578
+                      ||||.|     |||| ||||.||          || ||||.|||...||
+c153117146-15  16104 ATATCAA-----TAGCATGGGTCAGGGAAGACCCACTATGGAGAATGACT  16148
+
+17249098-1728  22579 GTCTCTGCAAAAAAGTTAAAAAAT---TAGCAGGGCATGGT----GGCGT  22621
+                     ||.||||              |||   |.| ||..||.|||    ||.| 
+c153117146-15  16149 GTTTCTG--------------AATCCCTCG-AGCCCAGGGTTTAAGGAG-  16182
+
+17249098-1728  22622 GTGTCTGTAGTCCCAGCTACTCTGGAGGCTGAGGTCAGAGGATCACCTGA  22671
+                              |||||         |||.|.|   ||.|||.|.|  |||||
+c153117146-15  16183 ---------GTCCC---------GGAAGGT---GTAAGACGGT--CCTGA  16209
+
+17249098-1728  22672 ---GTTTA----------GGA---AGGTCA-AGG--CTGCAGAGAG----  22698
+                        ||.||          |||   |.|||| |||  |||.| ||||    
+c153117146-15  16210 AAGGTGTAAGGGGGTACCGGATGGATGTCAGAGGGACTGGA-AGAGGCCT  16258
+
+17249098-1728  22699 --CTGTGATTGTGCCACTGCACTCCAGCCTCAGCAACAACAACAAAAAAA  22746
+                       ||||  ||||||                                    
+c153117146-15  16259 TACTGT--TTGTGC------------------------------------  16270
+
+17249098-1728  22747 AAAAAAAAAAAAGAGAGAGAGA---GAGAGAGAAAAAGAAATATCTAGGG  22793
+                               |||.|..|..||   |||.|.|.|           |.||.
+c153117146-15  16271 ----------AAGGGGCATGGATGGGAGGGGGGA-----------TGGGC  16299
+
+17249098-1728  22794 TGCAGAGGCT----ATACC----AGCAAAGCACCAGTAGGGTTTGGGGGA  22835
+                     |.|| |||.|    ||..|    || ||||| |||  |||    ||.|||
+c153117146-15  16300 TCCA-AGGTTTGAGATTTCTGGAAG-AAAGC-CCA--AGG----GGAGGA  16340
+
+17249098-1728  22836 TGCAGCATCACCTCTGCCCAGGGAATCAGTGAAGACCTCCAGGAGGGAGA  22885
+                     |         |||||    |.||||      |||.|  ||||||.|||||
+c153117146-15  16341 T---------CCTCT----AAGGAA------AAGGC--CCAGGAAGGAGA  16369
+
+17249098-1728  22886 -------------GCATC----TGAGCTGGACCAGATTTGGCAGATGAGG  22918
+                                  ||.||    |||||||||..||||            .
+c153117146-15  16370 GGCTAGGAAAGGGGCCTCTGTGTGAGCTGGATTAGAT------------C  16407
+
+17249098-1728  22919 GCACA-TGACTTCTGCCATTTATGCCCCATTTTCT---------------  22952
+                     .|||| .||.|||||..| .|||.|||...|.|||               
+c153117146-15  16408 CCACAGGGAATTCTGGGA-ATATTCCCTGCTCTCTCCCACCCCCCACCCC  16456
+
+17249098-1728  22953 -GCAGGCCAGGCATAGCATCATTTCATCTTCTTGATAACCCCCTG---TA  22998
+                      |..||||..||||.||||.|.|...||.|||          |||   |.
+c153117146-15  16457 CGGGGGCCCTGCATGGCATTACTGACTCCTCT----------CTGGCCTC  16496
+
+17249098-1728  22999 AGTCCCCCATAATTC-------------AGGAGCTCTTAGGGGAGCATGA  23035
+                     ||||.||      ||             |.||||||.|   |||  ||||
+c153117146-15  16497 AGTCACC------TCTGGGTGTTTGCTGATGAGCTCAT---GGA--ATGA  16535
+
+17249098-1728  23036 ----CTGGGCCACAGAGCTGGTAAAGGCAGTGCTAGGACTC---AGGCTG  23078
+                         |..||||||...||||..|.||||||||||.||||||   ||  ||
+c153117146-15  16536 ACACCCAGGCCACTATGCTGACAGAGGCAGTGCTGGGACTCGGAAG--TG  16583
+
+17249098-1728  23079 CCAAGCACCAGGCTGTACAGGTTGGTGGTCCTGGCAGAGACCGAGCATGC  23128
+                     |||||||.||||     |.||.||  ||||||                  
+c153117146-15  16584 CCAAGCATCAGG-----CGGGCTG--GGTCCT------------------  16608
+
+17249098-1728  23129 GCAAAGGCCCGGGGGTGGGAGGCAGGAGAGAGAACCTTGTGTGTTCTCCT  23178
+                     |||.||||||.|.|||.||||||||||||.|||.|||..|.|||  |||.
+c153117146-15  16609 GCAGAGGCCCAGAGGTAGGAGGCAGGAGATAGAGCCTCCTTTGT--TCCC  16656
+
+17249098-1728  23179 CTGTCAGGGCACTGGTTCTGAGAAAGG-CAAGGGTTGAGGTCGGAGACCT  23227
+                     ..|||||||||.||||||||.|||.|| |||.....|||| ||.||.|||
+c153117146-15  16657 GGGTCAGGGCAGTGGTTCTGGGAAGGGACAAACACCGAGG-CGAAGGCCT  16705
+
+17249098-1728  23228 TGAATTCCAAGTTAAGGAGCTTTCCTC------TTGGCCGGAGGTCAG--  23269
+                     ||||..|||||          .|||||      ||    |.||.||||  
+c153117146-15  16706 TGAACACCAAG----------CTCCTCCAGACTTT----GTAGTTCAGCT  16741
+
+17249098-1728  23270 ----TCCAG---TGAGAG----GGTTTGGGGC----AG--GACTCTGG--  23300
+                         ||.||   ||||||    |||||||..|    ||  ||||||||  
+c153117146-15  16742 AGACTCGAGCCATGAGAGGTTAGGTTTGGCCCCTTGAGGTGACTCTGGGA  16791
+
+17249098-1728  23301 GGCACGATGG---------GCT-GGGTTTAGAGCCTGGCTGTGCCACCAA  23340
+                     ||.|...|||         ||| |.||||||...||     ||||    |
+c153117146-15  16792 GGGATCCTGGCGAGACACAGCTAGAGTTTAGGTTCT-----TGCC----A  16832
+
+17249098-1728  23341 CTAACTAGCTGTGAGCTTTGGGACAAATATTTTTTAATTTTTATTTATTT  23390
+                     ||.||..||||||.||                                  
+c153117146-15  16833 CTGACAGGCTGTGTGC----------------------------------  16848
+
+17249098-1728  23391 TTTTAAATTAATATATTTTGAATTTATTTTTCTTTTTGGAGACAGTGTCT  23440
+                                    ..|||||                ||.|||||.|| 
+c153117146-15  16849 ---------------CCTTGAA----------------GAAACAGTCTC-  16866
+
+17249098-1728  23441 CTCTGTCACC---CTGGT----TGGAGTGC-CATGGCATGATCACAGCTC  23482
+                     ||||.|| ||   |||||    |  |.|.| ||||  |||||.|      
+c153117146-15  16867 CTCTATC-CCTCTCTGGTCTCAT--ATTTCACATG--ATGATAA------  16905
+
+17249098-1728  23483 ACTGGCAGCCTGGAACTCCTGG-GTTCAAGTGATCCTTCTGCCTCAGTCT  23531
+                                        ||| ||          |||||          
+c153117146-15  16906 -------------------TGGTGT----------CTTCT----------  16916
+
+17249098-1728  23532 CCCGAGTAGCTGAGACCACAGGTGCAGCCACCAGGCTCAGCTAATTTTTT  23581
+                          .|.|.||||.|     |||  |.|||||                 
+c153117146-15  16917 -----ATGGATGAGTC-----GTG--GACACCA-----------------  16937
+
+17249098-1728  23582 GTAGAGATGGGGTCTTGCCATGTTGCCCAGGGTTGTCTCAAACTCCTGGC  23631
+                           ||||.||    ||.|||| |.|||||        |.||...|||
+c153117146-15  16938 ------ATGGAGT----CCGTGTT-CACAGGG--------AGCTGGGGGC  16968
+
+17249098-1728  23632 ---CTCA-AGCAATCCTCCCGCCTCACCCTCCCAAAGTGCTGGGA--TTA  23675
+                        |.|| ||||        |.|| .|.||||     |||||.||  |||
+c153117146-15  16969 CGGCACATAGCA--------GGCT-GCTCTCC-----TGCTGTGACGTTA  17004
+
+17249098-1728  23676 TA-GGTGTGAGCCACCGTGCCCGGACTGGATAAATAATTA-GACCTCTTA  23723
+                     .| ..|.||.||||..||                |..||| ||.||||.|
+c153117146-15  17005 CACACTCTGGGCCATTGT----------------TTCTTATGAACTCTGA  17038
+
+17249098-1728  23724 G----------TTCCTCATTTTCCTCATCTGTCACATGGGATAATTATGG  23763
+                     |          |.|.|||..|.|||||                       
+c153117146-15  17039 GGACACAGCCCTGCTTCAGGTCCCTCA-----------------------  17065
+
+17249098-1728  23764 TGCCCACGCCCAGGCATG---TCATGAGGATGAATGGAGTTAATGTTTAT  23810
+                      |||| |||       ||   ||||||..|.|.||||||...|       
+c153117146-15  17066 -GCCC-CGC-------TGCCTTCATGACCAAGTATGGAGGCCA-------  17099
+
+17249098-1728  23811 AAAGAGTTTAGGGCAGGACCTGGATGTGAAGTTCATTCACACTGGGCCAT  23860
+                                  |||||       |||  ||.|||.|            
+c153117146-15  17100 -------------CAGGA-------GTG--GTGCATGC------------  17115
+
+17249098-1728  23861 CTTTTCCTCCAGAACCAGAGGGGTCAGGACTGACCTGGGCACATT-TATG  23909
+                                   .|||||||        ||.||||    |||| |   
+c153117146-15  17116 --------------TCAGAGGG--------TGGCCTG----CATTCT---  17136
+
+17249098-1728  23910 GATCCAACTCAGGCCACTGTGAGTGCTTCTCTGTGTCCACC----TGCCT  23955
+                     ||.||    |.||||||    |.|||.|..|||||.|||||    ..|||
+c153117146-15  17137 GAGCC----CCGGCCAC----ACTGCATTGCTGTGGCCACCCCGAACCCT  17178
+
+17249098-1728  23956 TGGC-CCAGTACTCACAGGGACACCCCCAAGGTCATGTCCATGTTCTCGT  24004
+                        | ||||    |||||..|.|||||.||        |..||||||| |
+c153117146-15  17179 ---CTCCAG----CACAGCCATACCCCAAA--------CTGTGTTCTC-T  17212
+
+17249098-1728  24005 TCACCTCCGGCCTCTGTCTTGCTGTGTGAC---CTTAGACAAGTGCACCC  24051
+                     ||..||||                |.||||   |.|||.|||        
+c153117146-15  17213 TCTACTCC----------------TATGACTCTCATAGGCAA--------  17238
+
+17249098-1728  24052 CCTCCTTGAGCCTCCAGCCCCTCCTCCAGTCAGCAGGCACCCTGACCTCG  24101
+                        ||  .||||.||||.||||.|||   |..||.|||.|||        
+c153117146-15  17239 ---CC--AAGCCCCCAGTCCCTTCTC---TTTGCTGGCTCCC--------  17272
+
+17249098-1728  24102 GTCCTGTCCGCCTCCAAGCACAAAACATGCTTGGGCCAGGGGACTTGGTG  24151
+                            ||.||.|||||..||.|..||      |||..|..|||..|.|
+c153117146-15  17273 -------CCACCGCCAAGGGCAGAGAAT------GCCCCGTCACTAAGAG  17309
+
+17249098-1728  24152 AGCAGTCTGCCCCACAGGGCTCAGAGCCGAG---CCAGCA----GGGGCA  24194
+                           ||||||..|    ||.||||||.||   |||.||    ||||||
+c153117146-15  17310 ------CTGCCCTCC----CTGAGAGCCCAGTACCCAACACTTGGGGGCA  17349
+
+17249098-1728  24195 GCTGTTGACTGTC-ACAGCTGTGCGTCTCTCGCCTCTCCTCACTTGCAGG  24243
+                      |||..|.||.|| ||||.|..| ||||     ||||||.||...|||||
+c153117146-15  17350 -CTGCCGGCTATCTACAGATACG-GTCT-----CTCTCCCCATCGGCAGG  17392
+
+17249098-1728  24244 ATGAGATGGAGCTGGGCTACGTTCAGGCGCCGCACAAGACCCTCCCGGTG  24293
+                     ||||||||||||||||.|||...||||||||.||||||||..|.||.|||
+c153117146-15  17393 ATGAGATGGAGCTGGGGTACACGCAGGCGCCACACAAGACTTTGCCTGTG  17442
+
+17249098-1728  24294 GTCTTTGACTCCCCAAGGAATGGGGAACTGCAGGATTTCCCTTACAAAAG  24343
+                     ||||||||.||.||.|||||||||||.|||||||.|||||||||||||||
+c153117146-15  17443 GTCTTTGATTCTCCGAGGAATGGGGAGCTGCAGGGTTTCCCTTACAAAAG  17492
+
+17249098-1728  24344 AATCCTGGTGAGTGGTCCCGGCCGCAGCCCACCCCTGAGAGCT-GAGAGG  24392
+                     .||||||||||||    ||||  |..|..||.||||| |.|.| |.|||.
+c153117146-15  17493 GATCCTGGTGAGT----CCGG--GGTGTGCATCCCTG-GGGATGGGGAGC  17535
+
+17249098-1728  24393 CCTTACCCCAGGGGCCACACCGGGGTGTG-GGGTACAGAGGGCAGCAGTG  24441
+                     .||||.|||.|||   |||.|..|||||| |||    ||||  |||    
+c153117146-15  17536 ACTTATCCCGGGG---ACAGCCAGGTGTGCGGG----GAGG--AGC----  17572
+
+17249098-1728  24442 GGAACCGTGCTCTTTAG-GGATGAG---------GGTAGGGTTGCCAGAT  24481
+                         .|.||.|||.||| |||||||         |||  |.|||     |
+c153117146-15  17573 ----GCTTGTTCTATAGTGGATGAGACGGCCAGTGGT--GATTG-----T  17611
+
+17249098-1728  24482 AAAATG--CAGGGATGCCCAGTCAAATGTGAATTTCAGACAAGCAACAGG  24529
+                     |||..|  .|||||||    |||                           
+c153117146-15  17612 AAAGAGGTAAGGGATG----GTC---------------------------  17630
+
+17249098-1728  24530 TTAACTTTTTGGTGTAAGTACGTCCCAAATATTGCATGGGATATACTTAC  24579
+                           |||||.|||||||...|||||.|..||..|.||||||.||.||.
+c153117146-15  17631 ------TTTTGCTGTAAGTCTATCCCACACTTTATACGGGATAGACATAT  17674
+
+17249098-1728  24580 ACTAAAAAAGTTGTCGTTTATCTAAAATTCAAA----------GT-TAAT  24618
+                     .||||||.|  || |.||.||.||...||||||          || ||.|
+c153117146-15  17675 GCTAAAATA--TG-CATTGATTTATGCTTCAAATGTGACGGCGGTGTACT  17721
+
+17249098-1728  24619 -TGGGCATCCTGTATTTTTATTTACTGAATC--TGGCAGCCCTAAATA-G  24664
+                      |||      |||.|||||||||.||| |||  |||.|||   |..|| |
+c153117146-15  17722 GTGG------TGTGTTTTTATTTGCTG-ATCAGTGGGAGC---AGGTAGG  17761
+
+17249098-1728  24665 GGGAGGCAGGATGGTGCACCTGTTCAGAGCACAA--GCTTTAGGGTCAGA  24712
+                     |||||| .|||.||.|   |.|..||||||...|  |||||.|.|||.| 
+c153117146-15  17762 GGGAGG-GGGAGGGGG---CGGGGCAGAGCCTGAGGGCTTTGGTGTCTG-  17806
+
+17249098-1728  24713 CCAACCCTGTTCCGTTACTTACATGCTGTGTGATGT-------------T  24749
+                               .|.||.|||.|||.||||||||.|||             |
+c153117146-15  17807 ----------GCTGTCACTCACAGGCTGTGTGTTGTCACTCACAGGCTGT  17846
+
+17249098-1728  24750 GCGT--GAGTTAC-TACCGCTCTCTGAGC-CTCAGTTTCCTCATCAGTAA  24795
+                     |.||  ||.|||| |.||   |||.|||| ||.| .||||||..|.|.|.
+c153117146-15  17847 GTGTCAGACTTACATTCC---CTCAGAGCTCTTA-CTTCCTCGACTGCAG  17892
+
+17249098-1728  24796 AAATGACATTTTGGCCCTGGCCTCACAGGGGTTTGTGAAGCATCTCATCA  24845
+                     |||              |.||.||.||||..|||.|.||||.|.||||..
+c153117146-15  17893 AAA--------------TAGCTTCCCAGGCATTTATAAAGCCTGTCATTG  17928
+
+17249098-1728  24846 TCACAGTACCTGCATGGAGGGAGTGTGTGTGCGCGCACCACTATTAGCTA  24895
+                     |||      ||||   ||.||..||..|||                    
+c153117146-15  17929 TCA------CTGC---GATGGCTTGCCTGT--------------------  17949
+
+17249098-1728  24896 GTATCATTATTTTAAGAAAAAGGATAACAGGGAAGGTGATGATTGCTAAC  24945
+                                                  |||||||.|            
+c153117146-15  17950 -----------------------------GGGAAGGAG------------  17958
+
+17249098-1728  24946 GAGGACCTCTTGAGAAAACAAGAGTGACTTGCCTGGTGCCGTAAAGAACA  24995
+                          |||.|            |||| ||   |||.||||.|..||||.|
+c153117146-15  17959 -----CCTGT------------AGTG-CT---CTGCTGCCTTTTAGAATA  17987
+
+17249098-1728  24996 AGAGACCCCTCCAACCCCCTCACTGA-TCACACAGATGCTAGGAGCTCTC  25044
+                                         .||||| |.|||..||            .|
+c153117146-15  17988 --------------------GACTGAGTAACAGTGA------------AC  18005
+
+17249098-1728  25045 TCTCCTGACCCTTGATGTTGTCGAAGTTGCTTCTGAGAGATAGCCCTGGG  25094
+                     ||.|||||                        .|||| ||       |||
+c153117146-15  18006 TCCCCTGA------------------------GTGAG-GA-------GGG  18023
+
+17249098-1728  25095 GAGGTCTCCCCTTCTCTAGAGTTCAAAGACAGAGGCCCAGAGGGCCATCA  25144
+                     |||   .|.|||||     ||.||   .|||..|||    .||||.|.| 
+c153117146-15  18024 GAG---ACTCCTTC-----AGCTC---CACAAGGGC----TGGGCTAAC-  18057
+
+17249098-1728  25145 GCAGCCTCTTGGTTCCCACAATTGGCCACTTGAGCTGC------TACTTG  25188
+                                  |||| |.|.|||.|||.||| |.||      |||   
+c153117146-15  18058 -------------TCCC-CGACTGGTCACATGA-CCGCATCAGGTAC---  18089
+
+17249098-1728  25189 CCCTTGGGCTGAACTTGCAGGAAGGCTGTGTAGGTAAGGGGATGGAGTGG  25238
+                     ||.||||.||..|.|                 |||||..|.||       
+c153117146-15  18090 CCATTGGCCTTCAGT-----------------GGTAACTGAAT-------  18115
+
+17249098-1728  25239 CCATGGCCTCAGGCTCCATGTCCGATGGGGAGTGCAGGAGCAACCGGAGC  25288
+                                   |||.|.|        ||      |||..||.|||| 
+c153117146-15  18116 --------------TCCTTCT--------GA------GAGACACAGGAG-  18136
+
+17249098-1728  25289 GCCCCCTGCTGTCTTGCCGTGATAAGGCAGCAGGGCCAGAGAGTCCGAGC  25338
+                                              ||.|||||||...|.|||.|| |.|
+c153117146-15  18137 -------------------------GGGAGCAGGGTGGGGGAGGCC-ACC  18160
+
+17249098-1728  25339 ACTTCCC-GACTTTGCCTGCTATGCGTGCATGAAATATTGACTGGGTC--  25385
+                     |||.||| ||.||||                  ||    |||||.|.|  
+c153117146-15  18161 ACTGCCCAGAATTTG------------------AA----GACTGAGGCCT  18188
+
+17249098-1728  25386 AGA---TCCCC---CACCCACCGCCAATGACTCTGTATTTCCACCTGAAG  25429
+                     |||   |||||   ||||||  .|||  |||.|||.|    |.|||    
+c153117146-15  18189 AGAGGTTCCCCCTGCACCCA--ACCA--GACCCTGGA----CCCCT----  18226
+
+17249098-1728  25430 AATGGATGGCCTTTCCCACCCTGTCTTGA-AGGAGCTCAAAGCCCAGCAA  25478
+                           ||||||         .|.||||| |||||     .|||||.||.
+c153117146-15  18227 ------TGGCCT---------GGACTTGACAGGAG-----GGCCCATCAC  18256
+
+17249098-1728  25479 GTTGGTTCAGGCCCTTCCTGGTACCCTCCACCCCCGCCTGACTTGGTTTC  25528
+                     ||...|||||||.||||||||||  |||..||||.||||||||..|||||
+c153117146-15  18257 GTGATTTCAGGCTCTTCCTGGTA--CTCTGCCCCTGCCTGACTCAGTTTC  18304
+
+17249098-1728  25529 CCTCTCCAGGGTCCAGATTTTGGTTACGTGACTCGGGAACCACGCGACAG  25578
+                     ||.|.||||||||.|||||||||.|||||||||||.|||||.|..|||||
+c153117146-15  18305 CCCCACCAGGGTCTAGATTTTGGCTACGTGACTCGAGAACCTCCAGACAG  18354
+
+17249098-1728  25579 GTCTGTGAGTGGCCTGGACTCCTTTGGGAACCTGGAGGTCAGCCCTCCAG  25628
+                     .||||||||.||.||||||||||||||.|||||||||||||||||.||.|
+c153117146-15  18355 TTCTGTGAGCGGTCTGGACTCCTTTGGCAACCTGGAGGTCAGCCCGCCCG  18404
+
+17249098-1728  25629 TGGTGGCCAATGGGAAAGAGTACCCCCTGGGGAGGATCCTCATTGGGGGC  25678
+                     ||||||||||||||||.|||||.||.|||||||||||.|||||.||||||
+c153117146-15  18405 TGGTGGCCAATGGGAAGGAGTATCCACTGGGGAGGATTCTCATCGGGGGC  18454
+
+17249098-1728  25679 AACCTGCCTGGGTGAGAGAGAGACAGGGAATGGAGTTCCTGGGGTGGAGG  25728
+                     ||||||||||||||||||                  .|.|||||    ..
+c153117146-15  18455 AACCTGCCTGGGTGAGAG------------------GCTTGGGG----CA  18482
+
+17249098-1728  25729 CTGAGGGTTGGGGGTGGTGATGATGGTGGAGCAGGGGCCATTGCACTCCT  25778
+                     ||.|    |||.|||||.| .||||  |.||||||       |.|.||||
+c153117146-15  18483 CTAA----TGGTGGTGGCG-GGATG--GAAGCAGG-------GAAGTCCT  18518
+
+17249098-1728  25779 TGAAGAGAGCCAGAAGCAAGGAATGATGAAATTATACTCCCGGATGTGCT  25828
+                     |.|                                    |.|||||.|| 
+c153117146-15  18519 TCA------------------------------------CGGGATGGGC-  18531
+
+17249098-1728  25829 GGGGTTGGTGGGTGTTCA----CCAGACACAGTCCACACTTACCTCGGGG  25874
+                                     ||    ||||  ||.|.|.||.|||.||..|||.
+c153117146-15  18532 ----------------CACTCTCCAG--ACTGCCTACGCTTCCCCTGGGA  18563
+
+17249098-1728  25875 ACTCTGAAACCAGAGAGAGCAGA----GACCTAAGAGATCATTCAGTCCA  25920
+                     |.||.|||.|..|.|.|||||||    |||||||     |||   ||   
+c153117146-15  18564 AGTCAGAAGCAGGCGGGAGCAGACAGGGACCTAA-----CAT---GT---  18602
+
+17249098-1728  25921 ACACTTTCAT-TTTACAAGTGGGCCCAGAGAGGGTAAGTGAGTCACA-TA  25968
+                         |.|.|| ||...||||....|||||||||    .||||||||| |.
+c153117146-15  18603 ----TGTTATGTTGTTAAGTTCAGCCAGAGAGG----CTGAGTCACACTC  18644
+
+17249098-1728  25969 GAAAGCAAAGTTATAACTAGACTCAAGTTTTCTGATTCTGAAAATAAATA  26018
+                     |.|| ||   ||.|..|||||||.|||  |.||||||.||     |||.|
+c153117146-15  18645 GGAA-CA---TTCTGGCTAGACTGAAG--TCCTGATTATG-----AAACA  18683
+
+17249098-1728  26019 GATGATAC--TAG-TAACAG-----TCAATTAATAGTAACAGA-AG--AA  26057
+                     || .||||  ||| |||.||     |||..|.|.||   |||| ||  ||
+c153117146-15  18684 GA-CATACGGTAGATAAGAGAGGTATCAGCTGAGAG---CAGAGAGGAAA  18729
+
+17249098-1728  26058 G---------AGTGGGCATGGTGGTTCATGCCGTAATCCCAGCACTTTG-  26097
+                     |         |||||  |.|.|.|||    |||    ||.||     || 
+c153117146-15  18730 GTAACATCTAAGTGG--AAGCTTGTT----CCG----CCTAG-----TGG  18764
+
+17249098-1728  26098 -GGAGGCCAAGG----CAG-GCGGATC-----ATGAGATCAGGAGATCGA  26136
+                      |||    ||.|    |.| .||| ||     .|||||.|||||||..||
+c153117146-15  18765 TGGA----AACGACTACTGTTCGG-TCTTTTTCTGAGAGCAGGAGAGGGA  18809
+
+17249098-1728  26137 --GACCATCCTGGCTAACATGGTGAAACTCCGTCTCTACTAAAAAAAAAA  26184
+                       |||.|..|||  ||| ||.|.||     ||.||.|             
+c153117146-15  18810 TTGACTAAACTG--TAA-ATTGAGA-----CGACTGT-------------  18838
+
+17249098-1728  26185 AAAAAATTAGCCAGGCGTGGTGGCAGGCGCCTGTAGTCCCAGC-------  26227
+                                 ||.|.||.||         ||||..|.||.|       
+c153117146-15  18839 ------------AGCCTTGATG---------TGTACACACACCCATACAC  18867
+
+17249098-1728  26228 -TACTCA-----GGAGGCTGAGGCAGGAGA-----ATGGCATGAACCCAG  26266
+                      |||.||     |.|.||..|.||| .|.|     || .||||.||.|| 
+c153117146-15  18868 ATACACATACATGCATGCACATGCA-CACACACACAT-ACATGCACACA-  18914
+
+17249098-1728  26267 GAGGTGGAGCTTGCAGTGAGCTGAGATCATGC-CAC-TGCA----CTCCA  26310
+                              ||||||            |||.| ||| ||||    ||...
+c153117146-15  18915 ---------CTTGCA------------CATACACACATGCATATGCTTGT  18943
+
+17249098-1728  26311 GCCTGGGC-GACAGA-GCGAGACTCCGTCTCAAAAAAAAAAAAAAAAAAA  26358
+                     .|.||.|| .|||.| ||                  |.|.|.|.|.|.|.
+c153117146-15  18944 ACATGTGCATACACATGC------------------ATACACACATACAC  18975
+
+17249098-1728  26359 AAAAGTA-----ACAAA-----GAAAAAGT------TTCCATTCCCA---  26389
+                     |.|.|.|     |||.|     |.|.|.||      .|.|||.|.||   
+c153117146-15  18976 ACATGCATGCGTACACATGTGTGCACATGTGCATACATACATGCACACAT  19025
+
+17249098-1728  26390 --------ACAGTCCTGGGAGA-----AAATGCATTTAGGTCAAAGCTTG  26426
+                             |||   ||.|.|.|     |.||||||        |.|||||
+c153117146-15  19026 ATATGCACACA---CTTGCACATACACACATGCAT--------ATGCTTG  19064
+
+17249098-1728  26427 TTCAT----------------------AC-TAC---CATG------TAAA  26444
+                     |.|||                      || |||   ||||      .|.|
+c153117146-15  19065 TACATGTGCATACACATGCATGCACACACATACACACATGCACACACACA  19114
+
+17249098-1728  26445 TGACTAATATA---AGATCTTTTCCTGAGA-------------GCAAG-A  26477
+                     ||   ||||||   |.||...|.||| |.|             |||.| |
+c153117146-15  19115 TG---AATATACACACATACATGCCT-ACACATTCACACACATGCATGCA  19160
+
+17249098-1728  26478 GAAGTG---------AGGTACA-------------AGACATGCTAAGTG-  26504
+                     .|..||         |.|.|||             |.|||||| |.|.| 
+c153117146-15  19161 TACATGCATGCACACATGCACACACACATGCATACACACATGC-ATGCGT  19209
+
+17249098-1728  26505 --AAATG-----ACA---------ATA-------ACATACAGAGAGA---  26528
+                       |.|||     |||         |||       |||||||...|.|   
+c153117146-15  19210 ACACATGTGTGCACATCTGCATACATACATGCACACATACATGCACACAT  19259
+
+17249098-1728  26529 GTA-------ACAAAT---------GATGTGTTGTTCAGTA-GTGACA-C  26560
+                     |||       |||.||         |.||.|.|||||.|.| |||||| |
+c153117146-15  19260 GTACATGTGCACACATCCAAACAGAGGTGGGGTGTTCTGCATGTGACACC  19309
+
+17249098-1728  26561 AGGGGTGCTGATGGAAAAGGAATCCTATCATATTGGTTACTTGCTGTGGA  26610
+                     |     ||||||||   .|||                           ||
+c153117146-15  19310 A-----GCTGATGG---CGGA---------------------------GA  19324
+
+17249098-1728  26611 CTAGACCAAGACATTGAGCTAACCAAATGCAACAAAGCTGTTAGAACAGA  26660
+                     .||       |.|||.|  |||.|||.| |||||||.|....||||.|.|
+c153117146-15  19325 GTA-------ATATTTA--TAATCAAGT-CAACAAAACCACCAGAAGACA  19364
+
+17249098-1728  26661 CTTGGGATCAAATAAT-GAATGAATCCAGAGTCAAGCTTTG-----GAA-  26703
+                         .||||.|||..| ||| |.||||.||||..||| |||     ||| 
+c153117146-15  19365 ----AGATCCAATGGTAGAA-GGATCCGGAGTGGAGC-TTGAGGGAGAAT  19408
+
+17249098-1728  26704 ---GGGA-----CTACTGCCCTCAAATACATAATCCCATTGAAAGAGGAA  26745
+                        ||||     |||.||       ||.|.|  |.|||  |||.|...||
+c153117146-15  19409 GCTGGGATTGAGCTATTG-------ATTCTT--TGCCA--GAAGGCCAAA  19447
+
+17249098-1728  26746 GCTGGACCATGCCCTTAGAT---ACATTTTCGTAAAAATTGAA-----CA  26787
+                     |.||         |.|||.|   |.||.|  ||.||.|  |||     ||
+c153117146-15  19448 GATG---------CGTAGGTTGCAAATGT--GTGAACA--GAAAGTACCA  19484
+
+17249098-1728  26788 TGGGGGTGA-------------AATCTGTCTCTTGGAGAATAAGAACCTG  26824
+                     .||..||||             |||||.|| |.|||      |.|.||||
+c153117146-15  19485 GGGTCGTGAGACCTGCTGGGGCAATCTTTC-CATGG------ACATCCTG  19527
+
+17249098-1728  26825 GTG----TGAGGGTG--------GTTCTGAAGATTTTC--CTGGATGGTG  26860
+                     | |    |||||.||        |...||.||||..||  ||  || |||
+c153117146-15  19528 G-GAAACTGAGGCTGCAGCAAGAGAGGTGTAGATACTCAGCT--AT-GTG  19573
+
+17249098-1728  26861 GGACC--TGGTA------GGTCATTGCCCTGGTG--TGA------CTGA-  26893
+                     .||||  .||.|      ||||| ||.|.|||.|  |||      |||| 
+c153117146-15  19574 AGACCCAAGGCAAGAGGCGGTCA-TGTCATGGAGAATGAGTGGTTCTGAA  19622
+
+17249098-1728  26894 ------------------------CCTGTCCTGAGTCTGCCTCATGCAGA  26919
+                                             |||||.||.||| .|..|||| |.||
+c153117146-15  19623 GTGGTCGTTACTCATCATAACTAGCCTGTGCTAAGT-GGGTTCAT-CGGA  19670
+
+17249098-1728  26920 ACTCACCCTAAGTGGAATTTTAAAATA---TACGTATCTGGCTGG-----  26961
+                     ||.||||||.||||||.|.||||||||   |.|.|||||..||.|     
+c153117146-15  19671 ACCCACCCTGAGTGGATTATTAAAATACACTTCCTATCTTTCTTGTTTAT  19720
+
+17249098-1728  26962 --------GTGCAGT-----GGCTCATCCCTGTAA--TCCCAGCACTTTG  26996
+                             ||||.||     |    ||     |||  |||   .|||.||
+c153117146-15  19721 GAAATAATGTGCTGTTTTGAG----AT-----TAAAGTCC---TACTATG  19758
+
+17249098-1728  26997 TGAGGCTGAGGCGGGC--AGA--TCAC------TTGAGGTCAGGAGTTCG  27036
+                     |.|  ||.||||.|||  |||  ||||      |||.|            
+c153117146-15  19759 TAA--CTCAGGCTGGCCTAGAACTCACTATATATTGTG------------  19794
+
+17249098-1728  27037 AGACCAGCCTGGCCAACATGG----TGAAACCCCATCTCTAGTAAAAATA  27082
+                           |.||||||    |.|    ||.|||||  || |||         
+c153117146-15  19795 ------GGCTGGCC----TTGAATTTGCAACCC--TC-CTA---------  19822
+
+17249098-1728  27083 CAGAAAAATTAGCCTGGCCTGGTGGTGCACGCCTGTAATCCCAGTTGCTT  27132
+                                      |||       || |||     |||||..|||| 
+c153117146-15  19823 -----------------CCT-------CA-GCC-----TCCCAAATGCT-  19841
+
+17249098-1728  27133 GGGAG-GCTGAGGCAGGAGAATCCCT--TGAACCTGGGA---------GG  27170
+                      |||| ||| |||...|||     ||  ||..||.||||         ||
+c153117146-15  19842 -GGAGTGCT-AGGTCTGAG-----CTACTGTGCCCGGGAATGTATTCTGG  19884
+
+17249098-1728  27171 CGGAAGTTGCAATGAGGCGAGATCACGCCACTGCACTCCAGCCTGAGTGA  27220
+                     .|..||.|||  ||.||.||||    |||.||                  
+c153117146-15  19885 AGTCAGATGC--TGTGGAGAGA----GCCGCT------------------  19910
+
+17249098-1728  27221 CAGAGTGAGATTCCATCTCAAAAATAAATAAATAAATAAAATGAAATATA  27270
+                         |||||                                         
+c153117146-15  19911 ----GTGAG-----------------------------------------  19915
+
+17249098-1728  27271 CATATTTATTACTTTCCTGTTTATAAAAGTAATGCATGTTTTTTTGTTTT  27320
+                                                          |.|.||.|||||.
+c153117146-15  19916 -------------------------------------GCTATTCTGTTTC  19928
+
+17249098-1728  27321 TTAAAAATCAGATATTGCAGGAATGCTAAACTCTTGTCATTTTATTTCTG  27370
+                     ||               |.|||.||         |||  .||||.||   
+c153117146-15  19929 TT---------------CTGGAGTG---------TGT--GTTTAGTT---  19949
+
+17249098-1728  27371 CATGGAGTCTTTTTAGTTAAGCAACTTTTTTTTTAACCTCGTGGGTCCCA  27420
+                       |||.|||                  |||...|||||.|    |.||||
+c153117146-15  19950 --TGGTGTC------------------TTTCCCTAACCCC----GGCCCA  19975
+
+17249098-1728  27421 GGTCAAGTGGCCGCAGGGTCACCCAGGTGGTGCGGGACTTCCTCCATGCC  27470
+                     ||||.||.||||||||.||.|||||||||||.||.|||||||||||||||
+c153117146-15  19976 GGTCGAGAGGCCGCAGAGTTACCCAGGTGGTACGAGACTTCCTCCATGCC  20025
+
+17249098-1728  27471 CAGAAGGTGCAGCCCCCCGTGGAGCTCTTTGTGGACTGGTTGGCCGTGGG  27520
+                     |||||||||||.||.|..||||||.|.||||||||||||.||||.|||||
+c153117146-15  20026 CAGAAGGTGCAACCTCTGGTGGAGTTGTTTGTGGACTGGCTGGCTGTGGG  20075
+
+17249098-1728  27521 CCATGTGGATGAGTTTCTGAGCTTTGTCCCTGCCCCCGATGGGAAGGTAA  27570
+                     |||.||||||||.|||||||||||.||||||||.||.|||||.|||||||
+c153117146-15  20076 CCACGTGGATGAATTTCTGAGCTTCGTCCCTGCACCAGATGGAAAGGTAA  20125
+
+17249098-1728  27571 GAACTTCGTGCAT-GACGTGTCTTTCCCTGGCATCT--------------  27605
+                     |.|||||     | ||.|||||||..|  |||.|||              
+c153117146-15  20126 GGACTTC-----TAGATGTGTCTTGGC--GGCCTCTAGAGTTTGGGGCCC  20168
+
+17249098-1728  27606 GGGGC-AAGAACTGAGCTCCAGGGC-GCCATGCC---AAG-GCAGGAGGC  27649
+                     ||||| |||  |||       |||| |..|.|||   ||| .||.|| ||
+c153117146-15  20169 GGGGCTAAG--CTG-------GGGCTGGTAGGCCTGTAAGTCCATGA-GC  20208
+
+17249098-1728  27650 TCAGCTGAATCTGTTCTCTGCACGCAGGGCTTCCGGATGCTCCTGGCCAG  27699
+                     |||.|||...|||.||||..|||.||||||||||||.|.|||||||||||
+c153117146-15  20209 TCAACTGTGCCTGCTCTCCACACACAGGGCTTCCGGCTCCTCCTGGCCAG  20258
+
+17249098-1728  27700 CCCTGGGGCCTGCTTCAAGCTCTTCCAGGAAAAGCAGAAGTGTGGCCACG  27749
+                     ||||||.||||||||||.|||.||||||||||||||||||||.|||||.|
+c153117146-15  20259 CCCTGGTGCCTGCTTCAGGCTATTCCAGGAAAAGCAGAAGTGGGGCCATG  20308
+
+17249098-1728  27750 GGAGGGCCCTCCTGTTCCAGGGGGTTGTTGGTGGGTAACAG-TGCCGTGT  27798
+                     |..||.|||||||.|||.|||||||..||||||.|||| || |||||.||
+c153117146-15  20309 GCCGGTCCCTCCTTTTCGAGGGGGTCATTGGTGAGTAA-AGATGCCGAGT  20357
+
+17249098-1728  27799 CCCTCC------TTGCGG-----CTTGCCTGCCCCTTACCCAAATTAAGA  27837
+                     ||||||      .|||||     ||..||||           ||||.| |
+c153117146-15  20358 CCCTCCCAAATTGTGCGGAATCTCTCTCCTG-----------AATTGA-A  20395
+
+17249098-1728  27838 CACATCATGGCTTGAGAGGGGGAGGGCAAGTTTTAAAGCAGGGGTGTGTC  27887
+                     |.||..|||.|||..||                                 
+c153117146-15  20396 CGCACGATGACTTCTGA---------------------------------  20412
+
+17249098-1728  27888 CCCAAATTCAGGGCTTCTCACTCCTG--CCCCTGCACACCTTGCTTCACC  27935
+                                           ||||  .||||.||         ||||.
+c153117146-15  20413 ----------------------CCTGGCGCCCTCCA---------TCACT  20431
+
+17249098-1728  27936 AGACACCACTGCCCACAGCT-----GGGGCCGAGCTGAGGTGG--GAAGC  27978
+                     .|..|||.|||      |||     ||||..|.|||   .|||  ||.||
+c153117146-15  20432 GGTGACCTCTG------GCTGTGGGGGGGTAGGGCT---ATGGCAGATGC  20472
+
+17249098-1728  27979 GGGGTGATAGAAGGTGGACATGGA----CTGAGCGGGGACATAGTGGCTT  28024
+                     .|||   .|||    |||.|||||    .|||   |||.|| .|||  |.
+c153117146-15  20473 AGGG---CAGA----GGATATGGAGAAGGTGA---GGGCCA-GGTG--TG  20509
+
+17249098-1728  28025 CCCAGGCAGGTGACCAGTGCA-GTCACGGC-------GT---GGAGC---  28060
+                     ||||||.|.|| .|||.|  | |||.|.||       ||   |||||   
+c153117146-15  20510 CCCAGGGATGT-CCCATT--AGGTCTCTGCTCAGAAGGTCCCGGAGCACA  20556
+
+17249098-1728  28061 --TTTAATGTTCTGCAGTCACTATCCT-GAAATC----TCCCTTTTTTTT  28103
+                       |||||.||.||...||..||||..| |||.||    ||..|||||   
+c153117146-15  20557 GGTTTAACGTCCTTTGGTGGCTATGTTCGAAGTCTAGGTCAGTTTTT---  20603
+
+17249098-1728  28104 TTTTCCTTTTTGAGACGGAGT--------TTCACTCTTGTTGCCCAGGCT  28145
+                                 |.|.|.|||        ||.||    |...|||||   
+c153117146-15  20604 ------------AAATGAAGTCTAGCAGATTTAC----GAACCCCAG---  20634
+
+17249098-1728  28146 GGAGTGCAATGGCGTGATCTCCACTCACCGCAACCTCCGCCTCCC----A  28191
+                                    .||||||| ||||.||  ||||||.|||||    |
+c153117146-15  20635 ---------------AATCTCCA-TCACTGC--CCTCCGTCTCCCTGGGA  20666
+
+17249098-1728  28192 AGTTCAAGCGA---TTCTCCTGCC--------------------------  28212
+                     ||   |.|.||   .||| |||||                          
+c153117146-15  20667 AG---AGGGGAGGGGTCT-CTGCCACCCTCTGCTGTTGTGGTAACATTTA  20712
+
+17249098-1728  28213 -----------------TCAGCCTCCTGAGTAGCTGGGATT---------  28236
+                                      |||| .||||||| ||| .|||||         
+c153117146-15  20713 GAAAGGAACGTTTTCTATCAG-TTCCTGAG-AGC-CGGATTCGCTCACTC  20759
+
+17249098-1728  28237 ---------ACAGGCATG-----CGCCA-----CCACGCCCGGCTAATTT  28267
+                              .|.|.||||     |||.|     ||.|.||||||      
+c153117146-15  20760 TGCTGCTGCTCTGCCATGTGGTCCGCAAGCCGCCCTCTCCCGGC------  20803
+
+17249098-1728  28268 TGTGT---TTTTAG-TAGAGACGGGGGTTTCTCCATG-TTGG--------  28304
+                     |||.|   |||||| |         |...|||||||| ||||        
+c153117146-15  20804 TGTCTCCCTTTTAGCT---------GCCCTCTCCATGCTTGGTAGTTACC  20844
+
+17249098-1728  28305 --------------------------------TCAGGCTGG---------  28313
+                                                     |||..||||         
+c153117146-15  20845 ATGCCCCCCCCCACACACACACACCTCACACCTCATCCTGGGGTCCCTGC  20894
+
+17249098-1728  28314 ----TCTCGAACTCCTGACC----TCAG---GTGATCAGCCCGCCT----  28348
+                         ||||  ||||..||||    .|||   ..||||.||.| |||    
+c153117146-15  20895 GTTTTCTC--ACTCTGGACCAGCAACAGAACCAGATCCGCAC-CCTCCAG  20941
+
+17249098-1728  28349 CGGCCTCTCAAAG----TGCTGGGATTACAGGCGTGAGCCACCACAC-CT  28393
+                     |.|||||.|  ||    |.||    ||               ||||| ||
+c153117146-15  20942 CTGCCTCCC--AGCCGTTTCT----TT---------------CACACACT  20970
+
+17249098-1728  28394 GGCT------GCCCTG-AAATCTTAATTC--------TGT--TTT----G  28422
+                     |..|      ||||.| |||||..|.|||        |||  |||    .
+c153117146-15  20971 GAGTTCTTTAGCCCAGTAAATCAAAGTTCCAGAAACTTGTAATTTAGCAA  21020
+
+17249098-1728  28423 TGAGGTCT-GATG------------------------------GATCAGT  28441
+                     |.||.||| .|||                              |||.|.|
+c153117146-15  21021 TTAGATCTACATGTTAACTTCTCAACCCACAATTCATCCACACGATAAAT  21070
+
+17249098-1728  28442 GGAGCATCTACGGGGC---TTG-----GA--------GCC----------  28465
+                     .||    ||     ||   |||     ||        |||          
+c153117146-15  21071 TGA----CT-----GCCCATTGATAACGATATAAACCGCCCACCTAGACA  21111
+
+17249098-1728  28466 ------------TCT-GCTCAGGCACAGTCCTGTCT--CCCAGCCTCCCT  28500
+                                 ||| |.|||..||||      |||  .|||.|||||.|
+c153117146-15  21112 AGATAAAATCGATCTAGTTCACCCACA------TCTGAACCATCCTCCAT  21155
+
+17249098-1728  28501 -GCCTCCCTGGCAC-AGAT------------------TCTCTGCTGCCT-  28529
+                      |.||||||    | .|||                  |||||.||.||| 
+c153117146-15  21156 AGACTCCCT----CTTGATCCCTTTTTTTTTTTCTCCTCTCTCCTTCCTG  21201
+
+17249098-1728  28530 -ACTT---------CTGTGCTCCCTGGAGCCTCAGTGCA-----AGGCCT  28564
+                      ||||         ||..|||.|||    ||||| |.||     ||||.|
+c153117146-15  21202 GACTTTTCCCCCTCCTACGCTTCCT----CCTCA-TCCAATGATAGGCTT  21246
+
+17249098-1728  28565 C-CCCCATCTCTGTCACTGTCCTG--------AGATGCTGCAGC---ACT  28602
+                     | ||..||| |||...|||.||||        ||||||  ||.|   ||.
+c153117146-15  21247 CGCCTTATC-CTGGGCCTGCCCTGCTGCATAAAGATGC--CATCCCTACA  21293
+
+17249098-1728  28603 CTGCC------CCCAG----CAGGAGCCTGGGCATGGGGAGGGCTGGGGT  28642
+                     |||||      |||||    ||  .|||               |||.|||
+c153117146-15  21294 CTGCCCACATTCCCAGTGTCCA--CGCC---------------CTGTGGT  21326
+
+17249098-1728  28643 TG--GGCACATGTGCCACTCAG---CATCTTCATGGCA----TCAGTCGT  28683
+                     ||  |.||||    .|||.|||   |.|.||.|...||    |||.|   
+c153117146-15  21327 TGGAGTCACA----GCACCCAGTAACCTGTTAAAATCAAAACTCAAT---  21369
+
+17249098-1728  28684 CCCTGCCCTGCAAGGGCAT-------------TTGGTGGGCAACTTGGGA  28720
+                                |||.|.||             |||.|    |.|||    
+c153117146-15  21370 -----------AAGCGTATAGTTTATCGATCGTTGAT----ATCTT----  21400
+
+17249098-1728  28721 GGGGTAAGTGTCTCA---CCCAG----GCTTGCTCAGGTACCCAGCACAT  28763
+                         .||  .|||||   |.|||    |..|||.|||..|.|..|||   
+c153117146-15  21401 ----CAA--TTCTCATTCCGCAGAAACGTCTGCACAGTAAACTCGCA---  21441
+
+17249098-1728  28764 ACCCA-----GAGGCCACAATACTCTGGAGGTCGCCCATTTGCCTTG---  28805
+                     |||.|     .|.|..|||| ||         ||||||    |||.|   
+c153117146-15  21442 ACCAATTGATAATGATACAA-AC---------CGCCCA----CCTAGATC  21477
+
+17249098-1728  28806 ----GCTTGGGGTGGCAGTCCTGTGGGA-----------ATGAGAGATGC  28840
+                         ||||         |||||..|.||           ||||.|.||.|
+c153117146-15  21478 AGACGCTT---------GTCCTAGGAGACTCCATCCCTTATGAAATATTC  21518
+
+17249098-1728  28841 CAAACTGGACCTGCCAGCCCCGTTCCAGGGCACAGCATGTGGGTCTCATA  28890
+                     ..||||  ||.||  .|.||| ||.||||.|||| ||    |||||    
+c153117146-15  21519 ATAACT--ACGTG--TGGCCC-TTTCAGGCCACA-CA----GGTCT----  21554
+
+17249098-1728  28891 GCAGAGGCATGCCCAAGCACAGCCCCCTGGGAGCTAGGCCTCCGCTGTGA  28940
+                          ||..||.|| ..|||..||..||.||..||  ..||||.||    
+c153117146-15  21555 -----GGATTGTCC-TTCACCTCCTTCTTGGTTCT--TTCTCCTCT----  21592
+
+17249098-1728  28941 GGCCCACAGGGTGGGCCCTGACACCAGCAAGGGACTGTCCAGCCCCATGC  28990
+                                    ||||               ||      ||.|    
+c153117146-15  21593 ---------------CCCT---------------CT------CCTC----  21602
+
+17249098-1728  28991 AAGTCCCCGGCAAA----------------GCGCAATGTGAAATAGCAAA  29024
+                        ||||||  |||                ||.||||             
+c153117146-15  21603 ---TCCCCG--AAACTCTTACTTATTCATTGCCCAAT-------------  21634
+
+17249098-1728  29025 TAAAAACCACCCTGACAAGTCAGGAGAGAGACTCGGGGACAAAGAAACAA  29074
+                            |||       ||.|          ||||               
+c153117146-15  21635 -------CAC-------AGCC----------CTCG---------------  21645
+
+17249098-1728  29075 CTTTATACTGTAGCACTTTTAATGGTACTCTTTTGTCTGCTCTT------  29118
+                                     |.|||       ||||.||.|||| |||      
+c153117146-15  21646 ----------------TCTTA-------TCTTGTGCCTGC-CTTCGCCTG  21671
+
+17249098-1728  29119 TAAACAAGGAGCTGG----CATTTTCTTTTCTTCTTTTTTGAGACAGGGT  29164
+                     .|.|||...||| ||    ||.|||.||||             ||||.||
+c153117146-15  21672 CACACAGACAGC-GGTCCACACTTTTTTTT-------------ACAGTGT  21707
+
+17249098-1728  29165 CTATCAGCCA-GGCTGGAGTGCAGTGACATGA-TCTCAGCTCACTGCAGC  29212
+                           ||.| |||.|||  .|||   |||.| ||..|.||       ||
+c153117146-15  21708 ------GCAATGGCGGGA--CCAG---CATTAGTCCAACCT-------GC  21739
+
+17249098-1728  29213 CTCGACC-------TCCCAGA----CTTAAGCGAGTCTC-CCAC-CGCAG  29249
+                     ||.||||       |||.|||    ||   ||.|||.|| |||| |||||
+c153117146-15  21740 CTGGACCGGCAAGGTCCTAGAGGGGCT---GCCAGTGTCACCACACGCAG  21786
+
+17249098-1728  29250 CCTTGCGAGTAGCTAGGACCACAGGCATGCACCAC-------CACGCCTG  29292
+                     |               .|.||||.||   |.||||       |||.||.|
+c153117146-15  21787 C---------------AATCACACGC---CCCCACTCGCAGACACACCAG  21818
+
+17249098-1728  29293 GCTAATTTTTTGTATTTTTTGTAGAG-AT-GGAGTCTCACCGTGTTGCCC  29340
+                     |            ||..|.|..|||| || |||||.||     |...|||
+c153117146-15  21819 G------------ATGCTATCGAGAGCATAGGAGTGTC-----GGGCCCC  21851
+
+17249098-1728  29341 AGGCT-----------GGTCTTGAAC-------TCCTGA-----------  29361
+                     |||.|           ||.|||.|.|       ||||||           
+c153117146-15  21852 AGGGTTGGGGTATGACGGGCTTTATCCTGATGGTCCTGACAGGCCTCTGG  21901
+
+17249098-1728  29362 -------GCTCAAGT-----GATCT---GTCTGTCTTGGCCTCCCAAAGT  29396
+                            |.|| |||     |||||   |||.|||..|||.|      |.
+c153117146-15  21902 GGAAGGGGTTC-AGTGGGGGGATCTGCCGTCAGTCGAGGCTT------GG  21944
+
+17249098-1728  29397 ATGG-GATTACAGGTGTGAACTACTGTGTCTGGCC--AGGGCC-CACTTT  29442
+                     |.|| ||    |||||             ||||||  |||||| |||   
+c153117146-15  21945 AGGGAGA----AGGTG-------------CTGGCCCTAGGGCCTCAC---  21974
+
+17249098-1728  29443 TTTTTGTTTTGTTTTTTGTTTTGCACTGGAAGA----AT--------TTT  29480
+                                                .|||||    ||        |||
+c153117146-15  21975 ---------------------------AGAAGATGTCATGGAGCGGGTTT  21997
+
+17249098-1728  29481 GAGA-GAGAGAGAGCTGGCTGGACTGGAGTCATC----TGGCAAGCTTGC  29525
+                     |.|| |||||     ||||||         |.||    |||.||     |
+c153117146-15  21998 GTGATGAGAG-----TGGCTG---------CCTCTAGGTGGGAA-----C  22028
+
+17249098-1728  29526 -TGGAAGCGTTCTCAAATTCACTCCCTTTCCAGCCCCACTGAGACTGCAT  29574
+                      |||||.|                    |.|||   |.|||    ||.||
+c153117146-15  22029 ATGGAACC--------------------TACAG---CTCTG----TGTAT  22051
+
+17249098-1728  29575 GAATCCCAGAGGATCCTCCCTTTCTCAGTGACCCCAGAGGTCCCAGGGCA  29624
+                       |...||.|||| .|||   ||.|  ||| |||||      ||.||   
+c153117146-15  22052 --AGGTCAAAGGA-GCTC---TTGT--GTG-CCCCA------CCTGG---  22083
+
+17249098-1728  29625 AAGACCCTTTGACACGCAGGATCATAGATT-----------TTCTTGGTC  29663
+                         ||||..||.||.||       |.|||           |||||    
+c153117146-15  22084 ----CCCTCAGAGACACA-------AAATTCACCCTCTTACTTCTT----  22118
+
+17249098-1728  29664 CCATGGCCTCAGGGAAGG--CAGATAGCA--TCCTAGACCAAACAC--AG  29707
+                     |||  |..|.|.||||||  .|| .||||  ||||     ||.|||  ||
+c153117146-15  22119 CCA--GGTTAAAGGAAGGTCTAG-GAGCATTTCCT-----AAGCACTTAG  22160
+
+17249098-1728  29708 CTCAGAGAGAAAAAAAGCTCCTGTAGAACTTAGACGCCCCCAAGTATAAT  29757
+                     |||..||.|      |.||||             |.|||||||       
+c153117146-15  22161 CTCTCAGGG------ACCTCC-------------CCCCCCCAA-------  22184
+
+17249098-1728  29758 AATTTCCAAAGTCCCCTTGCTCTCTGTTTGCTAGCGTTAACTTCTTCCAA  29807
+                                 ||..|||    ||||.||.|||.|    .||||     
+c153117146-15  22185 ------------CCTATTG----CTGTGTGGTAGTG----GTTCT-----  22209
+
+17249098-1728  29808 CACAACCC-TGGAGCCTTAGCAATAAAATGGAAGAGAAATAGTCTTTCTT  29856
+                       |||||| |||                                 .|||.
+c153117146-15  22210 --CAACCCGTGG---------------------------------GTCTC  22224
+
+17249098-1728  29857 GACCCTGTTGCTCCCAAACGCACCCTAACTAGACTCCGGTGAACCTAGAG  29906
+                     ||||        ||||.|.|     |.||||   |||.||..|.| ||| 
+c153117146-15  22225 GACC--------CCCACAGG-----TCACTA---TCCTGTATATC-AGA-  22256
+
+17249098-1728  29907 TAAGTCTTAGAAATCCTTA-AATCCAAATTATGTACCAGGCAGGGAGAAA  29955
+                         |.||.|||    ||| |||.||   ||.|||.||            
+c153117146-15  22257 ----TATTTGAA----TTACAATTCA---TAAGTAACA------------  22283
+
+17249098-1728  29956 TGCCACCTTC-ATCTTTCCTGGGAGAACTTATGGTGAGCAAGACCCAGGA  30004
+                           |||| .|||.|..|    |||.|||..||.|..|||   |||.|
+c153117146-15  22284 ------CTTCGTTCTGTATT----GAAGTTACAGTTATGAAG---CAGCA  22320
+
+17249098-1728  30005 ATG-------------GGTT--GAGCAGAGTTATTCCAACCTGCCCAGCT  30039
+                     |||             ||||  |.|..|.||.|...||||.||   ||  
+c153117146-15  22321 ATGAAATGATTTTTATGGTTGGGGGTGGGGTCACCGCAACATG---AG--  22365
+
+17249098-1728  30040 GGGAG-------------GGAGCG------TGG--GAGAATTCACAGATG  30068
+                     |||||             |.||||      |||  ||||| .|||||.||
+c153117146-15  22366 GGGAGGTATTAAAGGGTCGCAGCGTCAGGATGGTTGAGAA-CCACAGCTG  22414
+
+17249098-1728  30069 GCAGGCC------ACAAGCAGCCACCCCACC-CTC-GAGGGC---TGACA  30107
+                     ...|.||      |     ||.||||..||| ||| |||..|   ||.||
+c153117146-15  22415 TGTGACCTTGGGTA-----AGTCACCTGACCTCTCTGAGCCCCCGTGTCA  22459
+
+17249098-1728  30108 CTCAG---------GCAGTGACTGTGGCGATTAATTACATAGACACAGAG  30148
+                     .||||         |||||..|| ||                   |||||
+c153117146-15  22460 GTCAGATGTCCCTTGCAGTCCCT-TG-------------------CAGAG  22489
+
+17249098-1728  30149 GCCAGACACAGAGGCCAGAGCACTGATTAGACACCTCAGTG----CGCCA  30194
+                     ..|||          |||||   |.|..|||| ||...|||    |..|.
+c153117146-15  22490 TGCAG----------CAGAG---TCAGGAGAC-CCGTGGTGCTTTCTTCT  22525
+
+17249098-1728  30195 GGCCTCACGCTGTGTGCATCACACGTGTTATCTCA-TTTG---ATCT---  30237
+                     |||.|||||                    ||||.| ||||   |.||   
+c153117146-15  22526 GGCTTCACG--------------------ATCTGAGTTTGGTTAGCTGGC  22555
+
+17249098-1728  30238 ---CACGAGAGATCAAATGGGA-----TGACTC--TCACCCACCTTTATT  30277
+                        ||.|||     .|.|||.|     ||.|||  .||.|| |||.|.|.
+c153117146-15  22556 AACCAGGAG-----GACTGGAAGCCTTTGGCTCCTACATCC-CCTCTCTA  22599
+
+17249098-1728  30278 CCCAAGAATGTG---------------AGGCTCAGAGAGGGGATGTCACT  30312
+                     .|||....||||               ||||    ||..||||.|  ||.
+c153117146-15  22600 GCCAGCCCTGTGTCTGTGGTCTCCACTAGGC----AGGCGGGAAG--ACC  22643
+
+17249098-1728  30313 GGCCCAGAGGCCTC------AGCA----------AGATTGCAGTGGA---  30343
+                     .|.||.||.|.|||      ||||          .|.|.|.|.||||   
+c153117146-15  22644 AGGCCTGAAGTCTCCTAAAAAGCAGGCCAAAACCTGTTGGTATTGGATTC  22693
+
+17249098-1728  30344 ---------GCTGGGAC----TGGACCCCAGCTTC-CTGCCT--------  30371
+                              ||||||||    |||        ||| ||||||        
+c153117146-15  22694 CTAGAACCTGCTGGGACCGGTTGG--------TTCACTGCCTAGTGAACC  22735
+
+17249098-1728  30372 --TAAACTGGGGTGAAGCGGGCGTTAGACCTGCAGATGGGTCAGGGGAGC  30419
+                       |||||...|||               ||||     ||||   |.|.||
+c153117146-15  22736 CATAAACCCTGGT---------------CCTG-----GGGT---GAGTGC  22762
+
+17249098-1728  30420 CCTCTCCTTTCCCTTGGTCAAGGCTTG--AGGCCCTGTGCGAGCCCTGGG  30467
+                     |.||| |||||.|       |||  ||  ||||                 
+c153117146-15  22763 CATCT-CTTTCAC-------AGG--TGACAGGC-----------------  22785
+
+17249098-1728  30468 CTTGGGTTTGAATCACAAGCCCCCA---CATATCC-TACCTGTGTGACCT  30513
+                        ||||               |||   |||.||| |             
+c153117146-15  22786 ---GGGT---------------CCAGACCATCTCCAT-------------  22804
+
+17249098-1728  30514 TTGGCAAGTC---TTCTGACCTCTCTGAGCCTCAGTTTTCTCATCTGTAA  30560
+                         ||| ||   ||||..||...|.|||||      ||.|||.||.|| 
+c153117146-15  22805 ----CAA-TCAGGTTCTTTCCAACCAGAGCC------TTATCAACTTTA-  22842
+
+17249098-1728  30561 AGTGGGGATCATAA---TGCATA----------CCTTGTGGGGGTCACCG  30597
+                               ||||   ||||.|          ||  ||||||    |.|
+c153117146-15  22843 ----------ATAAGTTTGCACAGGTACGAAGGCC--GTGGGG----CTG  22876
+
+17249098-1728  30598 T------GAGGGTTAAATG-----AGATGCTGAA-------CCTGGGCAC  30629
+                     |      |||||  |.|||     ||| ||||.|       ||.|||||.
+c153117146-15  22877 TGGATGGGAGGG--AGATGTGGATAGA-GCTGGAGTCAGGGCCAGGGCAG  22923
+
+17249098-1728  30630 TCCCCTCGGGGC-----CTGCTCATG--------GTAAGCGCTTACTAAG  30666
+                     .|..||   |||     |.|.|||||        ||.||     |||  |
+c153117146-15  22924 ACATCT---GGCACCCACAGTTCATGCAAGGTCAGTCAG-----ACT--G  22963
+
+17249098-1728  30667 TAGCAGCCATGAGGATTGTGTGCCATTGACTCTAGCCTCCGCTTCCCTG-  30715
+                     .|.|||.|              |||  |||     |||||..|..|||| 
+c153117146-15  22964 AAACAGGC--------------CCA--GAC-----CCTCCTTTAACCTGG  22992
+
+17249098-1728  30716 ------TCCAGTCTCATCTGCATGGGCACACCATCAGGCTGAGAAAAT--  30757
+                           | .||..|.|.|.||.||||     ||||     .|.|||||  
+c153117146-15  22993 GAGAACT-AAGGGTGAGCAGCCTGGG-----CATC-----TAAAAAATAT  23031
+
+17249098-1728  30758 -------CTGGAC--------CCCTGGGAGGTCCCCATTTCACGCAGTCA  30792
+                            ||||.|        |||.|||.|||            .|||..
+c153117146-15  23032 TGTCAGCCTGGTCTGTGAGCACCCAGGGCGGT------------GAGTAT  23069
+
+17249098-1728  30793 CCCCCTGAAGGGCAG-GA----TTGGGGCTGGATG-GTGTCTGA------  30830
+                     ||      |||||.| ||    ..||||||  ||| ||.|| ||      
+c153117146-15  23070 CC------AGGGCTGTGAGCCTCCGGGGCT--ATGAGTATC-GAGCTAGA  23110
+
+17249098-1728  30831 -ATCCCAGGACTGGCTGGTTCGCTGCTCAGTGAACCTAT-----------  30868
+                      ||...||.| ||||..|||         |||..|||.|           
+c153117146-15  23111 CATAAGAGTA-TGGCCTGTT---------GTGCCCCTGTGGTTGGGATTG  23150
+
+17249098-1728  30869 ----AAAACCTGACTGATGGTGGGTGGGT---GGGCAGCAACTGACCCAG  30911
+                         .||||   ||.|||||.|||.||||   |||.||.|||        
+c153117146-15  23151 TGTGGAAAC---ACAGATGGGGGGGGGGTAGGGGGAAGGAAC--------  23189
+
+17249098-1728  30912 CTCCCCGCTAAGCCAAAGCA-AGAGGATTCCTCATCCAGTGCCCTCGGGC  30960
+                                      ||| |||           .||||      |||.
+c153117146-15  23190 -----------------GCACAGA-----------TCAGT------GGGT  23205
+
+17249098-1728  30961 AGTTGTAC---ATTTCCAGTGACAGGCGTTACCA---------CTTCCAG  30998
+                     |...|.||   |||.||||   ||||     |||         |||||||
+c153117146-15  23206 AAAGGCACTGAATTCCCAG---CAGG-----CCAGAGGGCAGCCTTCCAG  23247
+
+17249098-1728  30999 TGAACTCAAATAAAGGTCTCAGTTCATTCCACTGTGGCAACCAG--ACCC  31046
+                                  |||   .||           |||||||..||  |.| 
+c153117146-15  23248 -------------AGG---GAG-----------GTGGCAAGGAGGAAGC-  23269
+
+17249098-1728  31047 TCCCACTCCTTATACCCCAAGATGTGCACA--------------------  31076
+                                        |||||.|.|||                    
+c153117146-15  23270 -------------------AGATGGGGACAGACTGGGATAGCGTTGTTGA  23300
+
+17249098-1728  31077 --GTGGCCAAGGCAAG---------CTCAG-----ACAGGTGGAACCCAC  31110
+                       ||||  |.||.|||         ||| |     ||||           
+c153117146-15  23301 GTGTGG--AGGGAAAGGAAGTAGATCTC-GAAATAACAG-----------  23336
+
+17249098-1728  31111 CCAAGGCCTG------GGA-----AAGTCAGAGGCTG---------CTG-  31139
+                      ||||||.||      |||     |||| |.|||.||         ||| 
+c153117146-15  23337 -CAAGGCTTGCGGCCCGGACTGCTAAGT-ATAGGGTGGTCACAGAACTGA  23384
+
+17249098-1728  31140 ---ACTC-GGCAAGACCATTAGCTGTGAACTTGGCT---CCT---GCCTG  31179
+                        ||.| ||||||.|||         ||  ||.||   |||   |||||
+c153117146-15  23385 AGAACGCAGGCAAGTCCA---------AA--TGACTTTACCTTAGGCCTG  23423
+
+17249098-1728  31180 ----TCTGCTTCCCTAAGCAGGTGGTCCTCACGTTGGTGCTGTC---CCT  31222
+                         ||||.|.||||                     .|.|||.|   |||
+c153117146-15  23424 GGAATCTGATGCCCT---------------------CTTCTGGCCAGCCT  23452
+
+17249098-1728  31223 --GTCCTTCTCTTTCATCTCTCTCCTTCACAGATGATGAGCAGGTCAAGA  31270
+                       ||.||.|.|  .||           ||||.||  ||..||||   |||
+c153117146-15  23453 GGGTACTGCAC--ACA-----------CACACAT--TGGACAGG---AGA  23484
+
+17249098-1728  31271 CCATCTCCATCAACCAGGT-----------GCTCTCCAATAAAGACCTCA  31309
+                       ||||   |.|||||.||           |.|||||        ||   
+c153117146-15  23485 --ATCT---TAAACCATGTATTGAATGATGGGTCTCC--------CC---  23518
+
+17249098-1728  31310 TCAACTACAATAAGTTTGTGCAGGTACAAGGGCTGTGGTGTACCTGT---  31356
+                               |||||     |.||..|.|||   ||||    |.|||   
+c153117146-15  23519 ----------TAAGT-----CGGGGTCTAGG---GTGG----CTTGTTCT  23546
+
+17249098-1728  31357 -GGG------CTGTGATTTGGGAGTAGGCGGGGCTGGAGGCA---AGGAT  31396
+                      |||      |.||| ||.||.||||.|.|.||     ||||   |||.|
+c153117146-15  23547 AGGGTTAGCTCGGTG-TTAGGAAGTAAGAGTGG-----GGCATGGAGGGT  23590
+
+17249098-1728  31397 GGGATACAGACATCTGAGGCTAACTGTTCATGAAAGCTCAGGTTAGAACA  31446
+                     |||||                               ||           |
+c153117146-15  23591 GGGAT-------------------------------CT-----------A  23598
+
+17249098-1728  31447 GGCCCAGACAGAGGGGTCCCAACACCCTCTTTTGACCCAGAAGAAG-TGA  31495
+                     ||  |||   |||||||          |.|.|            || |||
+c153117146-15  23599 GG--CAG---GAGGGGT----------TGTAT------------AGTTGA  23621
+
+17249098-1728  31496 -GGGGAGCGACAGGATGCCTTGGTGCCCCCAAAACACACTGGCAAGGTGT  31544
+                      ||.|.||         |||| |.|||.|  |..|||||..|||.|||.|
+c153117146-15  23622 TGGCGGGC---------CCTT-GAGCCTC--AGCCACACCTGCAGGGTCT  23659
+
+17249098-1728  31545 CCCCAACTCTGGCCCTCCCCTGC--CCCCAGAGCTGCATCGACTGGAACC  31592
+                     |.|| |.|.|||||| |...|||  |..||||||||.||.||||||||||
+c153117146-15  23660 CTCC-AGTTTGGCCC-CTTGTGCATCTGCAGAGCTGTATTGACTGGAACC  23707
+
+17249098-1728  31593 GTGAGGTGCTGAAGCGGGAGCTGGGCCTGGCAGAGTGTGACATCATTGAC  31642
+                     ||||||||||||||||||||||.|||||||..|||.|.||||||||||||
+c153117146-15  23708 GTGAGGTGCTGAAGCGGGAGCTAGGCCTGGGGGAGAGCGACATCATTGAC  23757
+
+17249098-1728  31643 ATCCCACAGCTCTTCAAGACCGAGAGGAAAAAAGCAACGGCCTTCTTCCC  31692
+                     ||||||||||||||||||.|.||||.||..||.||...|||.||||||||
+c153117146-15  23758 ATCCCACAGCTCTTCAAGTCGGAGAAGAGGAAGGCGGTGGCGTTCTTCCC  23807
+
+17249098-1728  31693 TGACTTGGTGAGGGCACTACCCATGACTCCT-----TTGCCAAATCAGGC  31737
+                     .|||.|||||||..|.|.||||  |.|.|||     |||           
+c153117146-15  23808 GGACCTGGTGAGTTCCCCACCC--GGCACCTGGGTGTTG-----------  23844
+
+17249098-1728  31738 TGCAAAC-CTCTAAGCTCGAGAGAGGAAAAATGTCTGGT-CACAGTCATA  31785
+                     ||..||| .|.|||.|| || |.|||  |.||.|||..| |||       
+c153117146-15  23845 TGGTAACTATTTAATCT-GA-ATAGG--AGATTTCTATTCCAC-------  23883
+
+17249098-1728  31786 TTTAG-GATTGTGGTGGCCAGTGGGGGTGGCAG-----------------  31817
+                     .|||| ||||       .||||     |..|||                 
+c153117146-15  23884 CTTAGAGATT-------TCAGT-----TCCCAGATAAAAGACACAAAACG  23921
+
+17249098-1728  31818 -GGAGAATCAGGGGTCCTATGGTGCTCCTCAGAAGGGCTTCTAGCTGGCT  31866
+                      |||.|.|         |||..|.|.|||.|||                 
+c153117146-15  23922 TGGATATT---------TATAATACGCCTTAGA-----------------  23945
+
+17249098-1728  31867 GACCACCATGGTCCCTGTGGAATGCTTGCTGGCCA-AGCCCTGGCCCAAG  31915
+                        ||.||        ||.||      |||||.|| |..|||..||    
+c153117146-15  23946 ---CAGCA--------GTAGA------GCTGGGCAGATACCTACCC----  23974
+
+17249098-1728  31916 GGGCATC--AGGGAAGGGGTCCACTTGACATTTGTGGAGTGAATGAATGA  31963
+                          ||  ||..|..|.|||.||||..|..||.||       |||  ||
+c153117146-15  23975 -----TCTAAGCTATTGCGTCTACTTCCCTATTCTG-------TGA--GA  24010
+
+17249098-1728  31964 TTGCATGAGGTCACGTGTGCA--AAGCACATGGCATCAGCTGGGAACCCA  32011
+                     ||     |.|||| || |.||  .|| |.|||.|.|          ||| 
+c153117146-15  24011 TT-----ATGTCA-GT-TACACCGAG-ATATGACTT----------CCC-  24041
+
+17249098-1728  32012 GATGCTCATTCTG---CTCTCTTCCTCCCAGCTTGTGGCTCTTCATCCAT  32058
+                      |||.||...|||   |.|||||.||||     .||||        |||.
+c153117146-15  24042 -ATGTTCCGCCTGGGCCACTCTTACTCC-----AGTGG--------CCAG  24077
+
+17249098-1728  32059 CCCACATGTATTTAGGGTGTCCTGTGGCAGATGCAGAGATGA----TTAA  32104
+                     |||.||||          |||..|.|.|||          ||    |||.
+c153117146-15  24078 CCCTCATG----------GTCAGGCGTCAG----------GACCCCTTAC  24107
+
+17249098-1728  32105 GAA------------TGCCCCCTGCTCTCAAGGGACTTTCAGTCTAATCG  32142
+                     ..|            |.||||||.|..|        ||||.||||     
+c153117146-15  24108 CCACGACGTCTTCTCTTCCCCCTACCTT--------TTTCTGTCT-----  24144
+
+17249098-1728  32143 GTTGAGAGGGAAACTCTTCCCTTCT--CTGAGGACATGTC------CCAG  32184
+                                   |||.||||.||  ||.||.|| ..||      ||||
+c153117146-15  24145 --------------TCTCCCCTGCTAACTCAGAAC-CCTCCCACCTCCAG  24179
+
+17249098-1728  32185 TGAT------------CTATTTTGTAG--GATAAGGCGATGTGGCAGTTT  32220
+                     ||||            ||.||.|.|||  .|||    |.|||  ||.||.
+c153117146-15  24180 TGATTGGCTGTAGCCACTTTTATTTAGCCAATA----GTTGT--CAATTA  24223
+
+17249098-1728  32221 GG-----AGGTGAG-ACAAAGCACTTCCAGCCTAAG-AGGTAGAACTG-G  32262
+                     .|     ||||..| ||||        |||   ||| .|||  ||||| |
+c153117146-15  24224 AGGAACAAGGTTTGCACAA--------CAG---AAGCTGGT--AACTGTG  24260
+
+17249098-1728  32263 AGA------TCCAGG---AAGTCTTCATGG---AAGAAGTGGCTTT----  32296
+                     |||      |..|||   ||..||||| ||   ||.|..|.||.||    
+c153117146-15  24261 AGAATTCACTGTAGGCTTAAACCTTCA-GGTACAAAATTTAGCATTACGG  24309
+
+17249098-1728  32297 -----------TGACTGAGCCT-----TGAGGGCTTTGCCTCTGATGCTT  32330
+                                .|||.||.|||     .|.||||||  ||||   .|||.
+c153117146-15  24310 TACACAGCAACAGACCGAACCTCAACACGTGGGCTT--CCTC---GGCTA  24354
+
+17249098-1728  32331 GTAAATCTTTTTTTCTTTTTTTCTTTTTTTTTTTTTGAGACGGAGTCTCA  32380
+                     |  |.|||                                  ||||||||
+c153117146-15  24355 G--ACTCT----------------------------------GAGTCTCA  24368
+
+17249098-1728  32381 C-TCTGTTGCCCAGGCTGGAGGGCAGTGGCACAATCTCAC-----TCAC-  32423
+                     | ||||       ||  |||.|||         ||||.||     |||| 
+c153117146-15  24369 CTTCTG-------GG--GGAAGGC---------ATCTGACTTCCATCACA  24400
+
+17249098-1728  32424 --TGCA---------ACCTCAGCCT----------CCAGGGTTCAAGCGA  32452
+                       ||.|         |||...|.||          |||||||.|.|  |.
+c153117146-15  24401 GATGAAATTGTGGTGACCAGTGGCTGTAAGGAGAACCAGGGTCCCA--GG  24448
+
+17249098-1728  32453 TTCTCCTGCCTCA-------GCCTCCTGAGTAGCT-------------GG  32482
+                     ||..||.|.||.|       ||.||||  ||.|||             ||
+c153117146-15  24449 TTGCCCAGGCTGACATTGTGGCTTCCT--GTGGCTGCCCGTGGAAGAAGG  24496
+
+17249098-1728  32483 GA-----TT-------GTGGGAT--------------------------T  32494
+                     ||     ||       ||||.||                          |
+c153117146-15  24497 GACACATTTGATATCCGTGGCATGAAGTAAAGTTGCCCAAGATCGTGTGT  24546
+
+17249098-1728  32495 GCAGG---CGT-GCACCACCACGCCCGGCTAATTTCTGTATTTTTAGTAG  32540
+                     |||||   ||| |||.|||    ||.||                 |||.|
+c153117146-15  24547 GCAGGATACGTGGCATCAC----CCAGG-----------------AGTTG  24575
+
+17249098-1728  32541 AGATGGAGTTTTGCCATGTTGGCCAGGCTGGTCTTGAGCTCCTGACCTCC  32590
+                     ||..||                   |.|||  |||  |||.|||.|||| 
+c153117146-15  24576 AGGGGG-------------------GTCTG--CTT--GCTTCTGTCCTC-  24601
+
+17249098-1728  32591 GGTGATCCACCAG-CCTCGGCCTCCCAAAGTGCTGGGATT--------AC  32631
+                              |||| .||.|||..||||            |        ||
+c153117146-15  24602 ---------CCAGTTCTTGGCTGCCCA------------TCACCCCACAC  24630
+
+17249098-1728  32632 AG--GCGGAAGCCACCGT-------------------GCTTGG--CCTGC  32658
+                     ||  ||.||.|.| ||||                   |..|||  |||||
+c153117146-15  24631 AGATGCAGATGTC-CCGTAGGGAACAGAGATCATTAAGAATGGTCCCTGC  24679
+
+17249098-1728  32659 TTCTAAATCTTGAG------CTTGCC-------TTTGAAACACCTGGACA  32695
+                     |.|..|   .||||      |||.||       |.|||       |||||
+c153117146-15  24680 TCCCCA---GTGAGGGGACCCTTTCCTCGTGTGTCTGA-------GGACA  24719
+
+17249098-1728  32696 GGTGGGGCCCCACCCCAGCGGTCCTG---ATTCAGCAGGTCTAAAG----  32738
+                          .||.|||.||.|   .|.|||   ||...|.|||..|||.|    
+c153117146-15  24720 -----TGCTCCAACCAA---CTACTGTGTATGGTGAAGGGATAAGGGGTC  24761
+
+17249098-1728  32739 ----CACGGCCCGAGGCACTGCTGCCGCGCTAACAAA-------CACCC-  32776
+                         |||.|.|  |||                |||||       ||.|| 
+c153117146-15  24762 AACTCACAGAC--AGG----------------ACAAAGTGAAGCCAACCT  24793
+
+17249098-1728  32777 -AGGT-GGTGCTGATGCTGCCTTTTAGAGGAACACAGTTTGAGTAGCACT  32824
+                      ||.| ||.||.|| |.|.||    |||||            |..||||.
+c153117146-15  24794 GAGATAGGGGCAGA-GATCCC----AGAGG------------GCTGCACA  24826
+
+17249098-1728  32825 GCTATAGGTCAC------------CCAGC-TCCCCTCTCCACT-CCTCCC  32860
+                     | .|.|||||.|            |.||| ||.|||||.| || |||..|
+c153117146-15  24827 G-AAGAGGTCCCTTTAATGAAACTCTAGCTTCACCTCTGC-CTCCCTGGC  24874
+
+17249098-1728  32861 CACC-----TCATCCCCTAAAAGAACTCAATTTGCCCATTGTCAGAGCCT  32905
+                     ||||     ||.|.||        |||||      ||||..||.||||||
+c153117146-15  24875 CACCAACTGTCCTTCC--------ACTCA------CCATCCTCTGAGCCT  24910
+
+17249098-1728  32906 TGTGGGGAACCTGTCCAC--ACC--ACCAT----TG-------CTTCATG  32940
+                               .|.|||||  |||  |||.|    ||       ||||.|.
+c153117146-15  24911 ----------GTATCCACCAACCTAACCCTGACCTGGCCCTCCCTTCCTT  24950
+
+17249098-1728  32941 CCCCGCTTTTTCCTTCCT--CTTTTCAGGCAACATTTTGCCCTCCGCTTG  32988
+                     ||       |||||||||  |||.||.||   |.|||||||| |.|||||
+c153117146-15  24951 CC-------TTCCTTCCTTCCTTCTCTGG---CTTTTTGCCC-CAGCTTG  24989
+
+17249098-1728  32989 CAAAGCCTCT-TTTCACTCCCCTTCCTTCC-----TGTTCGAGGCTATCT  33032
+                     ||||||.||| |||.|| ||||||||||||     ||.|.|.|||...||
+c153117146-15  24990 CAAAGCTTCTCTTTGAC-CCCCTTCCTTCCTAACATGCTTGGGGCAGCCT  25038
+
+17249098-1728  33033 TGTAATTATA--TATGTGCCCCAAGAAGTTTGTGCAATGATTCAGGTTCT  33080
+                     |||||||| |  .|.||||.||..|||||||||||||.|.||.|||||||
+c153117146-15  25039 TGTAATTA-ACCCACGTGCTCCCGGAAGTTTGTGCAAGGGTTGAGGTTCT  25087
+
+17249098-1728  33081 TGTGTTCGCAAGAGACAGAGTCCTACTGAAGCCAGCTTCAGCCAGAGGGA  33130
+                     |||||..||.|||.||||||.|||||..||||..|| .||||||||.|||
+c153117146-15  25088 TGTGTGGGCTAGAAACAGAGGCCTACCCAAGCTGGC-CCAGCCAGATGGA  25136
+
+17249098-1728  33131 GTCTTAATATAAGGACAC-CAGAAACCTGAGGG-CAGGATAGCT------  33172
+                     |..||  .|.|||||||| ..||.|.||||||| ..|||.||||      
+c153117146-15  25137 GGTTT--GACAAGGACACTGTGACATCTGAGGGTGGGGACAGCTATGGCA  25184
+
+17249098-1728  33173 -GC-----AGCAGAGCCTGGAACCCTCTCTGTTTCTGTGTCTACATCATT  33216
+                      ||     ||||..|||||||.|.||||| .||||.|    |.||| ||.
+c153117146-15  25185 AGCGTTTTAGCATGGCCTGGAGCTCTCTC-ATTTCAG----TCCAT-ATC  25228
+
+17249098-1728  33217 CATTCTCTCTCTT-----TCTCT----CACCCTCTC--------------  33243
+                     |.||| ||||.||     |||||    |||.|||||              
+c153117146-15  25229 CCTTC-CTCTGTTTTATCTCTCTGCCGCACTCTCTCCTTTGCTGTTCTGC  25277
+
+17249098-1728  33244 --------------------------------------------------  33243
+                                                                       
+c153117146-15  25278 AGACACAAATGCTGCAAACAGACACAAATGCTGCAAACAGACACAAATGC  25327
+
+17249098-1728  33244 ----------CAC-----CT---------------CCT-----ACTTCTT  33258
+                               |||     ||               |||     |||| ||
+c153117146-15  25328 TGCAAACAGACACAAATGCTGCAAACAGACAAATGCCTTAGTGACTT-TT  25376
+
+17249098-1728  33259 CTCCCTCT------------------------------------------  33266
+                     ||.|..||                                          
+c153117146-15  25377 CTACTGCTGTGACAAAGCACCATGACTGAGACAATCATATAGAAGAAAAC  25426
+
+17249098-1728  33267 -----------TCTTCCAGCTT----------------------------  33277
+                                .|||.||||||                            
+c153117146-15  25427 ATTTGATGAGGGCTTACAGCTTAAGAGACTGAGTTCATGACCTTTAGGAC  25476
+
+17249098-1728  33278 --------------------------------------------------  33277
+                                                                       
+c153117146-15  25477 TGGGAGCACAGCAGCAGGAAGGCAGGCATGGCACTGGAGCAGTAGCTGAG  25526
+
+17249098-1728  33278 --------------------------------------------------  33277
+                                                                       
+c153117146-15  25527 ACTTGACATCTGATCCACCAGTGGGAGGCAGATAGAGTTGCCTGGGAATG  25576
+
+17249098-1728  33278 -----GGCT-----------------------------------------  33281
+                          ||||                                         
+c153117146-15  25577 GTGTGGGCTTTTTGAAAGCTCAAAGCTTACCCTAGTGACACACCTCCTCC  25626
+
+17249098-1728  33282 --------------TCCTT--TGCTTC----TCTGTTC------CTGGGG  33305
+                                   |||||  |.||||    .|.||||      ||||||
+c153117146-15  25627 AACAAGGCCACACCTCCTTAATCCTTCCCAAACAGTTCCACCAGCTGGGG  25676
+
+17249098-1728  33306 -----------ACAAAGATGAG------------------------TATG  33320
+                                |||.|.|||||                        .|||
+c153117146-15  25677 CCCAAGCTTTCACATATATGAGGCTCATTCAAACGACCACAGTGACCATG  25726
+
+17249098-1728  33321 GCCATGCACAGAGACACTGACACGG----GCAGAGACCAA---CTAGACG  33363
+                     ||||||   |||..||       ||    |||.||||.||   |.||||.
+c153117146-15  25727 GCCATG---AGATGCA-------GGCCCTGCATAGACAAAGACCGAGACT  25766
+
+17249098-1728  33364 CTCCCATTGTC-AGTTTCAAATTCCTGGGAGAGGGACTCTGATTGGTCCA  33412
+                     |.|||| ||.| |.|.|.||.||||||||||||.||.||||||||||.||
+c153117146-15  25767 CCCCCA-TGCCAACTCTTAACTTCCTGGGAGAGAGAATCTGATTGGTTCA  25815
+
+17249098-1728  33413 TCTTGGACCAGCTGTTCTCCCTGGCCCAATC--AGTTATGGCCTAGAAGG  33460
+                     ||||||| ||||||||...|.|||.||||||  |||||  ||||||.|||
+c153117146-15  25816 TCTTGGA-CAGCTGTTTAACTTGGTCCAATCAGAGTTA--GCCTAGGAGG  25862
+
+17249098-1728  33461 TTGGGATTCTGCAGCACAAACATGGCAGCTGCCACAATCCACAATTCCAA  33510
+                     |.|||..||..|...|||||||||||.||...||||.|||          
+c153117146-15  25863 TCGGGCCTCCTCCTAACAAACATGGCCGCCAGCACAGTCC----------  25902
+
+17249098-1728  33511 ATTCA--CATTAGGGCAGTTTCCAGAGCACGTTGCCAGAGTGAGTTCTGC  33558
+                      .|||  .||.||||||| |..|.|.|.|.||..|.||..|..|.|.|||
+c153117146-15  25903 -GTCAGTGATGAGGGCAG-TGGCTGGGGAAGTCACAAGCCTTGGCTGTGC  25950
+
+17249098-1728  33559 GGA------TGCTCCCAAAGGCACCTGGCTAACCGGTTCTTCCCAGCCCC  33602
+                     .||      ||||      ||...|||..|.||.||.|| ||||||||  
+c153117146-15  25951 AGATCCCTCTGCT------GGTGTCTGATTCACTGGCTC-TCCCAGCC--  25991
+
+17249098-1728  33603 TTTAGCCAGTTACCTTCTCATTGCACAGGAAAGGGTGAGTAG--CTATTG  33650
+                        ||   |||.|| |.|||...||||||||.|.|..||.||  ||||| 
+c153117146-15  25992 ---AG---GTTTCC-TATCACCACACAGGAATGAGCAAGCAGACCTATT-  26033
+
+17249098-1728  33651 ACAAGGCTGTCTAAAACACAAACCTAGGTCCTGCAGGTAGAGTAGAGGTG  33700
+                      .|||||||.|| ..|.|.||.||.||.|.||.|                
+c153117146-15  26034 -TAAGGCTGCCT-GGAGATAATCCCAGATTCTCC----------------  26065
+
+17249098-1728  33701 TGGGG-TGGGAGCCCAGTGATG--AAGTGCTGC-----TTCC-CCTTTGG  33741
+                     ||||| ||     ||||.||.|  ||||..|||     |||| |||.| |
+c153117146-15  26066 TGGGGCTG-----CCAGGGAGGGAAAGTAATGCTGAGTTTCCGCCTCT-G  26109
+
+17249098-1728  33742 A-----------------CTGCAGGTGAACATGCTGGTGCTGGGGAAGCA  33774
+                     |                 |.||||||||||||||||||.|||||.|||||
+c153117146-15  26110 ATCGGGGCCCCTACCTTCCCGCAGGTGAACATGCTGGTACTGGGCAAGCA  26159
+
+17249098-1728  33775 CCTGGGCATCCCCAAGCCCTTTGGGCCCATCATCAATGGCTGCTGCTGCC  33824
+                     ||||||||||||.||||||||.||||||||||||||||||.|||||||||
+c153117146-15  26160 CCTGGGCATCCCTAAGCCCTTCGGGCCCATCATCAATGGCCGCTGCTGCC  26209
+
+17249098-1728  33825 TGGAGGAGAAGGTGCGGTCCCTGCTGGAGCCGCTGGGCCTCCACTGCACC  33874
+                     ||||||||||||||||.||||||||||||||||||||.||.|||||||||
+c153117146-15  26210 TGGAGGAGAAGGTGCGCTCCCTGCTGGAGCCGCTGGGTCTGCACTGCACC  26259
+
+17249098-1728  33875 TTCATTGATGACTTCACTCCATACCACATGCTGCATGGGGAGGTGCACTG  33924
+                     |||||||||||||||||.||.||||||||||||||.||||||||.|||||
+c153117146-15  26260 TTCATTGATGACTTCACACCGTACCACATGCTGCACGGGGAGGTTCACTG  26309
+
+17249098-1728  33925 TGGCACCAATGTGTGCAGAAAGCCCTTCTCTTTCAAGTGGTGGAACATGG  33974
+                     |||||||||.|||.||.|..|||||||..|.||||||||||||.||||||
+c153117146-15  26310 TGGCACCAACGTGCGCCGGGAGCCCTTTGCCTTCAAGTGGTGGCACATGG  26359
+
+17249098-1728  33975 TGCCCTGAGACAGCTC-CCACCCA----CCATCCTGTCCCCCTGGGGCGG  34019
+                     ||||||||| |.||.| |||||||    |||||| |||||||.||...||
+c153117146-15  26360 TGCCCTGAG-CCGCCCGCCACCCATCCCCCATCC-GTCCCCCAGGATAGG  26407
+
+17249098-1728  34020 GCATTGGCCCAGGTGGTGGAGACAGAGACAGGCCCCTGAACGATAAGCAC  34069
+                     ||||..||||.|..|||||||||.|.|||||.||||.|       |||||
+c153117146-15  26408 GCATCCGCCCGGCAGGTGGAGACTGCGACAGACCCCAG-------AGCAC  26450
+
+17249098-1728  34070 CAAGAGACCCCAAGGCTCCAGATGGAACACTGAGGGTGACCGTC---CCT  34116
+                     |.||||||.||.||..||.|||..|||         |||||  |   |.|
+c153117146-15  26451 CCAGAGACTCCCAGTTTCTAGACTGAA---------TGACC--CAAGCTT  26489
+
+17249098-1728  34117 CTCAGAAGCCTTTTCCCTGGAAGTGTCCATGCCT-CACCTGCAACCCATG  34165
+                     |||||||||||||||.||.|||.|||||  ||.| |||||||..|||||.
+c153117146-15  26490 CTCAGAAGCCTTTTCTCTTGAAATGTCC--GCATCCACCTGCTGCCCATT  26537
+
+17249098-1728  34166 TGGTTCTCAGACTTGAATCTTCTCG--GCCCCCCAAAAAGAAGGACCTCA  34213
+                     ..||||.|||||.||||||.|||.|  ||||||   ||||||||..|.||
+c153117146-15  26538 CAGTTCCCAGACATGAATCCTCTTGGTGCCCCC---AAAGAAGGGTCCCA  26584
+
+17249098-1728  34214 TTTCTTATAGC----CTCTCCTGTGATTCAACACAACCCATGGAGAT---  34256
+                     |.||    |.|    ||||||||.|..||.|.|..|.||||||.|||   
+c153117146-15  26585 TGTC----AACCAAACTCTCCTGCGGGTCGAGATGATCCATGGGGATAAC  26630
+
+17249098-1728  34257 -----GTCCCCTTCTC-------------------ACTCTGAAA-TCATC  34281
+                          .|.||.|||.|                   ||||..||| ||.||
+c153117146-15  26631 TTTAAATACCATTCACCCCCCCCCCACCCCCGCAAACTCCAAAACTCCTC  26680
+
+17249098-1728  34282 CATTTGGGGACAAATCCACATTGGG-GTCTAGAAACATCCACGTATCTCA  34330
+                     ..|.||||||.||||||.| ||||| .|||||||.|||..||        
+c153117146-15  26681 TTTGTGGGGAAAAATCCGC-TTGGGTATCTAGAAGCATTGAC--------  26721
+
+17249098-1728  34331 TCAGCCATCTTGTCCTGTGCATCCTAACAGAGGAAGGATCCATGATTC--  34378
+                             ||||.|.|||||.|||| |..|.||||||   |.||...|  
+c153117146-15  26722 --------CTTGGCTTGTGCTTCCT-ATGGTGGAAGG---CCTGGGGCGG  26759
+
+17249098-1728  34379 ----------------TGCTTTGGTCCAATTGCTTCCT-CTCTGCAGAGG  34411
+                                     ||.|||||  |.|||||.|||| |.||||||.||
+c153117146-15  26760 TGGGGGTTGGTGGGGTTGTTTTGG--CCATTGCCTCCTGCCCTGCAGGGG  26807
+
+17249098-1728  34412 AACAACCC------TAAAACCAGAC-----CACTCCACGCAGGAC-AGGC  34449
+                     |             ||||..|||||     |||.|| |.||..|| .|.|
+c153117146-15  26808 A-------TGGTTGTAAAGTCAGACTATTTCACACC-CTCACTACTCGAC  26849
+
+17249098-1728  34450 AGGAGAGATTCTTCCTAAAGCCTCCCCCATAAAAAGGGAG--CTGTGGAT  34497
+                     ..|||.||.|||      |.||||||        |||.||  |...||.|
+c153117146-15  26850 TAGAGGGAGTCT------ACCCTCCC--------AGGAAGCACCCCGGGT  26885
+
+17249098-1728  34498 CCACTTAGATCAGGGCGGAACCATC-TTTCACCCGGCCAAGCTCCTGCCC  34546
+                     |||.|.||.|||..|.|...||||| |.||..|.|  ||||||||.| .|
+c153117146-15  26886 CCATTCAGGTCAAAGTGTGTCCATCATGTCCACTG--CAAGCTCCCG-GC  26932
+
+17249098-1728  34547 AGATGTTGACCCTC----------ACCCAGC------------------G  34568
+                     ||     ||||..|          |.|||||                  |
+c153117146-15  26933 AG-----GACCGGCCTTTACTGCAAGCCAGCCTGGGCTATCACACGGTGG  26977
+
+17249098-1728  34569 TGAGCTGTCACATAGTAGGAGCTTCTAGATGCATGTGGAAGCAATGAGAG  34618
+                     .||.||||||||.|.|.||..|.|||||||||.|.|    |||||||.||
+c153117146-15  26978 GGACCTGTCACACAATGGGGACCTCTAGATGCTTTT----GCAATGACAG  27023
+
+17249098-1728  34619 TTGTCCCTTAGCCTTATAAACTCCCCATGATCTGACATGCAGAAATCCAG  34668
+                     .|||||||||||.||..|..||.|||||.|||.||..|...|.||||..|
+c153117146-15  27024 ATGTCCCTTAGCTTTCCAGGCTTCCCATCATCCGATGTCTGGGAATCTGG  27073
+
+17249098-1728  34669 CCTTGTCCAGAATCCTCCTGGAATTTCT-TGGAGACGAAAGTATCTGGGG  34717
+                       ||||||| ||||||..||||.||||| ||       ||||        
+c153117146-15  27074 --TTGTCCA-AATCCTTTTGGAGTTTCTCTG-------AAGT--------  27105
+
+17249098-1728  34718 GATTG-TTGGGTACTAGGGAGACTGGGT--ACAAGGGTGAAAAGTAGTTC  34764
+                     ||.|| |||||     |||   ||||.|  .||.|||.| ||.|...|||
+c153117146-15  27106 GAATGATTGGG-----GGG---CTGGATTCCCAGGGGAG-AACGCCTTTC  27146
+
+17249098-1728  34765 CCATAATACACATGG-TTGACTAT-GGTGATCCACCTTGTGATGGTTAAT  34812
+                     |  |||.|||   || |||||..| ||.|..|||||.|.|||.||     
+c153117146-15  27147 C--TAAGACA---GGATTGACCCTCGGGGTCCCACCATCTGAAGG-----  27186
+
+17249098-1728  34813 ATTAGGTGTCTGGAGAAGGTTGCTTCATTGGC---CCTGGGACTTCTCTC  34859
+                                      ||||.||.|||..||   ||||||  ..||||.
+c153117146-15  27187 -----------------GGTTCCTCCATCAGCTTGCCTGGG--GGCTCTG  27217
+
+17249098-1728  34860 TGCAGGAGGAGAGAACGCTGCCTCTCCTCTGGATTGGTCTCAG------G  34903
+                     |||| |||||||             ||.|.||.|  |.||.||      |
+c153117146-15  27218 TGCA-GAGGAGA-------------CCCCAGGCT--GACTTAGCCCAGAG  27251
+
+17249098-1728  34904 CTCTCTGTTGGCCTTTGGTCAGCGTTTCCACATCCTGCTCTGCTGCAGGA  34953
+                     |..|||    ||||.|  .||||       ||||        |.|.||.|
+c153117146-15  27252 CCTTCT----GCCTAT--ACAGC-------CATC--------CCGTAGTA  27280
+
+17249098-1728  34954 GAGG---GGGCTAAGGG----GCTGGAT-CCACCAAGGCAGCTCACAGCG  34995
+                     ||||   |||  |||.|    .||||.| |||.||||||||..|..||.|
+c153117146-15  27281 GAGGCCCGGG--AAGTGCCACCCTGGGTGCCATCAAGGCAGGACTTAGAG  27328
+
+17249098-1728  34996 GG------AAAACTCTGGGAATGAACCACTGAATTCAGGGGATGGGGGTG  35039
+                     ||      ||..||||         ||||   ||.|      ||||.|..
+c153117146-15  27329 GGACAGTTAAGCCTCT---------CCAC---ATAC------TGGGAGAA  27360
+
+17249098-1728  35040 GGGGGGCGGTTCTCGAGGTG--TGTGCCAGCTACACGTGTGTTCTGTATG  35087
+                     |||.||        ||.|||  |||..|||   .|.|.||.|||||  ||
+c153117146-15  27361 GGGAGG--------GATGTGGCTGTCTCAG---TATGGGTCTTCTG--TG  27397
+
+17249098-1728  35088 GGTCCAGCTGCGTTTCCATCACTCGCTAATAAAT-CAACAGA  35128
+                     .||.||||||              ||.||.|||| .||||||
+c153117146-15  27398 AGTTCAGCTG--------------GCCAAAAAATAAAACAGA  27425
+
+
+#---------------------------------------
+#---------------------------------------
