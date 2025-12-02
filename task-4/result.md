@@ -69,3 +69,18 @@ ray 4000,2080
 png domain_coloring.png, dpi=300
 ```
 ![Domain](domains_coloring.png)
+
+```pymol
+set ray_trace_mode, 1
+set antialias, 2
+set ray_shadow, 0
+bg_color white
+show cartoon, all
+util.cbc
+ray 5000,4000
+png publication_quality.png, dpi=300
+```
+
+![publication_quality](publication_quality.png)
+
+
