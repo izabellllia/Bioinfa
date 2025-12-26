@@ -1,4 +1,4 @@
-Ссылка на блокнот: https://colab.research.google.com/drive/1MwyWo_DBA3fu66NK15CFViQ5GkCmDilf?usp=sharing
+БЛОКНОТ: op.ipynb
 
 1. Информация о препарате Омепразол
 
